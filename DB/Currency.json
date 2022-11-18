@@ -1,0 +1,495 @@
+{
+  "Item_Gold": {
+    "name": "Gold",
+    "description": "This coin, minted from tin and gold, is currently the most popular currency across the land.",
+    "icon": "jinbi"
+  },
+  "Item_FakeDiamond": {
+    "name": "Dark crystal",
+    "description": "Contains unstable energy and is sometimes used as a power source. One of the currencies redeemable for items in the Store.",
+    "icon": "fakediamonds"
+  },
+  "Item_Diamond": {
+    "name": "Tanium",
+    "description": "Stable crystals, most commonly used for energy supply. One of the currencies redeemable for items in the Store.",
+    "icon": "diamonds"
+  },
+  "Item_Achievement": {
+    "name": "Achievement",
+    "description": "Points gained after accomplishing an achievement. Accumulate achievement and claim rewards on the achievement page.",
+    "icon": "chengjiudian"
+  },
+  "Item_VeraCoin": {
+    "name": "Mira",
+    "description": "The currency issued by and circulates in Mirroria. Can be used on vending machines, service stations, restaurants, and other facilities across Mirroria.",
+    "icon": "vera_coin1"
+  },
+  "None": {
+    "name": "Activation Core II",
+    "description": "A rare live bio-sample, with great research value.",
+    "icon": "yongzhehuodong02"
+  },
+  "Item_Guildcontribution": {
+    "name": "Crew contribution",
+    "description": "    For record purposes only.",
+    "icon": "gongxian"
+  },
+  "EquipFragment": {
+    "name": "Base chip",
+    "description": "Raw material processed through complex procedures for chip production. Redeemable for Matrix chips.",
+    "icon": "matrixfragment"
+  },
+  "item_GreatRegression_coin": {
+    "name": "Proof of Stellarway",
+    "description": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
+    "icon": "UI_30Day_Icon"
+  },
+  "Item_VeraCoinRare": {
+    "name": "Veron",
+    "description": "Old Mirroria currency that is already out of circulation. It's said that you can still use these coins on some gachapon machines.",
+    "icon": "vera_coin2"
+  },
+  "Blindbox_coin_01": {
+    "name": "Spring Stamp",
+    "description": "Stamps come with the apricity giftbox. It's always a ritual to collect the stamps and apply them.",
+    "icon": "Blindbox_coin_01"
+  },
+  "Item_Enlightenment": {
+    "name": "Star Grit",
+    "description": "Scattered debris that fell along with the other planet from above. Reflects the luster of the stars.",
+    "icon": "UI_icon_huobi_xingli"
+  },
+  "Item_Reputation1": {
+    "name": "Astra bounty coin",
+    "description": "Minted with unique craftsmanship, featuring a relief of a crashed airship. Can be used to exchange for special items.",
+    "icon": "shangjin_1"
+  },
+  "Item_toy_1": {
+    "name": "Purple Fox Doll",
+    "description": "Prize from the Skill Crane.",
+    "icon": "CatchDoll_P4"
+  },
+  "Item_toy_2": {
+    "name": "Robo Monkey Doll",
+    "description": "Prize from the Skill Crane.",
+    "icon": "CatchDoll_P3"
+  },
+  "Item_toy_3": {
+    "name": "Raccoon Dog Doll",
+    "description": "Prize from the Skill Crane.",
+    "icon": "CatchDoll_P2"
+  },
+  "Item_toy_4": {
+    "name": "Black Cat Doll",
+    "description": "Prize from the Skill Crane.",
+    "icon": "CatchDoll_P1"
+  },
+  "Item_AssistContribution": {
+    "name": "Support points",
+    "description": "Awarded to those who helped new Wanderers. Imprinted with an image for mutual support. Join Team Support System to get.",
+    "icon": "zhulidian"
+  },
+  "Item_Static_01": {
+    "name": "Vitality",
+    "icon": "huoli"
+  },
+  "Item_SummerCoin_01": {
+    "name": "Heat Wave Coin",
+    "description": "A token obtained from Graceday celebration in Banges Port. The passion of Banges' residents that handcrafted them still remains within them. As Graceday's official currency, they can be exchanged for rewards at the booths in all major markets.",
+    "icon": "SummerCoin_01"
+  },
+  "WeaponFragment": {
+    "name": "Black gold",
+    "description": "Token forged by smiths from old Omnium weapons. Circulated only in special markets. Redeemable for weapons.",
+    "icon": "weaponfragment"
+  },
+  "GenePointItem_Attack": {
+    "name": "Originum (Attack)",
+    "description": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+    "icon": "jysicon"
+  },
+  "Item_Guildcapital": {
+    "name": "Crew fund",
+    "description": "For upgrading Crew structures.",
+    "icon": "gonghui"
+  },
+  "Item_PrimaryEnergy_2": {
+    "name": "Energy Crystal Dust",
+    "description": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+    "icon": "Energy"
+  },
+  "item_GuildMeritorious": {
+    "name": "Merit",
+    "description": "Obtained from Crew events to redeem items in the Crew Store.",
+    "icon": "gongxian"
+  },
+  "Item_LifeCrystal": {
+    "name": "Life Crystal",
+    "description": "Dropped by creatures on the Artificial Island. Use them to exchange for items from vending machines.",
+    "icon": "shengming"
+  },
+  "HomeOre": {
+    "name": "Metal Material",
+    "description": "Collected from machine pods or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store Workshop and building upgrades.",
+    "icon": "HomeOre"
+  },
+  "HomePumpkin": {
+    "name": "Fiber Material",
+    "description": "Collected from the Pumpkin House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+    "icon": "HomePumpkin"
+  },
+  "HomeRattan": {
+    "name": "Energy Material",
+    "description": "Collected from the Pawpaw House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+    "icon": "HomeMeat"
+  },
+  "HomeMeat": {
+    "name": "Supply Materials",
+    "description": "Collected from the Kitty House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+    "icon": "HomeFishBones"
+  },
+  "HomeTwigs": {
+    "name": "Accessory Materials",
+    "description": "Collected from the Turtle House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+    "icon": "HomeShell"
+  },
+  "HomeFish": {
+    "name": "Quality Materials",
+    "description": "Dropped by Artificial Island Building Mode creatures (Ravagers, Apophis, Robarg, Barbarossa). Can be used to upgrade the Exchange Store, Workshop, and buildings.",
+    "icon": "HomeTwigs"
+  },
+  "HomeFishBones": {
+    "name": "Composite Materials",
+    "description": "Dropped by Artificial Island Building Mode creatures (Ravagers, Apophis, Robarg, Barbarossa). Can be used to upgrade the Exchange Store, Workshop, and buildings.",
+    "icon": "HomeRattan"
+  },
+  "HomeShellfish": {
+    "name": "Tech Store Token",
+    "description": "A universal token of Banges Tech. Can be exchanged and used in the Exchange Store.",
+    "icon": "HomeShellfish"
+  },
+  "HomeShell": {
+    "name": "Home reserve currency 2",
+    "icon": "HomeShell"
+  },
+  "GenePointItem_Assist": {
+    "name": "Originum (Support)",
+    "description": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+    "icon": "jysicon"
+  },
+  "GenePointItem_Def": {
+    "name": "Originum (Feature)",
+    "description": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+    "icon": "jysicon"
+  },
+  "Item_RegressionCoin": {
+    "name": "Raid coin",
+    "description": " Minted with unique craftsmanship, featuring a mechanical windmill relief. Use them to exchange for resources at the Return Shop.",
+    "icon": "shangjin_3"
+  },
+  "Item_PrimaryEnergy_3": {
+    "name": "Energy Crystal Dust",
+    "description": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+    "icon": "Energy_2"
+  },
+  "Item_PrimaryEnergy_4": {
+    "name": "Energy Crystal Dust",
+    "description": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+    "icon": "Energy_3"
+  },
+  "item_minigamecoin": {
+    "name": "Training points",
+    "description": "Universal points for training.",
+    "icon": "xunliandu"
+  },
+  "Hopkins1": {
+    "name": "Gold-backed card",
+    "description": "Apparently accepted as currency at the Banges Black Market.",
+    "icon": "huohuahexin2"
+  },
+  "item_sharephotocoin": {
+    "name": "Amusement park",
+    "description": "Obtained by playing amusement facilities on the Cetus Island. Use them to exchange for Cetus Island exclusive rewards at Enfi on the island.",
+    "icon": "Item_ticket_baijingdao"
+  },
+  "WeaponFragment_UP1": {
+    "name": "Flame gold (Red Lotus)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP2": {
+    "name": "Flame gold (Flame)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "EquipFragment_UP1": {
+    "name": "Overclocking Chip (Red Lotus)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP2": {
+    "name": "Overclocking Chip (Flame)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "Hopkins2": {
+    "name": "Proof of credit",
+    "description": "You've got to win Hopkins' trust if you want the best goods from his Black Market. Prove yourself a worthy customer.",
+    "icon": "icon_hopkins"
+  },
+  "Item_Incarnation_01": {
+    "name": "Offering points",
+    "description": "Special tokens minted by Hykros to encourage collecting mana bio samples.",
+    "icon": "Incarnation_01"
+  },
+  "WeaponFragment_UP3": {
+    "name": "Flame gold (White Moon)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP4": {
+    "name": "Flame gold (Dawn)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP5": {
+    "name": "Flame gold (Rebirth)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP6": {
+    "name": "Flame gold (Ironheart)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP7": {
+    "name": "Flame gold (Sun)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP8": {
+    "name": "Flame gold (Flow)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP9": {
+    "name": "Flame Gold (Shadow)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP10": {
+    "name": "Flame Gold (Trickery)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP11": {
+    "name": "Flame Gold (Waxen)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP12": {
+    "name": "Flame Gold (Stars)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP13": {
+    "name": "Flame Gold (Decree)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP14": {
+    "name": "Flame Gold (Coalescence)",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP15": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP16": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP17": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP18": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP19": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "WeaponFragment_UP20": {
+    "name": "Flame gold",
+    "description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+    "icon": "weaponfragment_up"
+  },
+  "EquipFragment_UP3": {
+    "name": "Overclocking Chip (White Moon)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP4": {
+    "name": "Overclocking Chip (Dawn)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP5": {
+    "name": "Overclocking Chip (Rebirth)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP6": {
+    "name": "Overclocking Chip (Ironheart)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP7": {
+    "name": "Overclocking Chip (Sun)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP8": {
+    "name": "Overclocking Chip (Flow)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP9": {
+    "name": "Overclocking Chip (Shadow)",
+    "description": "Raw material processed through complex procedures for specific chip production. Redeemable for limited Matrix chips.\r\n—So I can share all the clear night full of stars with everyone...",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP10": {
+    "name": "Overclocking Chip (Trickery)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP11": {
+    "name": "Overclocking Chip (Waxen)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP12": {
+    "name": "Overclocking Chip (Star)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP13": {
+    "name": "Overclocking Chip (Obedience)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP14": {
+    "name": "Overclocking Chip (Merger)",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP15": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP16": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP17": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP18": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP19": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "EquipFragment_UP20": {
+    "name": "Overclocking Chip",
+    "description": "Raw material processed through complex procedures for specific chip production.",
+    "icon": "matrixfragment_up"
+  },
+  "Item_Aida_token": {
+    "name": "Aida Keepsake",
+    "description": "Judgement is nigh. A new day shall dawn in fire.",
+    "icon": "Aida_token"
+  },
+  "Item_Aida_photo_token": {
+    "name": "Encrypted Disk",
+    "description": "A heavily encrypted disk with critical data. Maybe someone in Hykros can crack it...?",
+    "icon": "Aida_photo_token"
+  },
+  "Item_Incarnation_02": {
+    "name": "Proof of Contribution",
+    "description": "The certificate made by the Hykros Logistics Department, which records the efforts and contributions of the Executor.",
+    "icon": "Item_Incarnation_02"
+  },
+  "Blindbox_coin_02": {
+    "name": "Proof of Light",
+    "description": "Commemorative coupons for the Liuguang Motorshow. Hope you can find the most desirable treasures there.",
+    "icon": "liuguanghuobi01"
+  },
+  "mount_006_coin": {
+    "name": "Exhibition Coupon",
+    "description": "A free coupon given to visitors of the Liuguang Motorshow. All experience is worthy of being remembered.",
+    "icon": "liuguanghuobi02"
+  },
+  "Item_PrimaryEnergy_5": {
+    "name": "Spacetime Crystal Dust",
+    "description": "Crystal dust that escaped from the trajectory of spacetime. Seems to be able to affect the stability of spacetime fragments.",
+    "icon": "Energy_4"
+  },
+  "Item_PrimaryEnergy_6": {
+    "name": "Spacetime Crystal Fragments",
+    "description": "These fragments floating in the trajectory of spacetime operations are the products of shattered spacetime.",
+    "icon": "Energy_5"
+  },
+  "activation1": {
+    "name": "Activation Core I",
+    "description": "A rare live bio-sample, with great research value.",
+    "icon": "yongzhehuodong01"
+  },
+  "activation2": {
+    "name": "Revitalized Energy Body",
+    "description": "Revitalized energy body from the defeated raiding target. It may be of great interest to the researchers at Hykros.",
+    "icon": "yongzhehuodong02"
+  },
+  "Item_OrienteeringCoin_01": {
+    "name": "Pacemaker Emblem",
+    "description": "An emblem earned from the Mirroria Tour, hosted by the HOTTA Studio. See Mirroria from an all-new perspective!\r\nCan be redeemed for items from the Mirroria Tour event store.",
+    "icon": "OrienteeringCoin_01"
+  },
+  "Item_Enlightenment_02": {
+    "name": "Star scatter",
+    "description": "Fine shards of stars that refract the light from outer space.",
+    "icon": "Enlightenment_02"
+  },
+  "Item_ChildrensDayCoin": {
+    "name": "Bubbles",
+    "description": "Pew! Pew! Pew!",
+    "icon": "ChildrensDayCoin"
+  },
+  "Item_HiveJumpCoin_01": {
+    "name": "Enigmatic Badge",
+    "description": "The badge given to the HOTTA Studio's Enigmatic Lattice event participants. Come one, come all!",
+    "icon": "HiveJumpCoin"
+  },
+  "item_Regression_AssistContribution": {
+    "name": "Return Support Points",
+    "description": "Awarded to those who helped return Executors. Obtain by teaming up with returning Executors and participating in gameplay.",
+    "icon": "huiguizhulidian"
+  }
+}
