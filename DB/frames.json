@@ -1,0 +1,359 @@
+{
+  "TestAvatarFrame01": {
+    "name": "Metal",
+    "description": "When there is no turning back, there's only one way left to go, and that's forward!",
+    "source": "Basic Avatar Frame",
+    "icon": "AvatarFrame_02"
+  },
+  "TestAvatarFrame02": {
+    "name": "Wreath",
+    "description": "Countless petals sway gently in the wind, carrying colorful dreams and my thoughts.",
+    "source": "Basic Avatar Frame",
+    "icon": "AvatarFrame_01"
+  },
+  "AvatarFrame03": {
+    "name": "Shining Star",
+    "description": "Never envy anyone else's light—you are the most brilliant shining star!",
+    "source": "Obtain by purchasing the First Advanced Pass",
+    "icon": "AvatarFrame_shali"
+  },
+  "AvatarFrame04": {
+    "name": "Leader of Astra",
+    "description": "He's the leader of Astra as well as a brother, just one of the countless ordinary folks wanting to protect their family.",
+    "icon": "AvatarFrame_xiazuo"
+  },
+  "AvatarFrame05": {
+    "name": "Mandrill",
+    "description": "Time for some tricks!",
+    "source": "Exclusive to Streamer",
+    "icon": "AvatarFrame_xuxubaobao"
+  },
+  "kefu": {
+    "name": "Customer Service",
+    "icon": "AvatarFrame_naimeixisi"
+  },
+  "AvatarFrame06": {
+    "name": "Pure Illusion",
+    "description": "\"Don't you go anywhere, I'm not done playing yet!\"",
+    "icon": "AvatarFrame_fulijia"
+  },
+  "AvatarFrame07": {
+    "name": "Call of the Dead",
+    "description": "For your own safety, I don't think you should annoy the lady.",
+    "source": "Obtained by purchasing the Third Advanced Pass",
+    "icon": "AvatarFrame_naimeixisi"
+  },
+  "AvatarFrame08": {
+    "name": "Absolute Authority",
+    "description": "Her order is her will. There's no compromise in her missions.",
+    "source": "Obtain by purchasing the Second Advanced Pass",
+    "icon": "AvatarFrame_xier"
+  },
+  "AvatarFrame09": {
+    "name": "Homeward Wings",
+    "description": "I'll bring you home.",
+    "icon": "AvatarFrame_yixisi"
+  },
+  "AvatarFrame10": {
+    "name": "Lightning Strike",
+    "description": "\"How are you, my target practice?\"",
+    "icon": "AvatarFrame_valkiri"
+  },
+  "AvatarFrame11": {
+    "name": "Executor",
+    "description": "Proving you're a Hykros Executor.",
+    "icon": "AvatarFrame_haijiade"
+  },
+  "AvatarFrame12": {
+    "name": "Tower's Core",
+    "description": "Hope or destruction? Different people hold different perspectives on it.",
+    "icon": "AvatarFrame_hotta"
+  },
+  "meilier": {
+    "name": "Meryl",
+    "description": "Aloof",
+    "icon": "AvatarFrame_shali"
+  },
+  "AvatarFrame13": {
+    "name": "Expert Creator",
+    "description": "Nobody can go back and redo the past, but you can create a new future from now on.",
+    "icon": "AvatarFrame_chuangzuodaren"
+  },
+  "AvatarFrame14": {
+    "name": "SciFi World",
+    "description": "SciFi World December 2021 Issue Collaboration Exclusive Rewards.",
+    "source": "Restricted to SciFi World",
+    "icon": "AvatarFrame_kehuanshijie"
+  },
+  "AvatarFrame15": {
+    "name": "Assistant",
+    "description": "\"Mi-a will send you back to Hykros with a drone if you are defeated.\"",
+    "icon": "AvatarFrame_tata"
+  },
+  "AvatarFrame16": {
+    "name": "Hanging amusement park",
+    "description": "Cetus Island amusement park - have fun like never before!",
+    "icon": "AvatarFrame_kongzhongleyuan"
+  },
+  "AvatarFrame17": {
+    "name": "Champion Shopkeeper",
+    "description": "I don't want to be an Executor. I just wanna make dinner with you, Mi-a!",
+    "icon": "AvatarFrame_Coffee"
+  },
+  "AvatarFrame18": {
+    "name": "Top Construction Team",
+    "description": "Every single drop of sweat and every single brick... I have to record every engineer's contribution to our construction efforts.",
+    "icon": "AvatarFrame_tajian"
+  },
+  "AvatarFrame19": {
+    "name": "Dawn: Morning Light",
+    "description": "The night is darkest before the dawn.",
+    "source": "An Otherworldly Visitor mission rewards.",
+    "icon": "AvatarFrame_make"
+  },
+  "AvatarFrame20": {
+    "name": "Moon: Crossing Light",
+    "description": "May the moon's white light guide you through the dark.",
+    "source": "Limited-edition exclusive from the Terrible Invasion event.",
+    "icon": "AvatarFrame_baiyuekui"
+  },
+  "AvatarFrame21": {
+    "name": "Peace and Joy",
+    "description": "The time has come to hang festive lanterns and welcome the coming spring.",
+    "icon": "AvatarFrame_21"
+  },
+  "AvatarFrame22": {
+    "name": "Tipsy",
+    "description": "Colorful dreams and intoxicating love, all in one piece of chocolate.",
+    "icon": "AvatarFrame_Valentine"
+  },
+  "AvatarFrame23": {
+    "name": "Companion",
+    "description": "Part of the past has become a bubble in memory, but there are still things at hand that can be held tightly and never let go of.",
+    "source": "Available at the Banges Expo event",
+    "icon": "AvatarFrame_023"
+  },
+  "AvatarFrame24": {
+    "name": "Outside Body",
+    "description": "Isn't it rather superficial to cast judgement on what life is or is not?",
+    "source": "Ultimate weapon event reward",
+    "icon": "AvatarFrame_024"
+  },
+  "AvatarFrame25": {
+    "name": "Island Fantasy",
+    "description": "Alf... Can you bring fortune?",
+    "source": "Exchange at the Artificial Island: Construction Store",
+    "icon": "AvatarFrame_rengongdao_feimao"
+  },
+  "AvatarFrame26": {
+    "name": "Knight of Night",
+    "description": "A silent, vigilant guard, now protecting your machine pod.",
+    "source": "Exchange at the Artificial Island: Construction Store",
+    "icon": "AvatarFrame_rengongdao_heimao"
+  },
+  "AvatarFrame27": {
+    "name": "Pawpaw Treasure",
+    "description": "How many treasures did Smarty hide in the Pawpaw House? I'm curious.",
+    "source": "Exchange at the Artificial Island: Construction Store",
+    "icon": "AvatarFrame_rengongdao_huli"
+  },
+  "AvatarFrame28": {
+    "name": "Pumpkin Night",
+    "description": "Pumpkins, pumpkins, pumpkins! I need more pumpkins!",
+    "source": "Exchange at the Artificial Island: Construction Store",
+    "icon": "AvatarFrame_rengongdao_nangua"
+  },
+  "AvatarFrame29": {
+    "name": "Memories",
+    "description": "Some things can remind us of our life before the Cataclysm.",
+    "source": "Exchange at the Artificial Island: Construction Store",
+    "icon": "AvatarFrame_rengongdao_wugui"
+  },
+  "AvatarFrame30": {
+    "name": "Gaze Mirroria",
+    "description": "Fantasies that span across the plane converge here.",
+    "source": "Limited-edition exclusive from the Vera Orienteering event.",
+    "icon": "AvatarFrame_30"
+  },
+  "AvatarFrame31": {
+    "name": "Steel Lizard Charge",
+    "description": "Lizards are also a type of dragon, so the Steel Lizard Charge is also a kind of dragon vehicle.",
+    "source": "From events",
+    "icon": "AvatarFrame_31"
+  },
+  "AvatarFrame32": {
+    "name": "Off-Balance Dancer",
+    "description": "Beneath the gorgeous skirt are crisis, mystery, and fear.",
+    "source": "Obtained from Golden Sands",
+    "icon": "AvatarFrame_32"
+  },
+  "AvatarFrame33": {
+    "name": "Sweet Dreams",
+    "description": "Shh... She's sound asleep.",
+    "source": "Obtained by purchasing the Fourth Advanced Pass",
+    "icon": "AvatarFrame_33"
+  },
+  "AvatarFrame34": {
+    "name": "Journey Nursery Rhyme",
+    "description": "Welcome back, Mi-a! Let's continue our journey.",
+    "source": "From events",
+    "icon": "AvatarFrame_34"
+  },
+  "AvatarFrame35": {
+    "name": "Cordate Jellybean",
+    "description": "Sweetness and love, all hidden in the small jellybeans.",
+    "source": "From events",
+    "icon": "AvatarFrame_35"
+  },
+  "AvatarFrame36": {
+    "name": "Naughty Trails",
+    "description": "Forget about all your anxieties and worries, and have a good time on Cetus Island!",
+    "source": "From events",
+    "icon": "AvatarFrame_36"
+  },
+  "AvatarFrame37": {
+    "name": "Aroma of Leaves",
+    "description": "Wrapped in jade and tied with rainbow, you chewy little pudding endearing like snow.",
+    "source": "From events",
+    "icon": "AvatarFrame_37"
+  },
+  "AvatarFrame38": {
+    "name": "Pure White Conversion",
+    "description": "\"Hey… do you think we can still win this one? The Violet Core is shattered. I guess we can't win this one. The enemy is too powerful.\"\r\n\"Regardless, we still have faith in the Violet Core and ourselves. We believe in the power of valor and justice.\"\r\n\"There's something strange about the Violet Core! Is that... a white light?!\"",
+    "source": "From events",
+    "icon": "AvatarFrame_38"
+  },
+  "AvatarFrame39": {
+    "name": "Chief Park Ranger",
+    "description": "The maintenance of the park is complete! Dear customer, do you wanna join us for a ride?",
+    "source": "Obtained by purchasing the Fifth Advanced Pass",
+    "icon": "AvatarFrame_39"
+  },
+  "AvatarFrame40": {
+    "name": "Salty Wave",
+    "description": "Beach, sand castle, aren't they the best matches for the salty soda?",
+    "source": "From events",
+    "icon": "AvatarFrame_40"
+  },
+  "AvatarFrame41": {
+    "name": "Summer Cool",
+    "description": "The fishtail swayed lightly, raising a trace of coolness in the heat.",
+    "source": "From events",
+    "icon": "AvatarFrame_41"
+  },
+  "AvatarFrame42": {
+    "name": "Sparkler Bouquet",
+    "description": "Compared with common bouquets, this exclusive festival decoration not only has sound effects and motion effects, but it also feels hot!",
+    "source": "From events",
+    "icon": "AvatarFrame_42"
+  },
+  "AvatarFrame43": {
+    "name": "Nurse Trainee",
+    "description": "They may not be experienced, but their sincere wish to help the Astra Shelter has made them shine.",
+    "source": "From events",
+    "icon": "AvatarFrame_43"
+  },
+  "AvatarFrame44": {
+    "name": "Fantasy Park",
+    "description": "Exclusive to the Fantasy Park theme event in the Douliu Community.",
+    "source": "From events",
+    "icon": "AvatarFrame_44"
+  },
+  "AvatarFrame45": {
+    "name": "Friend Astray",
+    "description": "Although she got lost on her way to her sister's cabin, she met two gentle but powerful knights and their elf companions.",
+    "source": "From events",
+    "icon": "AvatarFrame_45"
+  },
+  "AvatarFrame46": {
+    "name": "Watermelon Feast",
+    "description": "Should I slice it or cut it into chunks? Or maybe scoop it up with a spoon!?",
+    "source": "Obtained by purchasing the Sixth Advanced Pass",
+    "icon": "AvatarFrame_46"
+  },
+  "AvatarFrame47": {
+    "name": "Attention of the Pool",
+    "description": "Even if unbeknownst to them, the gravitas of a celebrity is hard to hide...",
+    "source": "From events",
+    "icon": "AvatarFrame_47"
+  },
+  "AvatarFrame48": {
+    "name": "Responsibilities of a Disciplinarian",
+    "description": "I shall maintain the discipline of Mirroria School!",
+    "source": "From events",
+    "icon": "AvatarFrame_48"
+  },
+  "AvatarFrame54": {
+    "name": "Trick... or Treat!",
+    "description": "Night of Fun",
+    "source": "From events",
+    "icon": "AvatarFrame_54"
+  },
+  "AvatarFrame_Overseas_1": {
+    "name": "Greatest Creator",
+    "description": "Limited reward for outstanding creators during the CBT.",
+    "source": "Unlocked by being selected during the CBT's Submission Event",
+    "icon": "AvatarFrame_TX_BestTower"
+  },
+  "AvatarFrame_Overseas_2": {
+    "name": "Illusory Link",
+    "description": "Do we exist, or are we just shadows of some parallel universe?",
+    "source": "Unlocks by participating in the Live Stream event.",
+    "icon": "AvatarFrame_TX_Xuhuan"
+  },
+  "AvatarFrame_Overseas_3": {
+    "name": "Raging Sands",
+    "description": "The desert, where a new adventure begins.",
+    "icon": "AvatarFrame_TX_twitch"
+  },
+  "AvatarFrame_Overseas_4": {
+    "name": "Welcome to Vera",
+    "description": "Welcome to Mirroria.",
+    "icon": "AvatarFrame_TX_steam"
+  },
+  "AvatarFrame_Overseas_5": {
+    "name": "Lovin' a Discount",
+    "description": "1, 2, 3, 4, 5, 6, 7, 8...",
+    "icon": "AvatarFrame_TX_off"
+  },
+  "AvatarFrame_Overseas_6": {
+    "name": "Countdown",
+    "description": "Time to open presents!",
+    "icon": "AvatarFrame_TX_gift"
+  },
+  "AvatarFrameiw_01": {
+    "source": "活動獲得",
+    "icon": "AvatarFrame_iw_01"
+  },
+  "AvatarFramekr_01": {
+    "description": "An avatar frame that commemorates the collaboration between Tower of Fantasy and Sunmi.",
+    "icon": "AvatarFramekr_01"
+  },
+  "AvatarFrame_tencent_1": {
+    "name": "Creatower",
+    "description": "An outstanding ToF creator. We can tell you love the game!",
+    "source": "The UGC project made it to the top charts three times in its first year!",
+    "icon": "AvatarFrame_TX_Creatower"
+  },
+  "AvatarFrame_tencent_2": {
+    "name": "Creatower Master",
+    "description": "An extremely professional ToF creator. ToF is grateful to have an inspiration like you!",
+    "source": "The UGC project made it to the top charts five times in its first year!",
+    "icon": "AvatarFrame_TX_CreatowerMaster"
+  },
+  "AvatarFrame_tencent_3": {
+    "name": "Creatower of Fantasy",
+    "description": "A fantastical ToF creator, one who is already one with the team... You are already one with the team, congrats!",
+    "source": "The UGC project made it to the top charts ten times in its first year. How is that possible!?",
+    "icon": "AvatarFrame_TX_CreatowerOfFantasy"
+  },
+  "AvatarFrameiw_02": {
+    "icon": "AvatarFrameiw_02"
+  },
+  "AvatarFrameiw_03": {
+    "icon": "AvatarFrameiw_03"
+  },
+  "AvatarFrameiw_04": {
+    "icon": "AvatarFrameiw_04"
+  }
+}
