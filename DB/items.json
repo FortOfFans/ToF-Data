@@ -561,7 +561,7 @@
   "matrix-show-R": {
     "name": "Random R Matrix chip",
     "type": "ITEM_TYPE_MATERIAL",
-    "source": "Universal chip for weapon systems. ",
+    "source": "Universal chip for weapon systems.",
     "icon": "icon_matrix_R7_256",
     "rarity": "EItemRarity::ITEM_RARITY_Invalid"
   },

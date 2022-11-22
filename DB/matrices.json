@@ -1,5 +1,5 @@
 {
-  "matrix-exp-1": {
+  "matrix_exp_n": {
     "name": "Matrix data pack I",
     "type": "ITEM_TYPE_MATERIAL",
     "description": "Supplemental pack for enhancing Matrix chips.",
@@ -8,7 +8,7 @@
     "gachaIcon": "None",
     "rarity": "EItemRarity::ITEM_RARITY_N"
   },
-  "matrix-exp-3": {
+  "matrix_exp_r": {
     "name": "Matrix Data Pack II",
     "type": "ITEM_TYPE_MATERIAL",
     "description": "Supplemental pack for enhancing Matrix chips.",
@@ -17,7 +17,7 @@
     "gachaIcon": "None",
     "rarity": "EItemRarity::ITEM_RARITY_N"
   },
-  "matrix-exp-5": {
+  "matrix_exp_sr": {
     "name": "Matrix Data Pack III",
     "type": "ITEM_TYPE_MATERIAL",
     "description": "Supplemental pack for enhancing Matrix chips.",
@@ -26,7 +26,7 @@
     "gachaIcon": "None",
     "rarity": "EItemRarity::ITEM_RARITY_R"
   },
-  "matrix-exp-7": {
+  "matrix_exp_ssr": {
     "name": "Matrix data pack IV",
     "type": "ITEM_TYPE_MATERIAL",
     "description": "Supplemental pack for enhancing Matrix chips.",
@@ -931,7 +931,7 @@
     "gachaIcon": "icon_matrix_SSR10_512",
     "rarity": "EItemRarity::ITEM_RARITY_SSR"
   },
-  "matrix_SR11_1": {
+  "matrix_SSR11_1": {
     "name": "Crow: Eleventh Dimension",
     "type": "ITEM_TYPE_MATRIX",
     "description": "Some things are intangible but do truly exist.",
@@ -939,7 +939,7 @@
     "gachaIcon": "icon_matrix_SSR11_512",
     "rarity": "EItemRarity::ITEM_RARITY_SSR"
   },
-  "matrix_SR11_2": {
+  "matrix_SSR11_2": {
     "name": "Crow: Formitized",
     "type": "ITEM_TYPE_MATRIX",
     "description": "The past is in the past. The present is what you need to seize.",
@@ -947,7 +947,7 @@
     "gachaIcon": "icon_matrix_SSR11_512",
     "rarity": "EItemRarity::ITEM_RARITY_SSR"
   },
-  "matrix_SR11_3": {
+  "matrix_SSR11_3": {
     "name": "Crow: Dire Survivor",
     "type": "ITEM_TYPE_MATRIX",
     "description": "Never give up, even though it's more than a long shot.",
@@ -955,7 +955,7 @@
     "gachaIcon": "icon_matrix_SSR11_512",
     "rarity": "EItemRarity::ITEM_RARITY_SSR"
   },
-  "matrix_SR11_4": {
+  "matrix_SSR11_4": {
     "name": "Crow: Rendition",
     "type": "ITEM_TYPE_MATRIX",
     "description": "A bizarre clown show, sometimes very hard to fathom.",
