@@ -1,464 +1,464 @@
 {
-  "Avatar01": {
-    "name": "Initial Avatar: Female",
-    "description": "May you be calm and persistent, give your all to the things you love, and come back with fruitful results.",
-    "source": "Default Avatar",
-    "icon": "avatar_01"
-  },
-  "Avatar02": {
-    "name": "Initial Avatar: Male",
-    "description": "There are so many people in this world, yet you met me.",
-    "source": "Default Avatar",
-    "icon": "avatar_02"
-  },
-  "Avatar03": {
-    "name": "Shirli",
-    "description": "Remember not to burn the food again!",
-    "source": "Obtain by purchasing the First Advanced Pass",
-    "icon": "avatar_shali"
-  },
-  "Avatar04": {
-    "name": "Zeke",
-    "description": "I want to spend my days with my family in peace and quiet, but that's just an unrealistic delusion in the last days.",
-    "icon": "avatar_xiazuo"
-  },
-  "kefu": {
-    "icon": "avatar_10"
-  },
-  "meilier": {
-    "name": "Meryl",
-    "description": "Aloof",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_meilier"
-  },
-  "Avatar05": {
-    "name": "Frigg",
-    "description": "Perhaps she'd appreciate you if you weren't opposing her?",
-    "source": "Obtain by purchasing the Second Advanced Pass",
-    "icon": "avatar_fulijia"
-  },
-  "Avatar06": {
-    "name": "Nemesis",
-    "description": "Are you Shirli or something else now?",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "avatar_naimeixisi"
-  },
-  "Avatar07": {
-    "name": "Aegis",
-    "description": "\"Ready to be my next masterpiece?\"",
-    "source": "Obtained by purchasing the Third Advanced Pass",
-    "icon": "avatar_yixisi"
-  },
-  "Avatar08": {
-    "name": "Seele",
-    "description": "The adorable appearance befits the playful cruelty.",
-    "source": "Locked",
-    "icon": "avatar_xier"
-  },
-  "aige": {
-    "name": "Echo",
-    "description": "Good or bad? You be the judge.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_aige"
-  },
-  "bailing": {
-    "name": "Bai Ling",
-    "description": "Could you stop looking at me like that? You're embarrassing me.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_bailing"
-  },
-  "gulan": {
-    "name": "Cobalt-B",
-    "description": "Through the blue cobalt glass, we can observe the actual color of the flame of burning metal.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_gulan"
-  },
-  "hida": {
-    "name": "Hilda",
-    "description": "Move your body to the music by the sea. Let your thoughts drift with the waves to the other side.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_hilda"
-  },
-  "kekelite": {
-    "name": "Cocoritter",
-    "description": "Sugar, stuffed toys, and all the sweet and gentle things in the world.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_kekelite"
-  },
-  "kelaodiya": {
-    "name": "Claudia",
-    "description": "Come to me if you need any help. I'll do my best.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_kelaodiya"
-  },
-  "king": {
-    "description": "I've been told millions of times that there's a fierce look in my eyes. Not sure how much these sunglasses will help with that.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_king"
-  },
-  "ling": {
-    "name": "Zero",
-    "description": "Analyzing data. Please don't bother me for now.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_ling"
-  },
-  "saimier": {
-    "name": "Samir",
-    "description": "There must be an unsolvable mystery, an endless road, and an unpredictable future.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_saimier"
-  },
-  "sifengyuanyu": {
-    "name": "Tsubasa",
-    "description": "Her eyes wander because she's always on guard for the invisible dangers in the air.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_sifengyuanyu"
-  },
-  "peipei": {
-    "name": "Pepper",
-    "description": "Wearing a smile at work is a demand she requires of herself.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_susan"
-  },
-  "wuwan": {
-    "name": "Crow",
-    "description": "As an entertainer, I certainly want your eyes on me all the time.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_wuwan"
-  },
-  "xi": {
-    "name": "Ene",
-    "description": "Your curious buddy is here!",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_xi"
-  },
-  "xiluo": {
-    "name": "Shiro",
-    "description": "Keep your distance and be patient. A gentle reminder: you might get attacked by the kitty claw if you stare at her for too long.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_xiluo"
-  },
-  "xiuma": {
-    "name": "Huma",
-    "description": "Like a blank piece of paper waiting for you to paint on it.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_xiuma"
-  },
-  "Avatar09": {
-    "name": "Tata",
-    "description": "A lazy smart servant who offers the help you need when necessary.",
-    "source": "Locked",
-    "icon": "Avatar09"
-  },
-  "make": {
-    "name": "Marc",
-    "description": "Every one of us is a unique creation.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_make"
-  },
-  "baiyuekui": {
-    "name": "Bai Yuekui",
-    "description": "All sentient beings share the same pure and perfect spark essence of enlightenment.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_baiyuekui"
-  },
-  "Avatar10": {
-    "name": "Happy New Year",
-    "description": "I wanted to personally give this to you—a New Year's gift from Mi-a.",
-    "source": "Locked",
-    "icon": "Avatar10"
-  },
-  "Avatar11": {
-    "name": "May All Go Well",
-    "description": "I believe these are called \"fireworks\"...? I wonder if they would look nicer on your Jetpack...",
-    "source": "Locked",
-    "icon": "Avatar11"
-  },
-  "Avatar12": {
-    "name": "Angel Frigg",
-    "description": "She isn't a demon, after all.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "Avatar12"
-  },
-  "Avatar13": {
-    "name": "Alf",
-    "description": "Alf looks like a lucky cat! Could it bring me good luck if I hug it every day?",
-    "source": "Exchange at the Artificial Island: Construction Store",
-    "icon": "touxiang_zhipu_jixiemao"
-  },
-  "Avatar14": {
-    "name": "Peanut",
-    "description": "The first-gen smart servant with outstanding performance. Your trustworthy friend.",
-    "source": "Exchange at the Artificial Island: Construction Store",
-    "icon": "touxiang_zhipu_mao"
-  },
-  "Avatar15": {
-    "name": "Smarty",
-    "description": "Smart fox Smarty is here!",
-    "source": "Exchange at the Artificial Island: Construction Store",
-    "icon": "touxiang_zhipu_huli"
-  },
-  "Avatar16": {
-    "name": "Mad Dimon",
-    "description": "Mad Dimon, a once-popular electric pet, is now your smart servant companion.",
-    "source": "Exchange at the Artificial Island: Construction Store",
-    "icon": "touxiang_zhipu_nangua"
-  },
-  "Avatar17": {
-    "name": "Tartarus",
-    "description": "Its prototype was the most popular children's toy before the Cataclysm. Recently, its manufacturer has invented a brand new smart servant called \"Tartarus.\"",
-    "source": "Exchange at the Artificial Island: Construction Store",
-    "icon": "touxiang_zhipu_gui"
-  },
-  "Avatar18": {
-    "name": "Infernal steel lizard",
-    "description": "What are you staring at? Taste my steel lizard tail!",
-    "source": "From events",
-    "icon": "Avatar18"
-  },
-  "leibei": {
-    "name": "Ruby",
-    "description": "Spark and bunnies sent an invitation to the ball. Don't be late!",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_leibei"
-  },
-  "Avatar19": {
-    "name": "Song of the Puppet",
-    "description": "She was shouting, she was dancing, and she was sobbing.",
-    "source": "Obtained from Golden Sands",
-    "icon": "Avatar19"
-  },
-  "Avatar20": {
-    "name": "Dolly",
-    "description": "Dolly is unique to me, and I am unique to Dolly...",
-    "source": "Obtained by purchasing the Fourth Advanced Pass",
-    "icon": "Avatar20"
-  },
-  "Avatar21": {
-    "name": "Mi-a's Dream",
-    "description": "While asleep, does Mi-a dream about... me and Shirli?",
-    "source": "From events",
-    "icon": "Avatar21"
-  },
-  "Avatar22": {
-    "name": "Strawberry Afternoon",
-    "description": "Why does the crow look like a desk?",
-    "source": "From events",
-    "icon": "Avatar22"
-  },
-  "Avatar23": {
-    "name": "Hanna",
-    "description": "Welcome to Cetus Island! Let me show you around.",
-    "source": "Obtained by purchasing the Fifth Advanced Pass",
-    "icon": "Avatar23"
-  },
-  "Avatar24": {
-    "name": "Sticky Rice Ball",
-    "description": "Let me guess, am I holding a sweet dumpling or meat dumpling? Oh, I've got it right!",
-    "source": "From events",
-    "icon": "Avatar24"
-  },
-  "Avatar25": {
-    "name": "Pure White Core",
-    "description": "Purple fades, and while light shone through. It's a new force that can light up the night sky.",
-    "source": "From events",
-    "icon": "Avatar25"
-  },
-  "bupoxiao": {
-    "name": "Saki Fuwa",
-    "description": "I will attack in Saki Fuwa form.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_bupoxiao"
-  },
-  "breakfate_avatar_monster": {
-    "name": "Wildling",
-    "icon": "boss_head_xiaoguai"
-  },
-  "breakfate_avatar_poison": {
-    "name": "Omnium Radiation",
-    "icon": "boss_head_du"
-  },
-  "Boss_hum_007_chiji": {
-    "name": "Hyenatron",
-    "icon": "boss_head_01"
-  },
-  "Boss_hum_001_chiji": {
-    "name": "Aberrant Franken",
-    "icon": "boss_head_02"
-  },
-  "Boss_hum_016_BS_chiji": {
-    "name": "Greenbird",
-    "icon": "boss_head_03"
-  },
-  "breakfate_avatar_character": {
-    "name": "Self",
-    "icon": "breakfate_avatar_myself"
-  },
-  "breakfate_avatar_other": {
-    "name": "Others",
-    "icon": "breakfate_avatar_other"
-  },
-  "Avatar26": {
-    "name": "Kitty Coast",
-    "description": "I'm gonna get splashed! Meow!",
-    "source": "From events",
-    "icon": "Avatar26"
-  },
-  "Avatar27": {
-    "name": "Celebration Memories",
-    "description": "Do you remember the funny things that happened at the Graceday Celebration, little goldfish?",
-    "source": "From events",
-    "icon": "Avatar27"
-  },
-  "Avatar28": {
-    "name": "Summer Celebration Mechanic",
-    "description": "Testing the new entertainment equipment is for the celebration activities, while she adjusted herself through the celebration.",
-    "source": "From events",
-    "icon": "Avatar28"
-  },
-  "Avatar29": {
-    "name": "Fledgling",
-    "description": "This is the first person you meet at the beginning of a new, clean slate journey.",
-    "source": "From events",
-    "icon": "Avatar29"
-  },
-  "Avatar30": {
-    "name": "Joy Ride",
-    "description": "Little Red Riding Hood carefully prepared a basket full of snacks and went out to play with her sister!",
-    "source": "From events",
-    "icon": "Avatar30"
-  },
-  "Avatar31": {
-    "name": "Fruity Summer",
-    "description": "The essential cooldown for a scorching summer! Mi-a can't resist sweet frozen watermelons!",
-    "source": "Obtained by purchasing the Sixth Advanced Pass",
-    "icon": "Avatar31"
-  },
-  "Avatar32": {
-    "name": "Rare Holiday",
-    "description": "She needs more rest than she thought. That's not a bad thing, is it?",
-    "source": "From events",
-    "icon": "Avatar32"
-  },
-  "Avatar33": {
-    "name": "Traveling Shirli",
-    "description": "The last stop of the journey: Mirroria!",
-    "source": "From events",
-    "icon": "Avatar33"
-  },
-  "Avatar34": {
-    "name": "Saki Fuwa the Disciplinarian",
-    "description": "Who would've thought that the anime fangirl at every limited-merch sale would be so strict at school!",
-    "source": "From events",
-    "icon": "Avatar34"
-  },
-  "Avatar35": {
-    "name": "Reliable Mechanic",
-    "description": "At least, that's how she refers to herself...",
-    "source": "From events",
-    "icon": "Avatar35"
-  },
-  "Avatar37": {
-    "name": "Pumpkin Enchantment",
-    "description": "You're a pumpkin now!",
-    "source": "From events",
-    "icon": "Avatar_37"
-  },
-  "linye": {
-    "name": "Lin",
-    "description": "She did allow her fans to use her photos, provided that it was not for commercial purposes, and only minor post-processing was done.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_linye"
-  },
-  "Avatar_Overseas_1": {
-    "name": "Zeke: Awakening",
-    "description": "Maybe ol' Zeke can even be cute sometimes?",
-    "source": "Log in from PC to receive Milestone Rewards",
-    "icon": "Avatar_TX_Xiazuo_01"
-  },
-  "Avatar_Overseas_2": {
-    "name": "Shirli: Awakening",
-    "description": "\"Do I look silly to you when I smile?\" Some dumb cute girl said so while swinging her fists.",
-    "source": "Log in from Android to receive Milestone Rewards",
-    "icon": "Avatar_TX_Shali_01"
-  },
-  "Avatar_Overseas_3": {
-    "name": "Nemesis: Awakening",
-    "description": "Indifference is just her self-protection.",
-    "source": "Log in from iOS to receive Milestone Rewards",
-    "icon": "Avatar_TX_Naimeixisi_01"
-  },
-  "Avatar_Overseas_4": {
-    "name": "Welcome to Mirroria.",
-    "description": "Welcome to Mirroria.",
-    "icon": "Avatar_TX_vera_01"
-  },
-  "Avatar_Overseas_5": {
-    "name": "Mini Ruby",
-    "description": "Ruby loves opening presents.",
-    "icon": "Avatar_TX_leibei_01"
-  },
-  "Avatar_Overseas_6": {
-    "name": "For Love",
-    "description": "For my \"Sweetie.\"",
-    "icon": "Avatar_TX_GFQ_01"
-  },
-  "Avatar_Overseas_7": {
-    "name": "Desert Plant",
-    "description": "Pretend to be a cactus.",
-    "icon": "Avatar_TX_xianrenzhang_01"
-  },
-  "Avatar_Overseas_8": {
-    "name": "The Queen",
-    "description": "Want to taste my boot and chainsaw?",
-    "icon": "Avatar_TX_luqiya_01"
-  },
-  "Avatar_Overseas_9": {
-    "name": "Saki Fuwa: T Pose",
-    "icon": "Avatar_Overseas_9"
-  },
-  "Avatar_Overseas_10": {
-    "name": "Ruby: T Pose",
-    "description": "Lin... Why can't I control... my own hands?",
-    "icon": "Avatar_Overseas_10"
-  },
-  "Avatar_Overseas_11": {
-    "name": "Lin: T Pose",
-    "description": "I can't dance... Like I said, I'm not an idol!",
-    "icon": "Avatar_Overseas_11"
-  },
-  "Avatar_korea_1": {
-    "name": "Mi-a: Cute Version",
-    "description": "Mi-a is currently executing the dressing sequence, please wait.",
-    "icon": "Avatar_KO_Mia_01"
-  },
-  "Avatar_korea_2": {
-    "name": "Nemesis: Cute Version",
-    "description": "I think I had a dream. I saw a lot of things in this dream.",
-    "icon": "Avatar_KO_Naimeixisi_01"
-  },
-  "Avatar_korea_3": {
-    "name": "Shirli: Cute Version",
-    "description": "Do we wanna go to Cetus Island together?",
-    "icon": "Avatar_KO_Shali_01"
-  },
-  "Avatar_korea_4": {
-    "description": "An avatar that commemorates the collaboration between Tower of Fantasy and Sunmi.",
-    "icon": "Avatar_korea_4"
-  },
-  "xinghuan": {
-    "name": "Lyra",
-    "description": "I'm simply following Ms. Maidelin's orders, that's all.",
-    "source": "Simulacrum Awakening Reward",
-    "icon": "touxiang_xinghuan"
-  },
-  "Avatar_iw_2": {
-    "icon": "Avatar_iw_2"
-  },
-  "Avatar_iw_3": {
-    "icon": "Avatar_iw_3"
-  },
-  "Avatar_iw_4": {
-    "icon": "Avatar_iw_4"
+  "Avatar01" : {
+    "name" : "Initial Avatar: Female",
+    "description" : "May you be calm and persistent, give your all to the things you love, and come back with fruitful results.",
+    "source" : "Default Avatar",
+    "icon" : "avatar_01"
+  },
+  "Avatar02" : {
+    "name" : "Initial Avatar: Male",
+    "description" : "There are so many people in this world, yet you met me.",
+    "source" : "Default Avatar",
+    "icon" : "avatar_02"
+  },
+  "Avatar03" : {
+    "name" : "Shirli",
+    "description" : "Remember not to burn the food again!",
+    "source" : "Obtain by purchasing the First Advanced Pass",
+    "icon" : "avatar_shali"
+  },
+  "Avatar04" : {
+    "name" : "Zeke",
+    "description" : "I want to spend my days with my family in peace and quiet, but that's just an unrealistic delusion in the last days.",
+    "icon" : "avatar_xiazuo"
+  },
+  "kefu" : {
+    "icon" : "avatar_10"
+  },
+  "meilier" : {
+    "name" : "Meryl",
+    "description" : "Aloof",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_meilier"
+  },
+  "Avatar05" : {
+    "name" : "Frigg",
+    "description" : "Perhaps she'd appreciate you if you weren't opposing her?",
+    "source" : "Obtain by purchasing the Second Advanced Pass",
+    "icon" : "avatar_fulijia"
+  },
+  "Avatar06" : {
+    "name" : "Nemesis",
+    "description" : "Are you Shirli or something else now?",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "avatar_naimeixisi"
+  },
+  "Avatar07" : {
+    "name" : "Aegis",
+    "description" : "\"Ready to be my next masterpiece?\"",
+    "source" : "Obtained by purchasing the Third Advanced Pass",
+    "icon" : "avatar_yixisi"
+  },
+  "Avatar08" : {
+    "name" : "Seele",
+    "description" : "The adorable appearance befits the playful cruelty.",
+    "source" : "Locked",
+    "icon" : "avatar_xier"
+  },
+  "aige" : {
+    "name" : "Echo",
+    "description" : "Good or bad? You be the judge.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_aige"
+  },
+  "bailing" : {
+    "name" : "Bai Ling",
+    "description" : "Could you stop looking at me like that? You're embarrassing me.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_bailing"
+  },
+  "gulan" : {
+    "name" : "Cobalt-B",
+    "description" : "Through the blue cobalt glass, we can observe the actual color of the flame of burning metal.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_gulan"
+  },
+  "hida" : {
+    "name" : "Hilda",
+    "description" : "Move your body to the music by the sea. Let your thoughts drift with the waves to the other side.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_hilda"
+  },
+  "kekelite" : {
+    "name" : "Cocoritter",
+    "description" : "Sugar, stuffed toys, and all the sweet and gentle things in the world.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_kekelite"
+  },
+  "kelaodiya" : {
+    "name" : "Claudia",
+    "description" : "Come to me if you need any help. I'll do my best.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_kelaodiya"
+  },
+  "king" : {
+    "description" : "I've been told millions of times that there's a fierce look in my eyes. Not sure how much these sunglasses will help with that.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_king"
+  },
+  "ling" : {
+    "name" : "Zero",
+    "description" : "Analyzing data. Please don't bother me for now.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_ling"
+  },
+  "saimier" : {
+    "name" : "Samir",
+    "description" : "There must be an unsolvable mystery, an endless road, and an unpredictable future.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_saimier"
+  },
+  "sifengyuanyu" : {
+    "name" : "Tsubasa",
+    "description" : "Her eyes wander because she's always on guard for the invisible dangers in the air.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_sifengyuanyu"
+  },
+  "peipei" : {
+    "name" : "Pepper",
+    "description" : "Wearing a smile at work is a demand she requires of herself.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_susan"
+  },
+  "wuwan" : {
+    "name" : "Crow",
+    "description" : "As an entertainer, I certainly want your eyes on me all the time.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_wuwan"
+  },
+  "xi" : {
+    "name" : "Ene",
+    "description" : "Your curious buddy is here!",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_xi"
+  },
+  "xiluo" : {
+    "name" : "Shiro",
+    "description" : "Keep your distance and be patient. A gentle reminder: you might get attacked by the kitty claw if you stare at her for too long.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_xiluo"
+  },
+  "xiuma" : {
+    "name" : "Huma",
+    "description" : "Like a blank piece of paper waiting for you to paint on it.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_xiuma"
+  },
+  "Avatar09" : {
+    "name" : "Tata",
+    "description" : "A lazy smart servant who offers the help you need when necessary.",
+    "source" : "Locked",
+    "icon" : "Avatar09"
+  },
+  "make" : {
+    "name" : "Marc",
+    "description" : "Every one of us is a unique creation.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_make"
+  },
+  "baiyuekui" : {
+    "name" : "Bai Yuekui",
+    "description" : "All sentient beings share the same pure and perfect spark essence of enlightenment.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_baiyuekui"
+  },
+  "Avatar10" : {
+    "name" : "Happy New Year",
+    "description" : "I wanted to personally give this to you—a New Year's gift from Mi-a.",
+    "source" : "Locked",
+    "icon" : "Avatar10"
+  },
+  "Avatar11" : {
+    "name" : "May All Go Well",
+    "description" : "I believe these are called \"fireworks\"...? I wonder if they would look nicer on your Jetpack...",
+    "source" : "Locked",
+    "icon" : "Avatar11"
+  },
+  "Avatar12" : {
+    "name" : "Angel Frigg",
+    "description" : "She isn't a demon, after all.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "Avatar12"
+  },
+  "Avatar13" : {
+    "name" : "Alf",
+    "description" : "Alf looks like a lucky cat! Could it bring me good luck if I hug it every day?",
+    "source" : "Exchange at the Artificial Island: Construction Store",
+    "icon" : "touxiang_zhipu_jixiemao"
+  },
+  "Avatar14" : {
+    "name" : "Peanut",
+    "description" : "The first-gen smart servant with outstanding performance. Your trustworthy friend.",
+    "source" : "Exchange at the Artificial Island: Construction Store",
+    "icon" : "touxiang_zhipu_mao"
+  },
+  "Avatar15" : {
+    "name" : "Smarty",
+    "description" : "Smart fox Smarty is here!",
+    "source" : "Exchange at the Artificial Island: Construction Store",
+    "icon" : "touxiang_zhipu_huli"
+  },
+  "Avatar16" : {
+    "name" : "Mad Dimon",
+    "description" : "Mad Dimon, a once-popular electric pet, is now your smart servant companion.",
+    "source" : "Exchange at the Artificial Island: Construction Store",
+    "icon" : "touxiang_zhipu_nangua"
+  },
+  "Avatar17" : {
+    "name" : "Tartarus",
+    "description" : "Its prototype was the most popular children's toy before the Cataclysm. Recently, its manufacturer has invented a brand new smart servant called \"Tartarus.\"",
+    "source" : "Exchange at the Artificial Island: Construction Store",
+    "icon" : "touxiang_zhipu_gui"
+  },
+  "Avatar18" : {
+    "name" : "Infernal steel lizard",
+    "description" : "What are you staring at? Taste my steel lizard tail!",
+    "source" : "From events",
+    "icon" : "Avatar18"
+  },
+  "leibei" : {
+    "name" : "Ruby",
+    "description" : "Spark and bunnies sent an invitation to the ball. Don't be late!",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_leibei"
+  },
+  "Avatar19" : {
+    "name" : "Song of the Puppet",
+    "description" : "She was shouting, she was dancing, and she was sobbing.",
+    "source" : "Obtained from Golden Sands",
+    "icon" : "Avatar19"
+  },
+  "Avatar20" : {
+    "name" : "Dolly",
+    "description" : "Dolly is unique to me, and I am unique to Dolly...",
+    "source" : "Obtained by purchasing the Fourth Advanced Pass",
+    "icon" : "Avatar20"
+  },
+  "Avatar21" : {
+    "name" : "Mi-a's Dream",
+    "description" : "While asleep, does Mi-a dream about... me and Shirli?",
+    "source" : "From events",
+    "icon" : "Avatar21"
+  },
+  "Avatar22" : {
+    "name" : "Strawberry Afternoon",
+    "description" : "Why does the crow look like a desk?",
+    "source" : "From events",
+    "icon" : "Avatar22"
+  },
+  "Avatar23" : {
+    "name" : "Hanna",
+    "description" : "Welcome to Cetus Island! Let me show you around.",
+    "source" : "Obtained by purchasing the Fifth Advanced Pass",
+    "icon" : "Avatar23"
+  },
+  "Avatar24" : {
+    "name" : "Sticky Rice Ball",
+    "description" : "Let me guess, am I holding a sweet dumpling or meat dumpling? Oh, I've got it right!",
+    "source" : "From events",
+    "icon" : "Avatar24"
+  },
+  "Avatar25" : {
+    "name" : "Pure White Core",
+    "description" : "Purple fades, and while light shone through. It's a new force that can light up the night sky.",
+    "source" : "From events",
+    "icon" : "Avatar25"
+  },
+  "bupoxiao" : {
+    "name" : "Saki Fuwa",
+    "description" : "I will attack in Saki Fuwa form.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_bupoxiao"
+  },
+  "breakfate_avatar_monster" : {
+    "name" : "Wildling",
+    "icon" : "boss_head_xiaoguai"
+  },
+  "breakfate_avatar_poison" : {
+    "name" : "Omnium Radiation",
+    "icon" : "boss_head_du"
+  },
+  "Boss_hum_007_chiji" : {
+    "name" : "Hyenatron",
+    "icon" : "boss_head_01"
+  },
+  "Boss_hum_001_chiji" : {
+    "name" : "Aberrant Franken",
+    "icon" : "boss_head_02"
+  },
+  "Boss_hum_016_BS_chiji" : {
+    "name" : "Greenbird",
+    "icon" : "boss_head_03"
+  },
+  "breakfate_avatar_character" : {
+    "name" : "Self",
+    "icon" : "breakfate_avatar_myself"
+  },
+  "breakfate_avatar_other" : {
+    "name" : "Others",
+    "icon" : "breakfate_avatar_other"
+  },
+  "Avatar26" : {
+    "name" : "Kitty Coast",
+    "description" : "I'm gonna get splashed! Meow!",
+    "source" : "From events",
+    "icon" : "Avatar26"
+  },
+  "Avatar27" : {
+    "name" : "Celebration Memories",
+    "description" : "Do you remember the funny things that happened at the Graceday Celebration, little goldfish?",
+    "source" : "From events",
+    "icon" : "Avatar27"
+  },
+  "Avatar28" : {
+    "name" : "Summer Celebration Mechanic",
+    "description" : "Testing the new entertainment equipment is for the celebration activities, while she adjusted herself through the celebration.",
+    "source" : "From events",
+    "icon" : "Avatar28"
+  },
+  "Avatar29" : {
+    "name" : "Fledgling",
+    "description" : "This is the first person you meet at the beginning of a new, clean slate journey.",
+    "source" : "From events",
+    "icon" : "Avatar29"
+  },
+  "Avatar30" : {
+    "name" : "Joy Ride",
+    "description" : "Little Red Riding Hood carefully prepared a basket full of snacks and went out to play with her sister!",
+    "source" : "From events",
+    "icon" : "Avatar30"
+  },
+  "Avatar31" : {
+    "name" : "Fruity Summer",
+    "description" : "The essential cooldown for a scorching summer! Mi-a can't resist sweet frozen watermelons!",
+    "source" : "Obtained by purchasing the Sixth Advanced Pass",
+    "icon" : "Avatar31"
+  },
+  "Avatar32" : {
+    "name" : "Rare Holiday",
+    "description" : "She needs more rest than she thought. That's not a bad thing, is it?",
+    "source" : "From events",
+    "icon" : "Avatar32"
+  },
+  "Avatar33" : {
+    "name" : "Traveling Shirli",
+    "description" : "The last stop of the journey: Mirroria!",
+    "source" : "From events",
+    "icon" : "Avatar33"
+  },
+  "Avatar34" : {
+    "name" : "Saki Fuwa the Disciplinarian",
+    "description" : "Who would've thought that the anime fangirl at every limited-merch sale would be so strict at school!",
+    "source" : "From events",
+    "icon" : "Avatar34"
+  },
+  "Avatar35" : {
+    "name" : "Reliable Mechanic",
+    "description" : "At least, that's how she refers to herself...",
+    "source" : "From events",
+    "icon" : "Avatar35"
+  },
+  "Avatar37" : {
+    "name" : "Pumpkin Enchantment",
+    "description" : "You're a pumpkin now!",
+    "source" : "From events",
+    "icon" : "Avatar_37"
+  },
+  "linye" : {
+    "name" : "Lin",
+    "description" : "She did allow her fans to use her photos, provided that it was not for commercial purposes, and only minor post-processing was done.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_linye"
+  },
+  "Avatar_Overseas_1" : {
+    "name" : "Zeke: Awakening",
+    "description" : "Maybe ol' Zeke can even be cute sometimes?",
+    "source" : "Log in from PC to receive Milestone Rewards",
+    "icon" : "Avatar_TX_Xiazuo_01"
+  },
+  "Avatar_Overseas_2" : {
+    "name" : "Shirli: Awakening",
+    "description" : "\"Do I look silly to you when I smile?\" Some dumb cute girl said so while swinging her fists.",
+    "source" : "Log in from Android to receive Milestone Rewards",
+    "icon" : "Avatar_TX_Shali_01"
+  },
+  "Avatar_Overseas_3" : {
+    "name" : "Nemesis: Awakening",
+    "description" : "Indifference is just her self-protection.",
+    "source" : "Log in from iOS to receive Milestone Rewards",
+    "icon" : "Avatar_TX_Naimeixisi_01"
+  },
+  "Avatar_Overseas_4" : {
+    "name" : "Welcome to Mirroria.",
+    "description" : "Welcome to Mirroria.",
+    "icon" : "Avatar_TX_vera_01"
+  },
+  "Avatar_Overseas_5" : {
+    "name" : "Mini Ruby",
+    "description" : "Ruby loves opening presents.",
+    "icon" : "Avatar_TX_leibei_01"
+  },
+  "Avatar_Overseas_6" : {
+    "name" : "For Love",
+    "description" : "For my \"Sweetie.\"",
+    "icon" : "Avatar_TX_GFQ_01"
+  },
+  "Avatar_Overseas_7" : {
+    "name" : "Desert Plant",
+    "description" : "Pretend to be a cactus.",
+    "icon" : "Avatar_TX_xianrenzhang_01"
+  },
+  "Avatar_Overseas_8" : {
+    "name" : "The Queen",
+    "description" : "Want to taste my boot and chainsaw?",
+    "icon" : "Avatar_TX_luqiya_01"
+  },
+  "Avatar_Overseas_9" : {
+    "name" : "Saki Fuwa: T Pose",
+    "icon" : "Avatar_Overseas_9"
+  },
+  "Avatar_Overseas_10" : {
+    "name" : "Ruby: T Pose",
+    "description" : "Lin... Why can't I control... my own hands?",
+    "icon" : "Avatar_Overseas_10"
+  },
+  "Avatar_Overseas_11" : {
+    "name" : "Lin: T Pose",
+    "description" : "I can't dance... Like I said, I'm not an idol!",
+    "icon" : "Avatar_Overseas_11"
+  },
+  "Avatar_korea_1" : {
+    "name" : "Mi-a: Cute Version",
+    "description" : "Mi-a is currently executing the dressing sequence, please wait.",
+    "icon" : "Avatar_KO_Mia_01"
+  },
+  "Avatar_korea_2" : {
+    "name" : "Nemesis: Cute Version",
+    "description" : "I think I had a dream. I saw a lot of things in this dream.",
+    "icon" : "Avatar_KO_Naimeixisi_01"
+  },
+  "Avatar_korea_3" : {
+    "name" : "Shirli: Cute Version",
+    "description" : "Do we wanna go to Cetus Island together?",
+    "icon" : "Avatar_KO_Shali_01"
+  },
+  "Avatar_korea_4" : {
+    "description" : "An avatar that commemorates the collaboration between Tower of Fantasy and Sunmi.",
+    "icon" : "Avatar_korea_4"
+  },
+  "xinghuan" : {
+    "name" : "Lyra",
+    "description" : "I'm simply following Ms. Maidelin's orders, that's all.",
+    "source" : "Simulacrum Awakening Reward",
+    "icon" : "touxiang_xinghuan"
+  },
+  "Avatar_iw_2" : {
+    "icon" : "Avatar_iw_2"
+  },
+  "Avatar_iw_3" : {
+    "icon" : "Avatar_iw_3"
+  },
+  "Avatar_iw_4" : {
+    "icon" : "Avatar_iw_4"
   }
 }
