@@ -1,0 +1,530 @@
+{
+  "Avatar_Overseas_9" : {
+    "name" : "Saki Fuwa: T Pose",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Saki Fuwa, T-pose! (Serious)",
+    "icon" : "Avatar_Overseas_9",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_Overseas_10" : {
+    "name" : "Ruby: T Pose",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Lin... Why can't I control... my own hands?",
+    "icon" : "Avatar_Overseas_10",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_Overseas_11" : {
+    "name" : "Lin: T Pose",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "I can't dance... Like I said, I'm not an idol!",
+    "icon" : "Avatar_Overseas_11",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_korea_4" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "An avatar that commemorates the collaboration between Tower of Fantasy and Sunmi.",
+    "icon" : "Avatar_korea_4",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_korea_5" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "icon" : "Avatar_korea_5i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFramekr_01" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "An avatar frame that commemorates the collaboration between Tower of Fantasy and Sunmi.",
+    "icon" : "AvatarFramekr_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_korea_1" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "icon" : "AvatarFrame_korea_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_korea_5" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_korea_6" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_korea_7" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_kr_01" : {
+    "name" : "Super Star",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "A chat bubble that commemorates the collaboration between Tower of Fantasy and Sunmi.",
+    "icon" : "icon_qipao_kr_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_iw_2" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "icon" : "Avatar_iw_2",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_iw_3" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "icon" : "Avatar_iw_3",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_iw_4" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "icon" : "Avatar_iw_4",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrameiw_02" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "icon" : "AvatarFrameiw_02",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrameiw_03" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "icon" : "AvatarFrameiw_03",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrameiw_04" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "icon" : "AvatarFrameiw_04",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_iw_5" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_iw_6" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_iw_7" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_iw_2" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "icon_qipao_iw_2",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_iw_3" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "icon_qipao_iw_3",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_iw_4" : {
+    "name" : "Yes.",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "icon_qipao_iw_4",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_20_os_bag" : {
+    "name" : "Rookie Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 20",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_20_os" : {
+    "name" : "Rookie Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 20",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_30_os" : {
+    "name" : "Lv. 30 Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 30",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_40_os" : {
+    "name" : "Lv. 40 Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 40",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_50_os" : {
+    "name" : "Lv. 50 Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 50",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growup_60_os" : {
+    "name" : "Lv. 60 Growth Pack",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Unlocks when the wanderer reaches Lv. 60",
+    "icon" : "Mysterious_Box",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fragment_visor_OS_orange" : {
+    "name" : "Fortress Tactics Eyepiece Shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "description" : "The newest creation from Hykros Equipment R&D. Provides the Executors with elemental support.",
+    "icon" : "visor_orange",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fragment_visor_OS_purple" : {
+    "name" : "Elite Tactics Eyepiece Shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "description" : "Standard equipment of the Hykros Special Forces. It has helped them in many difficult tasks.",
+    "icon" : "visor_purple",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_korea_1" : {
+    "name" : "Commemorative Soccer Chat Frame",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "icon" : "icon_qipao_korea_1",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_tencent_02" : {
+    "name" : "Legend on the Pitch",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Special avatar for the 2022 soccer festivities",
+    "icon" : "Avatar_tencent_2i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_tencent_02" : {
+    "name" : "Legend on the Pitch",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Special avatar frame for the 2022 soccer festivities",
+    "icon" : "AvatarFrame_tencent_2i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_tencent_02" : {
+    "name" : "Legend on the Pitch",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Special title for the 2022 soccer festivities",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_tencent_02" : {
+    "name" : "Legend on the Pitch",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Special chat bubble for the 2022 soccer festivities",
+    "icon" : "icon_qipao_tencent_2",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_iw_5" : {
+    "name" : "I want to play, coach!",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Special chat bubble frame for the 2022 Soccer Festival.",
+    "icon" : "Avatar_iw_5i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_iw_1" : {
+    "name" : "Kicking a ball is not just about your legs.",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "In short, your hips and legs must become one!",
+    "icon" : "AvatarFrame_iw_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_iw_8" : {
+    "name" : "Golden Right Leg",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Soccer is not something you can play alone.",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_iw_5" : {
+    "name" : "Commemorative Soccer Chat Frame",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Special chat bubble frame for the 2022 Soccer Festival.",
+    "icon" : "icon_qipao_iw_5",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_manasample_3" : {
+    "name" : "Neon Energy Pool",
+    "type" : "ITEM_TYPE_INTRUDER_AIRJAR",
+    "description" : "Limited-time event currency. Used for donation conversion.",
+    "icon" : "mnyb_256",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Blindbox_HardCandy_OS" : {
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "liuguanglihe01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Blindbox_HardCandy_OS_pack" : {
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "liuguanglihe01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fashion_dress_37_4_OS" : {
+    "name" : "Dawn",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Go far away to witness the miracle.",
+    "icon" : "fashion_f38",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fragment_reactor_OS_orange" : {
+    "name" : "Fortress microreactor shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides stats support.",
+    "icon" : "reactor_orange",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fragment_reactor_OS_purple" : {
+    "name" : "Elite microreactor shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides stats support.",
+    "icon" : "reactor_purple",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Vera_Harvest_032_OS" : {
+    "name" : "Furnace Component",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Even the greatest reactors need screws.",
+    "icon" : "Vera_Harvest_032_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Vera_Harvest_033_OS" : {
+    "name" : "Reconstruction Manual",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Internal configuration... what configuration! Read the manual first!",
+    "icon" : "Vera_Harvest_033_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Vera_Harvest_034_OS" : {
+    "name" : "Reactor Core",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "An exquisite core, an indispensable part of reactor creation.",
+    "icon" : "Vera_Harvest_034_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Vera_Harvest_032_show_OS" : {
+    "name" : "Fortress Microreactor",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Chance of obtaining the following materials: Reactor core, reconstruction manual, furnace component.",
+    "icon" : "Vera_Harvest_034_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Blindbox_ChristmasBag_weapon_OS" : {
+    "name" : "Christmas Weapon Lucky Bag",
+    "type" : "ITEM_TYPE_GIFTPACK",
+    "description" : "In the dazzling rain of stars, there must be one of your destiny.",
+    "icon" : "gift_weapon_ssr",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Blindbox_ChristmasBag_Matrix_OS" : {
+    "name" : "Crow Matrix Lucky Bag",
+    "type" : "ITEM_TYPE_GIFTPACK",
+    "description" : "In the dazzling rain of stars, there must be one of your destiny.",
+    "icon" : "treasure_matrix_ssr11",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_Overseas_12" : {
+    "name" : "Tian Lang T Pose",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "I should maintain my left gauntlet... Wait, why can't I move it?",
+    "icon" : "Avatar_Overseas_12i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_Overseas_13" : {
+    "name" : "Lyra T Pose",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "It's okay to not clasp your hands in prayer, a sincere heart is all that's needed.",
+    "icon" : "Avatar_Overseas_13i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_Overseas_11" : {
+    "name" : "First Joy",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Fishing, cards, and racing. These have always been the meaning of life.",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_Overseas_12" : {
+    "name" : "Chess Master",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Successfully achieved copper bloom freedom in Joy Square. ",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_Overseas_13" : {
+    "name" : "Copper Bloom Tycoon",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Represents your extreme wealth... even though they're just copper blooms.",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growupEquip1_os" : {
+    "name" : "Growth Pack I",
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "BigClient_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growupEquip2_os" : {
+    "name" : "Growth Pack II",
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "BigClient_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growupEquip3_os" : {
+    "name" : "Growth Pack III",
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "BigClient_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growupEquip4_os" : {
+    "name" : "Growth Pack IV",
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "BigClient_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "bag_growupEquip5_os" : {
+    "name" : "Growth Pack V",
+    "type" : "ITEM_TYPE_GIFT",
+    "icon" : "BigClient_01",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "choose_attr_equip_orange_os" : {
+    "name" : "Fortress Stat Equipment Box",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "icon" : "treasure_equip_orange",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_tencentfestival_3" : {
+    "name" : "Thoughts of Winter",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "One can still dream of a white winter in a neon city that never snows.",
+    "icon" : "AvatarFrame_tencentfestival_3i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_tencentfestival_4" : {
+    "name" : "New Year's Journey",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Even if you don't have New Year's off, you can still find time to have fun at the garden party.",
+    "icon" : "AvatarFrame_tencentfestival_4i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_tencentfestival_1" : {
+    "name" : "Annabella: Awakening",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "\"Master, if you complain about my maid services, I'll—!\"",
+    "icon" : "Avatar_tencentfestival_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_tencentfestival_2" : {
+    "name" : "Cold-Lovin' Mi-a",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Doesn't seeing Mi-a like this make you feel warm inside?",
+    "icon" : "Avatar_tencentfestival_2i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_tencentfestival_1" : {
+    "name" : "Enchanting Ice and Snow",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "\"Is snow synonymous with beauty? Actually, it's synonymous with power!\" A middle school swordswoman said with a tremor in her voice.",
+    "icon" : "icon_chat_qipao_tencentfestival_1",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_tencentfestival_2" : {
+    "name" : "Rabbit Welcomes Spring",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Spark... is also a type of rabbit!",
+    "icon" : "icon_qipao_tencentfestival_2",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_tencentfestival_1" : {
+    "name" : "LinYeah",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained via CREATOWER Special Creation Event.",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_tencentfestival_2" : {
+    "name" : "Ms. Lin's Big Fan!",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "A fan of Ms. Lin!",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Avatar_koreafestival_1" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "DNT",
+    "icon" : "Avatar_koreafestival_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_koreafestival_1" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "DNT",
+    "icon" : "AvatarFrame_koreafestival_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "chat_qipao_koreafestival_1" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "DNT",
+    "icon" : "icon_qipao_koreafestival_1",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_koreafestival_1" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "DNT",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_koreafestival_2" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "DNT",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Title_koreafestival_3" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "DNT",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "AvatarFrame_iwplayfestival_1" : {
+    "name" : "DNT",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "DNT",
+    "icon" : "AvatarFrame_iwplayfestival_1i",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "fashion_Guidenpc_mia_oversea_1" : {
+    "name" : "Garuda Mi-a",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "The inspiration for this came from the mythical giant bird Shelly came across in a mysterious ancient book. It looks to be a perfect match for the flying Mi-a.",
+    "icon" : "256mia012",
+    "rarity" : "EItemRarity::ITEM_RARITY_SSR"
+  },
+  "choose_frag_BP5_OS" : {
+    "name" : "Pass Relic Shard Box II",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "description" : "General box",
+    "icon" : "gift_artifact_frag_ssr",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_AnniversaryCoin_os" : {
+    "name" : "Festival Coin",
+    "type" : "ITEM_TYPE_BARTER",
+    "description" : "Obtained from the limited-time event: Winter Festival. Redeemable for gifts in the Festival Store.",
+    "icon" : "icon_shuangdan_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_SpringFestivalCoin_os" : {
+    "name" : "Fortune Fan",
+    "type" : "ITEM_TYPE_BARTER",
+    "description" : "Participate in the New Year Garden event to earn fortune fans, which can be used in the Prize Exchange Office.",
+    "icon" : "icon_SpringFestivalCoin_os",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  }
+}

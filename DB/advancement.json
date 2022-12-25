@@ -452,13 +452,13 @@
     "needamt" : 1
   },
   "sword_physic_ssr_star_0" : {
-    "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical-damage weapons. This set effect also works with weapons in the off-hand slot. This effect does not stack repeatedly.",
+    "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
     "cost" : 0,
     "need" : "None",
     "needamt" : null
   },
   "sword_physic_ssr_star_1" : {
-    "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
+    "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
     "cost" : 1000,
     "need" : "sword_physic_plasm",
     "needamt" : 1
@@ -730,7 +730,7 @@
     "needamt" : 1
   },
   "Immortal_thunder_ssr_star_5" : {
-    "advancement" : "Automatically block for <shuzhi>1</> second upon being attacked. Dispel any control effects immediately when activated. Negate the next incoming attack that deals less than <shuzhi>20%</> of the max HP. While blocking, tapping the normal attack button unleashes a <shuzhi>Counter Slash</> on the target, dealing damage equal to <shuzhi>240%</> of ATK and <shuzhi>suspending them</>. <shuzhi>18</>-second cooldown.",
+    "advancement" : "Automatically block for <shuzhi>1</> second upon being attacked. Dispel any control effects immediately when activated. Negate the next incoming attack that deals less than <shuzhi>20%</> of the max HP. While blocking, tapping the normal attack button unleashes a <shuzhi>Counter Slash</> on the target, dealing damage equal to <shuzhi>240%</> of ATK and <shuzhi>strongly suspends them</>. Cooldown: <shuzhi>18</> seconds.",
     "cost" : 9000,
     "need" : "Immortal_thunder_plasm",
     "needamt" : 1
@@ -760,7 +760,7 @@
     "needamt" : 1
   },
   "Suspension_thunder_ssr_star_3" : {
-    "advancement" : "Every <shuzhi>6</> seconds, the Electrode will unleash <shuzhi>Ring Lightning</>, which deals damage equal to a maximum of <shuzhi>205%</> of ATK in a target area.",
+    "advancement" : "Every <shuzhi>6</> seconds, the Electrode will unleash <shuzhi>Ring Lightning</>, which deals area damage equal to a maximum of <shuzhi>205%</> of ATK.",
     "cost" : 4000,
     "need" : "Suspension_thunder_plasm",
     "needamt" : 1
@@ -868,12 +868,13 @@
     "needamt" : 1
   },
   "dkatana_ice_ssr_star_0" : {
+    "advancement" : "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>{0}%</> and frost resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
     "cost" : 0,
     "need" : "None",
     "needamt" : null
   },
   "dkatana_ice_ssr_star_1" : {
-    "advancement" : "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <shuzhi>5</> times weapon skills are used, and the damage of Flow and Counterattack is increased by <shuzhi>1</> time for the next <shuzhi>{0}</> [@$second|seconds].",
+    "advancement" : "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <shuzhi>5</> times weapon skills are used, and the damage of Flow and Counterattack is increased by <shuzhi>1</> time for the next <shuzhi>{0}</> seconds.",
     "cost" : 1000,
     "need" : "Dkatana_ice_plasm",
     "needamt" : 1
@@ -885,6 +886,7 @@
     "needamt" : 1
   },
   "dkatana_ice_ssr_star_3" : {
+    "advancement" : "Excited Flow: Increase the damage of Sword Shadow: Surge to <shuzhi>350%</> of frost ATK.\r\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <shuzhi>{0}</> seconds.",
     "cost" : 4000,
     "need" : "Dkatana_ice_plasm",
     "needamt" : 1
@@ -902,19 +904,19 @@
     "needamt" : 1
   },
   "dkatana_ice_ssr_star_6" : {
-    "advancement" : "Upon hitting a target with Surge, increase frost damage by <shuzhi>{0}%</> for <shuzhi>{1}</> [@$second|seconds].\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by <shuzhi>{2}%</> for <shuzhi>{3}</> [@$second|seconds].",
+    "advancement" : "Upon hitting a target with Surge, increase frost damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.",
     "cost" : 13500,
     "need" : "Dkatana_ice_plasm",
     "needamt" : 1
   },
   "fan_superpower_ssr_star_0" : {
-    "advancement" : "When pairing Shadoweave with other weapons, the <shuzhi>Weapons Master</> effect can be created.\r\nEpiphyllum will appear around the target randomly and explode within <shuzhi>1–3</> seconds, dealing <shuzhi>60%</> area damage.",
+    "advancement" : "When pairing Shadoweave with other weapons, the <shuzhi>Weapons Master</> effect can be created.\r\nEpiphyllum will appear around the target randomly and explode within <shuzhi>1–3</> seconds, dealing <shuzhi>25%</> area damage.",
     "cost" : 0,
     "need" : "None",
     "needamt" : null
   },
   "fan_superpower_ssr_star_1" : {
-    "advancement" : "The normal attack deals damage in a target area upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, the damage of each of the following epiphyllum explosions is increased by <shuzhi>10%</>, up to <shuzhi>50%</> in total.\r\nThe epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.5</> seconds.",
+    "advancement" : "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by <shuzhi>{0}%</>, up to a maximum of <shuzhi>{1}%</>.\r\nThe epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.5</> seconds.",
     "cost" : 1000,
     "need" : "fan_superpower_plasm",
     "needamt" : 1
@@ -926,7 +928,7 @@
     "needamt" : 1
   },
   "fan_superpower_ssr_star_3" : {
-    "advancement" : "The epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.3</> seconds.\r\nEpiphyllum will attach to the enemy.\r\nThe duration of <shuzhi>Moonlight Realm</> is now increased to <shuzhi>20</> seconds.",
+    "advancement" : "The epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.3</> seconds.\r\nEpiphyllums will attach to the enemy.\r\nThe duration of <shuzhi>Moonlight Realm</> is now increased to <shuzhi>20</> seconds.",
     "cost" : 4000,
     "need" : "fan_superpower_plasm",
     "needamt" : 1
@@ -938,19 +940,61 @@
     "needamt" : 1
   },
   "fan_superpower_ssr_star_5" : {
-    "advancement" : "When under the effect of<shuzhi>Moonlight Realm</>, gain <shuzhi>30</> weapon charge points every second and increase the damage of discharge skill by <shuzhi>15%</>.",
+    "advancement" : "When under the effect of <shuzhi>Moonlight Realm</>, gain <shuzhi>30</> weapon charge every second and increase the damage of discharge skill by <shuzhi>{0}%</>.",
     "cost" : 9000,
     "need" : "fan_superpower_plasm",
     "needamt" : 1
   },
   "fan_superpower_ssr_star_6" : {
-    "advancement" : "Switch modes on <shuzhi>Moonlight Realm</> up to <shuzhi>2</> times. Gain <shuzhi>1</> attempt after skill cooldown and another <shuzhi>1</> attempt by charging discharge.\r\nUse any weapon discharge <shuzhi>3</> times to gain <shuzhi>+1</> on the <shuzhi>Moonlight Realm</> count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of <shuzhi>Moonlight Realm</>, increase damage by <shuzhi>15%</>.",
+    "advancement" : "Switch modes on <shuzhi>Moonlight Realm</> up to <shuzhi>2</> times. Gain <shuzhi>1</> attempt after skill cooldown and another <shuzhi>1</> attempt by charging discharge.\r\nUse any weapon discharge <shuzhi>3</> times to gain <shuzhi>+1</> on the <shuzhi>Moonlight Realm</> count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of <shuzhi>Moonlight Realm</>, increase attack by <shuzhi>{0}%</>.",
     "cost" : 13500,
     "need" : "fan_superpower_plasm",
     "needamt" : 1
   },
+  "arm_physic_ssr_star_0" : {
+    "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "cost" : 0,
+    "need" : "None",
+    "needamt" : null
+  },
+  "arm_physic_ssr_star_1" : {
+    "advancement" : "When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to <shuzhi>{0}%</> of physical ATK × number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.",
+    "cost" : 1000,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
+  "arm_physic_ssr_star_2" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "cost" : 2000,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
+  "arm_physic_ssr_star_3" : {
+    "advancement" : "Increase all damage dealt by Guards by <shuzhi>20%</>, and increase the guarded target's final damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</> when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
+    "cost" : 4000,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
+  "arm_physic_ssr_star_4" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "cost" : 6000,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
+  "arm_physic_ssr_star_5" : {
+    "advancement" : "Forgiveness Guard: After releasing Resonance 5 times, receive <shuzhi>1</> chance to negate fatal damage for the user and the guarded target. After a teammate negates fatal damage, they will consume Forgiveness Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the user receives <shuzhi>2</> chances to negate fatal damage. Stack up to <shuzhi>5</> times. After the user negates fatal damage, they will consume 1 stack of Enlightenment Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.",
+    "cost" : 9000,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
+  "arm_physic_ssr_star_6" : {
+    "advancement" : "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by <shuzhi>{0}%</>, up to <shuzhi>{1}%</> for <shuzhi>{2} seconds</>.",
+    "cost" : 13500,
+    "need" : "arm_physic_plasm",
+    "needamt" : 1
+  },
   "tianlang_thunder_ssr_star_0" : {
-    "advancement" : "<shuzhi>Volt Reactions</>: Increase volt ATK by <shuzhi>20%</> and volt resistance by <shuzhi>40%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This effect works in the off-hand slot. Cannot stack with effects of Volt Resonance.",
+    "advancement" : "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
     "cost" : 0,
     "need" : "None",
     "needamt" : null
@@ -989,6 +1033,132 @@
     "advancement" : "Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain <shuzhi>{0}%</> volt damage boost for <shuzhi>{1}</> seconds.",
     "cost" : 13500,
     "need" : "tianlang_thunder_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_0" : {
+    "advancement" : "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Tranquil Heart</>: Using discharge/skills/charged attacks/dodging with Clover Cross increases Clover Cross' final crit rate by <shuzhi>5%</> for <shuzhi>15</> seconds, stacking up to <shuzhi>3</> times. After the crit rate exceeds <shuzhi>100%</>, <shuzhi>50%</> of the extra amount will be converted into crit damage, up to <shuzhi>7.5%</>.",
+    "cost" : 0,
+    "need" : "None",
+    "needamt" : null
+  },
+  "snipe_fire_ssr_star_1" : {
+    "advancement" : "Hitting a target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, burn damage will be triggered an additional <shuzhi>2</> times. When an enemy unit leaves the optical space, their speed is reduced by <shuzhi>80%</> for <shuzhi>2.5</> seconds. Cooldown: <shuzhi>12</> seconds.\r\nTargets of Cross Snipe will be terrified (speed is slowed by <shuzhi>80%</>) for <shuzhi>1.5</> seconds. Cooldown: <shuzhi>4</> seconds.",
+    "cost" : 1000,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_2" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "cost" : 2000,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_3" : {
+    "advancement" : "Recover HP equal to <shuzhi>50%</> of the damage dealt every time Cross Snipe lands a critical hit (not exceeding <shuzhi>15%</> of own Max HP) and <shuzhi>50</> weapon charge.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</>, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "cost" : 4000,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_4" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "cost" : 6000,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_5" : {
+    "advancement" : "<shuzhi>Ruthless Bomb</> Enhancement: While in the Burn Enhancement state, burn damage dealt to targets is increased by <shuzhi>30%</>.\r\n<shuzhi>Deceitful Bomb</> Enhancement: Gas explosion damage ignores <shuzhi>30%</> of the target's flame resistance.",
+    "cost" : 9000,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "snipe_fire_ssr_star_6" : {
+    "advancement" : "Increase damage dealt by Cross Snipe by an additional <shuzhi>20%</>.",
+    "cost" : 13500,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_0" : {
+    "advancement" : "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "cost" : 0,
+    "need" : "None",
+    "needamt" : null
+  },
+  "iceblade_ice_ssr_star_1" : {
+    "advancement" : "Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward.",
+    "cost" : 1000,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_2" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "cost" : 2000,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_3" : {
+    "advancement" : "Receive Alyss's Support every time Starry Night is triggered and increase Starry Night and Hoarfrost Damage by <shuzhi>{0}%</> for <shuzhi>{1} [@$second|seconds]</>. Stack up to <shuzhi>3</> times.",
+    "cost" : 4000,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_4" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "cost" : 6000,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_5" : {
+    "advancement" : "Increase the damage of Unyielding Wing's normal attack and Spatial Slice by <shuzhi>{0}%</>. The Wanderer receives Alyss's Protection upon taking fatal damage, protecting the Wanderer from death 1 time and making the Wanderer immune to damage for a short time. Cooldown: <shuzhi>{1} [@$second|seconds]</>.",
+    "cost" : 9000,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "iceblade_ice_ssr_star_6" : {
+    "advancement" : "Increase frost damage by <shuzhi>{0}%</> when Alyss's Support reaches 3 stacks.",
+    "cost" : 13500,
+    "need" : "iceblade_ice_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_0" : {
+    "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "cost" : 0,
+    "need" : "None",
+    "needamt" : null
+  },
+  "Whip_physic_ssr_star_1" : {
+    "advancement" : "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Psychic Puppet's physical damage boost to <shuzhi>{0}%</>. During Magic Trick, recover <shuzhi>{1}%</> of Max HP and <shuzhi>{2}</> weapon charge every second.",
+    "cost" : 1000,
+    "need" : "Whip_physic_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_2" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "cost" : 2000,
+    "need" : "Whip_physic_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_3" : {
+    "advancement" : "When ending Magic Trick early, deal damage in a large area over <shuzhi>{3} [@$second|seconds]</>. The cooldown of Mobius' next skill is reduced, and physical damage is increased by <shuzhi>{0}%</> for a period of time. If Magic Trick has more than <shuzhi>13</> seconds remaining, gain an additional <shuzhi>200</> weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts (this effect does not apply to Mobius). The area damage dealt is capped at <shuzhi>{1}%</> of ATK (the maximum damage is dealt when the remaining time is more than <shuzhi>{5} [@$second|seconds]</>). The maximum cooldown reduction is <shuzhi>{4} [@$second|seconds]</>, and the physical damage boost can last up to <shuzhi>{2} [@$second|seconds]</>.",
+    "cost" : 4000,
+    "need" : "Whip_physic_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_4" : {
+    "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "cost" : 6000,
+    "need" : "Whip_physic_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_5" : {
+    "advancement" : "When switching to Mobius, immediately gain <shuzhi>{0}</> warm-up points. Cooldown: <shuzhi>{1} [@$second|seconds]</>. When using Magic Trick, deal area damage equal to <shuzhi>{2}%</> of ATK to nearby targets and reduce their physical resistance by <shuzhi>{3}%</> for <shuzhi>{4} [@$second|seconds]</>.",
+    "cost" : 9000,
+    "need" : "Whip_physic_plasm",
+    "needamt" : 1
+  },
+  "Whip_physic_ssr_star_6" : {
+    "advancement" : "When using Magic Trick, Mobius has an additional whip that is automatically swung whenever Mobius uses normal attacks or dodges, dealing damage equal to <shuzhi>{0}%</> of Mobius' ATK (this damage is not counted as normal attack damage).",
+    "cost" : 13500,
+    "need" : "Whip_physic_plasm",
     "needamt" : 1
   },
   "bigsword_fire_r_star_0" : {
@@ -1177,7 +1347,7 @@
     "needamt" : null
   },
   "sword_fire_sr_star_1" : {
-    "advancement" : "Normal attacks generate explosions, dealing flame damage equal to 90% of ATK in a small radius. Cooldown of 5 seconds.",
+    "advancement" : "Normal attacks generate explosions, dealing flame damage equal to 90% of ATK in a small radius. Cooldown: 5 seconds.",
     "cost" : 0,
     "need" : "None",
     "needamt" : null
@@ -1608,7 +1778,7 @@
     "needamt" : null
   },
   "breakfate_sword_physic_star_1" : {
-    "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
+    "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
     "cost" : 1000,
     "need" : "sword_physic_plasm",
     "needamt" : 1
@@ -2059,6 +2229,30 @@
     "advancement" : "Passive 1: Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restores HP of any teammate who picks it up equal to <shuzhi>15%</> of ATK. Cooldown: <shuzhi>2</> seconds.\r\n\r\nPassive 2: Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>20%</> of ATK every second while the shield is active.\r\n\r\nPassive 3: Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases the damage of the teammate who picks it up by <shuzhi>1%</> for <shuzhi>45</> seconds. Stack up to <shuzhi>10</> times. Cooldown: <shuzhi>2.5</> seconds.\r\n\r\nPassive 4: Using a skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
     "cost" : 13500,
     "need" : "cube_fire_plasm",
+    "needamt" : 1
+  },
+  "breakfate_Snipe_fire_ssr_6" : {
+    "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "cost" : 13500,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "breakfate_Snipe_fire_sr_6" : {
+    "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "cost" : 13500,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "breakfate_Snipe_fire_r_6" : {
+    "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "cost" : 13500,
+    "need" : "Snipe_fire_plasm",
+    "needamt" : 1
+  },
+  "breakfate_Snipe_fire_n_6" : {
+    "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "cost" : 13500,
+    "need" : "Snipe_fire_plasm",
     "needamt" : 1
   }
 }

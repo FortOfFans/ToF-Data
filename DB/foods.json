@@ -1,1512 +1,1832 @@
 {
-  "Task_Area2Cooking": {
-    "name": "Dognip",
-    "type": "ITEM_TYPE_QUEST",
-    "description": "The favorite food of trained hounds.",
-    "source": "Item for distracting hounds.",
-    "icon": "Task_Area2Cooking",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_0901": {
-    "name": "Awful stew",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A bunch of unknown ingredients roughly stewed in a big pot, with a bulk of nutrients lost in the process.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_901",
-    "stars": 0,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_0902": {
-    "name": "Fine stew",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "It looks like a success, but the choice of ingredients ultimately contributes to the dish's downfall...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_902",
-    "stars": 0,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1001": {
-    "name": "Fried mushrooms",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Taste aside, at least it's cooked and not raw.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0101",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1002": {
-    "name": "Seaweed and egg soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Got fresh laver and rich in protein, good for filling up the tummy.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1002",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1003": {
-    "name": "Crispy grilled fish",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "One of the popular eats in the port city of Banges. Cheap and delicious.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0103",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1004": {
-    "name": "Wholegrain bread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Made from processed grain, nutritious and easily kept. Every Wanderer should carry some.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1004",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1005": {
-    "name": "Breakfast cereal",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Once a life-saving ration enough to feed five to six people. Given the improved condition, people add milk to it now instead of water.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1005",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1006": {
-    "name": "Sizzling meat",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "How would you like it cooked? Real men just eat it after a few seconds of grilling on rocks under a hot sun.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0106",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1007": {
-    "name": "Seafood soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "They said one bite will pep you up, two will make you healthy, despite the average taste.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0118",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1008": {
-    "name": "Crispy chicken burger",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Chicken burgers seen in fast food joints. Few things top the combo of hot, crunchy chicken and crispy lettuce.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0108",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1009": {
-    "name": "Spicy burger",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "No matter how long it's been, it never fails to stir your appetite.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0109",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1010": {
-    "name": "Egg fried rice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "This is the twist you need when you get tired of eating plain white rice.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0110",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1011": {
-    "name": "Steamed crab",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Seafood is best when served fresh. The problem is, where to start?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0111",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1012": {
-    "name": "Iced strawberry soda",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Mix pureed strawberries into soda, then add ice. A summer essential.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0112",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1013": {
-    "name": "Flamekissed soda",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Time for afternoon tea!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0113",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1014": {
-    "name": "Thundercloud blueberry soda",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The blueberry is as dark as a rain cloud. Be careful not to spill it on you, since it's hard to wash off.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0114",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1015": {
-    "name": "Golden egg and tomato",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "No, I didn't scramble the eggs by accident...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0115",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1016": {
-    "name": "Simple power salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The most basic salad for meeting the daily nutrient requirement. The choice for a low-fat diet.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0116",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1017": {
-    "name": "Lettuce salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A nice salad with simple ingredients and a robust flavor.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1017",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1018": {
-    "name": "Mushroom soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A perfect combination of fresh mushrooms and crispy lettuce.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0119",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1019": {
-    "name": "Fried egg",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Start a wonderful day off with fried eggs!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0124",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1020": {
-    "name": "Steamed conch",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "It retains all of its original taste! A sprinkle of chopped green onion would improve it, though.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0120",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1021": {
-    "name": "Steamed egg with sea urchin",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Sea urchin with smooth steamed egg is delicious and comforting, particularly popular in the snowfield.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0121",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1022": {
-    "name": "Double Berry Jam Toast",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Fusion of two berries for a sweet-sour symphony in your mouth.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0143",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1023": {
-    "name": "Tomato and fried egg pasta",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Perfectly sour and easy to make. A tasty low-calorie treat.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0123",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1024": {
-    "name": "Meat and potato stew",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The meat absorbed all the nutrients, so it's extremely healthy!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0218",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1025": {
-    "name": "Fries",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "It's not junk food but pure happiness!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0125",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1026": {
-    "name": "Vegetable salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Selected salad, great for picnics.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1026",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1027": {
-    "name": "Fried chicken",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Simple and quick meal. The crispy golden coating will make passersby drool.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_cooking_1027",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1028": {
-    "name": "Honeyed fruit juice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Fresh juice with dabs of honey, slightly shaken. A tinge of sweetness amid the sour.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "Item_Cooking_0128",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1029": {
-    "name": "Fruit cake",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "There's no stress a piece of delicious cake can't solve. If there is, have a second!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0129",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1030": {
-    "name": "Iced orchid surprise",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Summer special. Feel the surf party in your mouth!",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "Item_Cooking_1030",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1031": {
-    "name": "Stir-fried broccoli",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Healthy low-fat food, though not a favorite for most.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1031",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1032": {
-    "name": "Boiled scallops",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A simple tasty dish without any seasoning needed.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0107",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1033": {
-    "name": "Meat bun",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The juice that bursts out when you bite into one is the essence!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_cooking_008",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1034": {
-    "name": "Sliced fish with mushroom",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A perfect complement of sliced fish and mushroom.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0214",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1035": {
-    "name": "Roast rump",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Set up the grill and grab a chair. Yeah, that's the smell...",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "item_cooking_1035",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_1036": {
-    "name": "Dandelion mushroom soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Ever tried dandelion with mushroom? It will make you light on your feet.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_1036",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2001": {
-    "name": "Surf and Turf",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Banges' home cooking for that hometown taste.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0140",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2002": {
-    "name": "Red wheat bread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Most common food among the people of Aida that reflects their simple life.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2002",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2003": {
-    "name": "Fiddlehead pie",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Healthy biscuit with fiddlehead filling, not too popular among kids, though.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2003",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2004": {
-    "name": "Chocolate bread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Stuffed with chocolate! Just hold off your diet for a day.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0206",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2005": {
-    "name": "Firecap mushroom soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "What's more comforting than a piping hot firecap mushroom soup when you're scaling snowy peaks?",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "Item_Cooking_0216",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2006": {
-    "name": "Black moss soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Fill up the stomach now and grab something better later.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2006",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2007": {
-    "name": "Balloon fruit salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Specially selected salad. Sweet and sour, kids' favorite!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0204",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2008": {
-    "name": "Fiddlehead soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Guess it's another herbivore day...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2008",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2009": {
-    "name": "Spicy eel",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Is the electric eel fully cooked? How come my tongue feels tingly?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0217",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2010": {
-    "name": "Eel and mushroom soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A spicy challenge for the taste buds. Down it in one gulp if you dare! And no water allowed!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0221",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2011": {
-    "name": "Sea crab soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "All good things of a crab are in the stew.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0229",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2012": {
-    "name": "Sweet pomegranate juice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Am I seeing things, or is the juice actually glowing?",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "Item_Cooking_0225",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2013": {
-    "name": "Cocoa milk",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Drink a cup before bedtime and have a sweet dream!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0228",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2014": {
-    "name": "Firedragon fruit tea",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Couple this with a cake for a perfect afternoon tea!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0210",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2015": {
-    "name": "Barnacle stew",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A taste that you will enjoy!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0222",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2016": {
-    "name": "Barnacle seafood pizza",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Give me a double portion!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0208",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2017": {
-    "name": "Snow azalea tea",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Why don't you have some while vegging by the campfire in cold winter?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2017",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2018": {
-    "name": "Pine cocoa",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Nut-flavored cocoa milk. Nut lovers can add more nuts to it.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0243",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2019": {
-    "name": "Nut tea",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Smell how fresh the nuts are...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0211",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2020": {
-    "name": "Purple yam pie",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Filling pie and portable enough for long hikes.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_2020",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2021": {
-    "name": "Snow lotus soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Snow lotus tastes rather bland, so sugar is added to make it a popular dessert.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "Item_Cooking_2021",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2022": {
-    "name": "Truffle fried rice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Stir-fry the truffle, then mix it with fried rice.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0202",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2023": {
-    "name": "Caterpillar fungus noodles",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Am I at the age when I have to watch my diet?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0240",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2024": {
-    "name": "Caviar sushi",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A visually pleasant roll makes it a classy dish. If you can't make it, you're better off mixing them in a bowl.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0215",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2025": {
-    "name": "Caviar potato balls",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Soft potato balls drenched in premium caviar. You'll want seconds.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0223",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2026": {
-    "name": "Grilled steak",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Medium, please!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0207",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2027": {
-    "name": "Steak with mushroom sauce",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "I think I'm seeing steaks flying across the sky...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0220",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2028": {
-    "name": "Braised meat",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A traditional classic.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0117",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2029": {
-    "name": "Juicy meat sandwich",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Take your time and make yourself a good breakfast!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0219",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2030": {
-    "name": "Salmon sashimi",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "This is what food should taste like!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0242",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "Item_Cooking_2031": {
-    "name": "Snail baked rice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Looks like a weird fusion, but much tastier than it looks.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0122",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3001": {
-    "name": "Stir-Fried Chilies",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "So spicy!!!!!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3001",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3002": {
-    "name": "Charcoal Grilled Sand Onion",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Wanderer's mouth-watering BBQ Stand, now open!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "Item_Cooking_0122",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3003": {
-    "name": "Aloe Yogurt",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Who doesn't like sweet and sour yogurt?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3003",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3004": {
-    "name": "Rose Tea",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "When brewing rose tea, even the most restless mind will calm down miraculously.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3004",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3006": {
-    "name": "Beet Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Warm beetroot soup. You can easily drink up a whole pot in cold weather.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3006",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3007": {
-    "name": "Sweetmelon Salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "It tastes better when it's chilled, but don't be greedy.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3007",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3008": {
-    "name": "Thornfruit Soda",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A generous amount of honey is added to give a taste to this plain thornfruit juice.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3008",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3009": {
-    "name": "Pumpkin Porridge",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Quite a staple food that can be filling, and you probably won't need to eat anything else after a bowl.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3009",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3010": {
-    "name": "Fried Tofu",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Crispy, golden fried snacks. Be careful not to drip the sauce on your clothes!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3010",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3011": {
-    "name": "Radish Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Nourishing and delicious soup. Another bowl please!",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3011",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3012": {
-    "name": "Salt-and-Pepper Corn",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Simple and easy snacks, the first choice for late nights.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3012",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3013": {
-    "name": "Cactus Special",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Refreshing Cactus Special, essential for summer.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3013",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_POOR",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3014": {
-    "name": "Grilled Lizard Tail",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Sprinkle it with chilis, cumin, and pepper, and wait quietly for a while before you start.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3014",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3015": {
-    "name": "Special Grilled Rib",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The best companion with rice! The one and only!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3015",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3016": {
-    "name": "Chocolate Soy Milk",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "If you are tired of drinking ordinary soy milk, why not try this one?",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3016",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3017": {
-    "name": "Beet with Fiddlehead",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Once the ingredients are boiled, remove them from the pan, add the sauce, mix well and you're good to go.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3017",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3018": {
-    "name": "Desert Salad",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Diced ball cactus and thornfruits with some salad dressing. Recommended to chill it first.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3018",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3019": {
-    "name": "Rose Bread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A pleasant afternoon starts with a rose-scented square bread.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3019",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3020": {
-    "name": "Honeymelon Bread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Just one round bread stuffed with sweet melon filling is enough for breakfast.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3020",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3021": {
-    "name": "Multigrain Porridge",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The rice porridge is made of a variety of mixed grains. Sometimes, I just want to eat something mild.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3021",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3022": {
-    "name": "Corn and Seafood Biscuit",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "All-seafood tacos... You'll go broke opening a store like this!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3022",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3023": {
-    "name": "Steamed Pumpkin",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The steamed pumpkin is soft and sweet. It's a good choice for weight loss meals.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3023",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3024": {
-    "name": "Chicken Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Smooth noodles topped with warm chicken broth. Just pretend this is a bowl of birthday noodles and come make a wish.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3024",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3025": {
-    "name": "Spicy BBQ Noodles",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "I can certainly rival Kun Ji Noodles!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3025",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3026": {
-    "name": "Spicy Fried Rice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The spicier the merrier!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3026",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3027": {
-    "name": "Grilled Combo Plate",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "This must be the meat lover's paradise, right!?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3027",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3028": {
-    "name": "Radish and Pork Chop Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Radish and pork chop soup, which has been carefully stewed for a whole day. The radishes are actually more delicious than the spareribs.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3028",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3029": {
-    "name": "Creamy Corn Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A creamy, sweet, and tangy soup, isn't this the time to eat it with bread?",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3029",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_COMMON",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3030": {
-    "name": "Crispy Lard Gourd",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Wrap it in the frying powder and deep fry for two minutes, and you're done!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3030",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3031": {
-    "name": "Grilled Oyster",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "It's hard to decide whether to eat it raw with some lemon juice or grill it.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3031",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3032": {
-    "name": "Cold Fish Mint",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "After the first try, I've fallen in love with the taste of fish mint!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "3032",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3033": {
-    "name": "Spicy Lard Gourd Strip",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The appetizing cold dish seems to be fine as a main meal also.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3033",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3034": {
-    "name": "Oyster Tofu Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "I heard that many children don't like to eat fish, so this soup is specially made.",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3034",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_Cooking_3035": {
-    "name": "Scramble Egg with Fish Mint",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Everything can be scrambled with eggs! My favorite is...",
-    "source": "Regenerate <ComLblGreen>{0}</> endurance.",
-    "icon": "3035",
-    "stars": 2,
-    "quality": "ITEM_QUALITY_RARE",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_001": {
-    "name": "Roast Suckling Pig",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A roast suckling pig cooked by an excellent chef can satisfy the most discerning of diners.\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_001",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_002": {
-    "name": "Braised Turkey with Apples",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "An Astra specialty. Thanks to the promotions of vendors and travelers, it has become popular across the entire continent.\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_002",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_003": {
-    "name": "Roasted Drumstick with Veggies",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "First satisfy your taste buds with a bite of the roasted chicken drumstick. Then have a mouthful of refreshing lettuce. Yum yum!\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_003",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_004": {
-    "name": "Pan-fried Salmon",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Tender salmon is served with sweet honey, leaving a pleasant aftertaste in your mouth.\r\n\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_004",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_005": {
-    "name": "Small Sesame Rice Dumplings",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A traditional Banges Port specialty that is greatly loved by young and old.\r\n\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_005",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_006": {
-    "name": "Turkey Beetroot Soup",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A bowl of warm soup that can chase away all the fatigue of the day.\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_006",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_007": {
-    "name": "Gingerbread",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A popular festival dessert that has the sweetness of sugar and honey and the pleasant fragrance of wheat grains.\r\n\r\nAfter defeating Robarg, Apophis, Frost Bot, Sobek, Rose Queen and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_007",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_008": {
-    "name": "Apple Cake",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A fluffy fruit cake. One bite, and you'll be satisfied. \r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_008",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_009": {
-    "name": "Fruit Punch",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A drink with a fruitful aroma and the slightest smell of booze.\r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_009",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity_cooking_010": {
-    "name": "Apple Juice",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Sweet and sour. Suitable for both young and old. A favorite summer drink for many people.\r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity_cooking_010",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_101": {
-    "name": "Floating Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Ride in the balloon fruit, to the world of chocolate!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_101",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_102": {
-    "name": "Pine Nut Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Chocolate covered with pine nuts is the perfect gift.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_102",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_103": {
-    "name": "Strawberry Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_103",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_104": {
-    "name": "Hazelnut Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Wrapped in chocolate is a heart of anticipation for love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_104",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_105": {
-    "name": "Truffle Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "You can feel the affection from the selection of ingredients.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_105",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_106": {
-    "name": "Blueberry Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_106",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_107": {
-    "name": "Honey Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A majestic symphony of chocolate and honey.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_107",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_108": {
-    "name": "Fallen Fruit Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "To give you the thing I hold most dear.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_108",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_109": {
-    "name": "Cocoa Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_109",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_110": {
-    "name": "Milk Crush",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Milk and chocolate are a match made in heaven!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_110",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_201": {
-    "name": "Floating Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Ride in the balloon fruit, to the world of chocolate!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_201",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_202": {
-    "name": "Pine Nut Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Chocolate covered with pine nuts is the perfect gift.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_202",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_203": {
-    "name": "Strawberry Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_203",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_204": {
-    "name": "Hazelnut Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Wrapped in chocolate is a heart of anticipation for love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_204",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_205": {
-    "name": "Truffle Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "You can feel the affection from the selection of ingredients.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_205",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_206": {
-    "name": "Blueberry Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_206",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_207": {
-    "name": "Honey Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A majestic symphony of chocolate and honey.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_207",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_208": {
-    "name": "Fallen Fruit Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "To give you the thing I hold most dear.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_208",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_209": {
-    "name": "Cocoa Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_209",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_210": {
-    "name": "Milk Planet",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Milk and chocolate are a match made in heaven!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_210",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_301": {
-    "name": "Floating Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Ride in the balloon fruit, to the world of chocolate!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_301",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_302": {
-    "name": "Pine Nut Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Chocolate covered with pine nuts is the perfect gift.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_302",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_303": {
-    "name": "Strawberry Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_303",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_304": {
-    "name": "Hazelnut Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Wrapped in chocolate is a heart of anticipation for love.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_304",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_305": {
-    "name": "Truffle Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "You can feel the affection from the selection of ingredients.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_305",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_306": {
-    "name": "Blueberry Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_306",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_307": {
-    "name": "Honey Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "A majestic symphony of chocolate and honey.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_307",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_308": {
-    "name": "Fallen Fruit Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "To give you the thing I hold most dear.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_308",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_309": {
-    "name": "Cocoa Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_309",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_310": {
-    "name": "Milk Cube",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Milk and chocolate are a match made in heaven!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_310",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_001": {
-    "name": "Cetus Souvenir",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Electromancy themed chocolate giftbox, Hanna's proud work.\r\nThe Doctor says that delicious things must be shared with important people!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_box_thunder",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_002": {
-    "name": "Cetus Souvenir",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Physical element themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_box_physics",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_003": {
-    "name": "Cetus Souvenir",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Pyromancy themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_box_fire",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_004": {
-    "name": "Cetus Souvenir",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Cryomancy themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_box_ice",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "item_activity2_cooking_005": {
-    "name": "Crispy Rice Cake",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "One of Planet Aida's most popular snacks. Members of the Hyenas and the Ravagers are said to have fought over one piece of the cake.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "item_activity2_cooking_1",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "HealPotion_01": {
-    "name": "Spring Pancake",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "The most popular snack at the Spring Market.\r\nIt's impossible to tell its flavor from the look of it...",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "HealPotion_01",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
-  },
-  "BuffPotion_01": {
-    "name": "Pinebreeze",
-    "type": "ITEM_TYPE_COOKING",
-    "description": "Beverage featured in the Spring Market,\r\nOne sip of the drink is said to make you feel like being in the middle of a pine forest, with the spring breeze gently blowing on your cheeks.",
-    "source": "Regenerate <ComLblGreen>{0}</> satiety.",
-    "icon": "BuffPotion_01",
-    "stars": 1,
-    "quality": "ITEM_QUALITY_EPIC",
-    "rarity": "EItemRarity::ITEM_RARITY_Invalid"
+  "Task_Area2Cooking" : {
+    "name" : "Dognip",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "The favorite food of trained hounds.",
+    "source" : "Item for distracting hounds.",
+    "icon" : "Task_Area2Cooking",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_0901" : {
+    "name" : "Awful stew",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A bunch of unknown ingredients roughly stewed in a big pot, with a bulk of nutrients lost in the process.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_901",
+    "stars" : 0,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_0902" : {
+    "name" : "Fine stew",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It looks like a success, but the choice of ingredients ultimately contributes to the dish's downfall...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_902",
+    "stars" : 0,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1001" : {
+    "name" : "Fried mushrooms",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Taste aside, at least it's cooked and not raw.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0101",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1002" : {
+    "name" : "Seaweed and egg soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Got fresh laver and rich in protein, good for filling up the tummy.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1002",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1003" : {
+    "name" : "Crispy grilled fish",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "One of the popular eats in the port city of Banges. Cheap and delicious.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0103",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1004" : {
+    "name" : "Wholegrain bread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Made from processed grain, nutritious and easily kept. Every Wanderer should carry some.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1004",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1005" : {
+    "name" : "Breakfast cereal",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Once a life-saving ration enough to feed five to six people. Given the improved condition, people add milk to it now instead of water.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1005",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1006" : {
+    "name" : "Sizzling meat",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "How would you like it cooked? Real men just eat it after a few seconds of grilling on rocks under a hot sun.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0106",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1007" : {
+    "name" : "Seafood soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "They said one bite will pep you up, two will make you healthy, despite the average taste.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0118",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1008" : {
+    "name" : "Crispy chicken burger",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Chicken burgers seen in fast food joints. Few things top the combo of hot, crunchy chicken and crispy lettuce.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0108",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1009" : {
+    "name" : "Spicy burger",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "No matter how long it's been, it never fails to stir your appetite.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0109",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1010" : {
+    "name" : "Egg fried rice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "This is the twist you need when you get tired of eating plain white rice.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0110",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1011" : {
+    "name" : "Steamed crab",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Seafood is best when served fresh. The problem is, where to start?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0111",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1012" : {
+    "name" : "Iced strawberry soda",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Mix pureed strawberries into soda, then add ice. A summer essential.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0112",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1013" : {
+    "name" : "Flamekissed soda",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Time for afternoon tea!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0113",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1014" : {
+    "name" : "Thundercloud blueberry soda",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The blueberry is as dark as a rain cloud. Be careful not to spill it on you, since it's hard to wash off.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0114",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1015" : {
+    "name" : "Golden egg and tomato",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "No, I didn't scramble the eggs by accident...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0115",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1016" : {
+    "name" : "Simple power salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The most basic salad for meeting the daily nutrient requirement. The choice for a low-fat diet.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0116",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1017" : {
+    "name" : "Lettuce salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A nice salad with simple ingredients and a robust flavor.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1017",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1018" : {
+    "name" : "Mushroom soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A perfect combination of fresh mushrooms and crispy lettuce.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0119",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1019" : {
+    "name" : "Fried egg",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Start a wonderful day off with fried eggs!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0124",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1020" : {
+    "name" : "Steamed conch",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It retains all of its original taste! A sprinkle of chopped green onion would improve it, though.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0120",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1021" : {
+    "name" : "Steamed egg with sea urchin",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Sea urchin with smooth steamed egg is delicious and comforting, particularly popular in the snowfield.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0121",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1022" : {
+    "name" : "Double Berry Jam Toast",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Fusion of two berries for a sweet-sour symphony in your mouth.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0143",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1023" : {
+    "name" : "Tomato and fried egg pasta",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Perfectly sour and easy to make. A tasty low-calorie treat.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0123",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1024" : {
+    "name" : "Meat and potato stew",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The meat absorbed all the nutrients, so it's extremely healthy!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0218",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1025" : {
+    "name" : "Fries",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It's not junk food but pure happiness!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0125",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1026" : {
+    "name" : "Vegetable salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Selected salad, great for picnics.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1026",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1027" : {
+    "name" : "Fried chicken",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Simple and quick meal. The crispy golden coating will make passersby drool.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_cooking_1027",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1028" : {
+    "name" : "Honeyed fruit juice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Fresh juice with dabs of honey, slightly shaken. A tinge of sweetness amid the sour.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "Item_Cooking_0128",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1029" : {
+    "name" : "Fruit cake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "There's no stress a piece of delicious cake can't solve. If there is, have a second!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0129",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1030" : {
+    "name" : "Iced orchid surprise",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Summer special. Feel the surf party in your mouth!",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "Item_Cooking_1030",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1031" : {
+    "name" : "Stir-fried broccoli",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Healthy low-fat food, though not a favorite for most.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1031",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1032" : {
+    "name" : "Boiled scallops",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A simple tasty dish without any seasoning needed.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0107",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1033" : {
+    "name" : "Meat bun",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The juice that bursts out when you bite into one is the essence!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_cooking_008",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1034" : {
+    "name" : "Sliced fish with mushroom",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A perfect complement of sliced fish and mushroom.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0214",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1035" : {
+    "name" : "Roast rump",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Set up the grill and grab a chair. Yeah, that's the smell...",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "item_cooking_1035",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_1036" : {
+    "name" : "Dandelion mushroom soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Ever tried dandelion with mushroom? It will make you light on your feet.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_1036",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2001" : {
+    "name" : "Surf and Turf",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Banges' home cooking for that hometown taste.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0140",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2002" : {
+    "name" : "Red wheat bread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Most common food among the people of Aida that reflects their simple life.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2002",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2003" : {
+    "name" : "Fiddlehead pie",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Healthy biscuit with fiddlehead filling, not too popular among kids, though.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2003",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2004" : {
+    "name" : "Chocolate bread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Stuffed with chocolate! Just hold off your diet for a day.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0206",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2005" : {
+    "name" : "Firecap mushroom soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "What's more comforting than a piping hot firecap mushroom soup when you're scaling snowy peaks?",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "Item_Cooking_0216",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2006" : {
+    "name" : "Black moss soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Fill up the stomach now and grab something better later.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2006",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2007" : {
+    "name" : "Balloon fruit salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Specially selected salad. Sweet and sour, kids' favorite!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0204",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2008" : {
+    "name" : "Fiddlehead soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Guess it's another herbivore day...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2008",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2009" : {
+    "name" : "Spicy eel",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Is the electric eel fully cooked? How come my tongue feels tingly?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0217",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2010" : {
+    "name" : "Eel and mushroom soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A spicy challenge for the taste buds. Down it in one gulp if you dare! And no water allowed!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0221",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2011" : {
+    "name" : "Sea crab soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "All good things of a crab are in the stew.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0229",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2012" : {
+    "name" : "Sweet pomegranate juice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Am I seeing things, or is the juice actually glowing?",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "Item_Cooking_0225",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2013" : {
+    "name" : "Cocoa milk",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Drink a cup before bedtime and have a sweet dream!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0228",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2014" : {
+    "name" : "Firedragon fruit tea",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Couple this with a cake for a perfect afternoon tea!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0210",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2015" : {
+    "name" : "Barnacle stew",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A taste that you will enjoy!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0222",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2016" : {
+    "name" : "Barnacle seafood pizza",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Give me a double portion!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0208",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2017" : {
+    "name" : "Snow azalea tea",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Why don't you have some while vegging by the campfire in cold winter?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2017",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2018" : {
+    "name" : "Pine cocoa",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Nut-flavored cocoa milk. Nut lovers can add more nuts to it.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0243",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2019" : {
+    "name" : "Nut tea",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Smell how fresh the nuts are...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0211",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2020" : {
+    "name" : "Purple yam pie",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Filling pie and portable enough for long hikes.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_2020",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2021" : {
+    "name" : "Snow lotus soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Snow lotus tastes rather bland, so sugar is added to make it a popular dessert.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "Item_Cooking_2021",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2022" : {
+    "name" : "Truffle fried rice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Stir-fry the truffle, then mix it with fried rice.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0202",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2023" : {
+    "name" : "Caterpillar fungus noodles",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Am I at the age when I have to watch my diet?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0240",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2024" : {
+    "name" : "Caviar sushi",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A visually pleasant roll makes it a classy dish. If you can't make it, you're better off mixing them in a bowl.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0215",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2025" : {
+    "name" : "Caviar potato balls",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Soft potato balls drenched in premium caviar. You'll want seconds.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0223",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2026" : {
+    "name" : "Grilled steak",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Medium, please!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0207",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2027" : {
+    "name" : "Steak with mushroom sauce",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "I think I'm seeing steaks flying across the sky...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0220",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2028" : {
+    "name" : "Braised meat",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A traditional classic.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0117",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2029" : {
+    "name" : "Juicy meat sandwich",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Take your time and make yourself a good breakfast!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0219",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2030" : {
+    "name" : "Salmon sashimi",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "This is what food should taste like!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0242",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "Item_Cooking_2031" : {
+    "name" : "Snail baked rice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Looks like a weird fusion, but much tastier than it looks.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0122",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3001" : {
+    "name" : "Stir-Fried Chilies",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "So spicy!!!!!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3001",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3002" : {
+    "name" : "Charcoal Grilled Sand Onion",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Wanderer's mouth-watering BBQ Stand, now open!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "Item_Cooking_0122",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3003" : {
+    "name" : "Aloe Yogurt",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Who doesn't like sweet and sour yogurt?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3003",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3004" : {
+    "name" : "Rose Tea",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "When brewing rose tea, even the most restless mind will calm down miraculously.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3004",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3005" : {
+    "name" : "Thornfruit Soda",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A generous amount of honey is added to give a taste to this plain thornfruit juice.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3008",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3006" : {
+    "name" : "Beet Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Warm beetroot soup. You can easily drink up a whole pot in cold weather.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3006",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3007" : {
+    "name" : "Sweetmelon Salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It tastes better when it's chilled, but don't be greedy.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3007",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3008" : {
+    "name" : "Thornfruit Soda",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A generous amount of honey is added to give a taste to this plain thornfruit juice.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3008",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3009" : {
+    "name" : "Pumpkin Porridge",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Quite a staple food that can be filling, and you probably won't need to eat anything else after a bowl.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3009",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3010" : {
+    "name" : "Fried Tofu",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Crispy, golden fried snacks. Be careful not to drip the sauce on your clothes!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3010",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3011" : {
+    "name" : "Radish Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Nourishing and delicious soup. Another bowl please!",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3011",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3012" : {
+    "name" : "Salt-and-Pepper Corn",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Simple and easy snacks, the first choice for late nights.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3012",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3013" : {
+    "name" : "Cactus Special",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Refreshing Cactus Special, essential for summer.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3013",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_POOR",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3014" : {
+    "name" : "Grilled Lizard Tail",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Sprinkle it with chilis, cumin, and pepper, and wait quietly for a while before you start.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3014",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3015" : {
+    "name" : "Special Grilled Rib",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The best companion with rice! The one and only!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3015",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3016" : {
+    "name" : "Chocolate Soy Milk",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "If you are tired of drinking ordinary soy milk, why not try this one?",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3016",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3017" : {
+    "name" : "Beet with Fiddlehead",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Once the ingredients are boiled, remove them from the pan, add the sauce, mix well and you're good to go.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3017",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3018" : {
+    "name" : "Desert Salad",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Diced ball cactus and thornfruits with some salad dressing. Recommended to chill it first.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3018",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3019" : {
+    "name" : "Rose Bread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A pleasant afternoon starts with a rose-scented square bread.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3019",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3020" : {
+    "name" : "Honeymelon Bread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Just one round bread stuffed with sweet melon filling is enough for breakfast.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3020",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3021" : {
+    "name" : "Multigrain Porridge",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The rice porridge is made of a variety of mixed grains. Sometimes, I just want to eat something mild.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3021",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3022" : {
+    "name" : "Corn and Seafood Biscuit",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "All-seafood tacos... You'll go broke opening a store like this!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3022",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3023" : {
+    "name" : "Steamed Pumpkin",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The steamed pumpkin is soft and sweet. It's a good choice for weight loss meals.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3023",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3024" : {
+    "name" : "Chicken Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Smooth noodles topped with warm chicken broth. Just pretend this is a bowl of birthday noodles and come make a wish.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3024",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3025" : {
+    "name" : "Spicy BBQ Noodles",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "I can certainly rival Kun Ji Noodles!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3025",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3026" : {
+    "name" : "Spicy Fried Rice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The spicier the merrier!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3026",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3027" : {
+    "name" : "Grilled Combo Plate",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "This must be the meat lover's paradise, right!?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3027",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3028" : {
+    "name" : "Radish and Pork Chop Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Radish and pork chop soup, which has been carefully stewed for a whole day. The radishes are actually more delicious than the spareribs.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3028",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3029" : {
+    "name" : "Creamy Corn Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A creamy, sweet, and tangy soup, isn't this the time to eat it with bread?",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3029",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_COMMON",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3030" : {
+    "name" : "Crispy Lard Gourd",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Wrap it in the frying powder and deep fry for two minutes, and you're done!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3030",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3031" : {
+    "name" : "Grilled Oyster",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It's hard to decide whether to eat it raw with some lemon juice or grill it.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3031",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3032" : {
+    "name" : "Cold Fish Mint",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "After the first try, I've fallen in love with the taste of fish mint!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "3032",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3033" : {
+    "name" : "Spicy Lard Gourd Strip",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The appetizing cold dish seems to be fine as a main meal also.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3033",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3034" : {
+    "name" : "Oyster Tofu Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "I heard that many children don't like to eat fish, so this soup is specially made.",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3034",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_Cooking_3035" : {
+    "name" : "Scramble Egg with Fish Mint",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Everything can be scrambled with eggs! My favorite is...",
+    "source" : "Regenerate <ComLblGreen>{0}</> endurance.",
+    "icon" : "3035",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_RARE",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_001" : {
+    "name" : "Roast Suckling Pig",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A roast suckling pig cooked by an excellent chef can satisfy the most discerning of diners.\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_001",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_002" : {
+    "name" : "Braised Turkey with Apples",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "An Astra specialty. Thanks to the promotions of vendors and travelers, it has become popular across the entire continent.\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_002",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_003" : {
+    "name" : "Roasted Drumstick with Veggies",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "First satisfy your taste buds with a bite of the roasted chicken drumstick. Then have a mouthful of refreshing lettuce. Yum yum!\r\n\r\nAfter defeating Apophis and Rose Queen, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_003",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_004" : {
+    "name" : "Pan-fried Salmon",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Tender salmon is served with sweet honey, leaving a pleasant aftertaste in your mouth.\r\n\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_004",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_005" : {
+    "name" : "Small Sesame Rice Dumplings",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A traditional Banges Port specialty that is greatly loved by young and old.\r\n\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_005",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_006" : {
+    "name" : "Turkey Beetroot Soup",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A bowl of warm soup that can chase away all the fatigue of the day.\r\nAfter defeating Robarg and Sobek, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_006",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_007" : {
+    "name" : "Gingerbread",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A popular festival dessert that has the sweetness of sugar and honey and the pleasant fragrance of wheat grains.\r\n\r\nAfter defeating Robarg, Apophis, Frost Bot, Sobek, Rose Queen and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_007",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_008" : {
+    "name" : "Apple Cake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A fluffy fruit cake. One bite, and you'll be satisfied. \r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_008",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_009" : {
+    "name" : "Fruit Punch",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A drink with a fruitful aroma and the slightest smell of booze.\r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_009",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity_cooking_010" : {
+    "name" : "Apple Juice",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Sweet and sour. Suitable for both young and old. A favorite summer drink for many people.\r\n\r\nAfter defeating Frost Bot and Barbarossa, drops from password chest during the Aida Cafe event. Alternatively obtained by collecting ingredients and cooking.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity_cooking_010",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_101" : {
+    "name" : "Floating Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Ride in the balloon fruit, to the world of chocolate!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_101",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_102" : {
+    "name" : "Pine Nut Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Chocolate covered with pine nuts is the perfect gift.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_102",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_103" : {
+    "name" : "Strawberry Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_103",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_104" : {
+    "name" : "Hazelnut Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Wrapped in chocolate is a heart of anticipation for love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_104",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_105" : {
+    "name" : "Truffle Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "You can feel the affection from the selection of ingredients.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_105",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_106" : {
+    "name" : "Blueberry Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_106",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_107" : {
+    "name" : "Honey Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A majestic symphony of chocolate and honey.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_107",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_108" : {
+    "name" : "Fallen Fruit Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "To give you the thing I hold most dear.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_108",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_109" : {
+    "name" : "Cocoa Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_109",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_110" : {
+    "name" : "Milk Crush",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Milk and chocolate are a match made in heaven!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_110",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_201" : {
+    "name" : "Floating Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Ride in the balloon fruit, to the world of chocolate!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_201",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_202" : {
+    "name" : "Pine Nut Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Chocolate covered with pine nuts is the perfect gift.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_202",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_203" : {
+    "name" : "Strawberry Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_203",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_204" : {
+    "name" : "Hazelnut Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Wrapped in chocolate is a heart of anticipation for love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_204",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_205" : {
+    "name" : "Truffle Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "You can feel the affection from the selection of ingredients.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_205",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_206" : {
+    "name" : "Blueberry Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_206",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_207" : {
+    "name" : "Honey Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A majestic symphony of chocolate and honey.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_207",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_208" : {
+    "name" : "Fallen Fruit Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "To give you the thing I hold most dear.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_208",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_209" : {
+    "name" : "Cocoa Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_209",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_210" : {
+    "name" : "Milk Planet",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Milk and chocolate are a match made in heaven!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_210",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_301" : {
+    "name" : "Floating Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Ride in the balloon fruit, to the world of chocolate!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_301",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_302" : {
+    "name" : "Pine Nut Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Chocolate covered with pine nuts is the perfect gift.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_302",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_303" : {
+    "name" : "Strawberry Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The blend of lightly sweet strawberries and mellow chocolate is the sweet taste of first love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_303",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_304" : {
+    "name" : "Hazelnut Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Wrapped in chocolate is a heart of anticipation for love.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_304",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_305" : {
+    "name" : "Truffle Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "You can feel the affection from the selection of ingredients.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_305",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_306" : {
+    "name" : "Blueberry Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Take a bite, and let the sweet and sour blueberry jam flow on the tip of your tongue.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_306",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_307" : {
+    "name" : "Honey Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A majestic symphony of chocolate and honey.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_307",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_308" : {
+    "name" : "Fallen Fruit Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "To give you the thing I hold most dear.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_308",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_309" : {
+    "name" : "Cocoa Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Delicate and soft dark chocolate, crocheted with a slightly bitter and mellow dream.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_309",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_310" : {
+    "name" : "Milk Cube",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Milk and chocolate are a match made in heaven!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_310",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_001" : {
+    "name" : "Cetus Souvenir",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Electromancy themed chocolate giftbox, Hanna's proud work.\r\nThe Doctor says that delicious things must be shared with important people!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_box_thunder",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_002" : {
+    "name" : "Cetus Souvenir",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Physical element themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_box_physics",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_003" : {
+    "name" : "Cetus Souvenir",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Pyromancy themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_box_fire",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_004" : {
+    "name" : "Cetus Souvenir",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Cryomancy themed chocolate giftbox, Hanna's proud work.\nThe Doctor says that delicious things must be shared with important people!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_box_ice",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity2_cooking_005" : {
+    "name" : "Crispy Rice Cake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "One of Planet Aida's most popular snacks. Members of the Hyenas and the Ravagers are said to have fought over one piece of the cake.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_activity2_cooking_1",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "HealPotion_01" : {
+    "name" : "Spring Pancake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The most popular snack at the Spring Market.\r\nIt's impossible to tell its flavor from the look of it...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "HealPotion_01",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "BuffPotion_01" : {
+    "name" : "Pinebreeze",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Beverage featured in the Spring Market,\r\nOne sip of the drink is said to make you feel like being in the middle of a pine forest, with the spring breeze gently blowing on your cheeks.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "BuffPotion_01",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_101" : {
+    "name" : "Classic Lotus Seed Paste Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Lotus seed paste is always the most classic flavor!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_001",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_102" : {
+    "name" : "Classic Five Nuts Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It contains five types of nuts and is known as the Five Nuts Mooncake.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_002",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_103" : {
+    "name" : "Handmade Hazelnut Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Silky smooth in the mouth is mixed with the aroma of hazelnuts that gives its sweet skin a unique flavor.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_003",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_104" : {
+    "name" : "Firedragon Fruit Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Don't count the seeds in the filling when you're having mooncakes!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_004",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_105" : {
+    "name" : "Chocolate Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The kids love it best, and so do the adults.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_005",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_106" : {
+    "name" : "Spicy Pork Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Huge chunks of tender and lean meat bring an explosion of flavor in your mouth.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_006",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_107" : {
+    "name" : "Spicy Floss Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A delicacy that makes it impossible to stop eating!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_007",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_108" : {
+    "name" : "Handmade Mushroom Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Almost no one thought it wasn't a weird combination before they had a taste of it...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_008",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_109" : {
+    "name" : "Salted Egg Yolk Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A moist egg yolk with a rich salty aroma.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_009",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_110" : {
+    "name" : "Classic Crab Roe Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The rich sauce within it sets the tone for this mooncake.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_010",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_201" : {
+    "name" : "Pork Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "You'll eat up the juicy and delicious meat before you even realize it...",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_011",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_202" : {
+    "name" : "Ham Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The savory ham and the crispy pastry with a tinge of sweetness form an aromatic fusion.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_012",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_203" : {
+    "name" : "Floral Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Every bite of this soft and fragrant meat mooncake comes with a floral fragrance that fills the mouth.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_013",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_204" : {
+    "name" : "Strawberry Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "It's a little sweeter than conventional mooncakes, so a little tea is required to fully enjoy its flavor.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_014",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_205" : {
+    "name" : "Chocolate Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The soft and crispy puff pastry shell neutralizes the chocolate's sweetness, so having a few more won't be a problem at all!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_015",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_206" : {
+    "name" : "Spicy Rib Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "People with bad teeth may have to reconsider their decision to have this mooncake.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_016",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_207" : {
+    "name" : "Spicy Floss Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The mix of soft filling and crispy skin makes for a completely different texture in the mouth.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_017",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_208" : {
+    "name" : "Scallop Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Tired of having it boiled? Try it inside a mooncake instead!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_018",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_209" : {
+    "name" : "Black Truffle Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Carefully savor the earthy flavors of this rare and expensive delicacy.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_019",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_210" : {
+    "name" : "Crab Roe Pastry Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Heat it up a little to fully enjoy the creamy goodness within.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_020",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_301" : {
+    "name" : "Ice Cream Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The classic combination of ice cream and snow skin.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_021",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_302" : {
+    "name" : "Bean Paste Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Experience a new burst of flavors after it's frozen.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_022",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_303" : {
+    "name" : "Fallen Fruit Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "The most classic type of fruity mooncakes.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_023",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_304" : {
+    "name" : "Blueberry Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Taste the silky texture of the filling and the granularity of the fruit in the same bite.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_024",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_305" : {
+    "name" : "Chocolate Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Nothing beats it, at least when it comes to aesthetics.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_025",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_306" : {
+    "name" : "Spicy Sturgeon Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Hot! Tender! A must eat for those who love spicy food!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_026",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_307" : {
+    "name" : "Spicy Pine Nut Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A perfect blend of spiciness and nuttiness.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_027",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_308" : {
+    "name" : "Spicy Floss Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "An icy cold shell with a fiery hot filling.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_028",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_309" : {
+    "name" : "Caviar Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "Just the ingredients alone show how expensive it is!",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_029",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_activity3_cooking_310" : {
+    "name" : "Crab Roe Snowskin Mooncake",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "This mooncake is definitely ranked in the top three of \"strange-looking but must-try\" mooncakes.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "item_mooncake_030",
+    "stars" : 1,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
+  },
+  "item_BurgerKing_Whopper" : {
+    "name" : "Whopper",
+    "type" : "ITEM_TYPE_COOKING",
+    "description" : "A popular product made with a carefully grilled beef patty, crunchy and fresh lettuce, juicy tomato slices and refreshing pickles.",
+    "source" : "Regenerate <ComLblGreen>{0}</> satiety.",
+    "icon" : "BurgerKing_Whopper",
+    "stars" : 2,
+    "quality" : "ITEM_QUALITY_EPIC",
+    "rarity" : "EItemRarity::ITEM_RARITY_Invalid"
   }
 }
