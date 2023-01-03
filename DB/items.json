@@ -21046,5 +21046,2317 @@
     "icon" : "pet_chip_0101",
     "rarity" : "EPIC",
     "id" : "Title_1_7_1_1"
+  },
+  "Title_1_7_1_2" : {
+    "name" : "The Roused",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Own 15 6-star weapons",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_7_1_2"
+  },
+  "Title_1_7_1_3" : {
+    "name" : "The Awakened",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Own 20 6-star weapons",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_7_1_3"
+  },
+  "fragment_Mount012_2_Skin_01" : {
+    "name" : "Leaper Shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Vehicle shard",
+    "description" : "One of the rare models in the Jerboa all-terrain vehicles.\r\nIt may appear to be customized for a kid, but a Jerboa is a Jerboa!",
+    "source" : "Collect 2 shards to unlock the vehicle Leaper",
+    "icon" : "Mount_012_2",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_Mount012_2_Skin_01"
+  },
+  "Mount012_1_Skin_01" : {
+    "name" : "Jumping Smart Servant",
+    "type" : "ITEM_TYPE_MOUNT_SKIN",
+    "description" : "One of the rare models in the Jerboa all-terrain vehicles.\r\nIt's a customized version for a certain Wanderer and their lady companion. This smart servant must hold special meaning to the pair.",
+    "source" : "Unlock the vehicle Jumping Smart Servant",
+    "icon" : "Mount_012_1",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount012_1_Skin_01"
+  },
+  "Mount012_2_Skin_01" : {
+    "name" : "Leaper",
+    "type" : "ITEM_TYPE_MOUNT_SKIN",
+    "description" : "One of the rare models in the Jerboa all-terrain vehicles.\r\nIt may appear to be customized for a kid, but a Jerboa is a Jerboa!",
+    "source" : "Unlock the vehicle Leaper",
+    "icon" : "Mount_012_2",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount012_2_Skin_01"
+  },
+  "Mount012_3_Skin_01" : {
+    "name" : "Ultimate Jerboa",
+    "type" : "ITEM_TYPE_MOUNT_SKIN",
+    "description" : "One of the rare models in the Jerboa all-terrain vehicles.\r\nIt is named the Super Ultimate in hopes that its owner would also have super ultimate justice and valor!",
+    "source" : "Unlocks the vehicle Ultimate Jerboa",
+    "icon" : "Mount_012_3",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount012_3_Skin_01"
+  },
+  "v222003_HOTTAcard_01" : {
+    "name" : "HOTTA Studio Temporary Staff Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "The temporary staff card of HOTTA Studio only allows access to certain places. It is engraved with the user's name and personal information. HOTTA Studio, a well-known company in Mirroria, focuses on game development and entertainment services.",
+    "source" : "Mission Rewards for \"THE HOTTA\"",
+    "icon" : "quan",
+    "rarity" : "LEGENDRY",
+    "id" : "v222003_HOTTAcard_01"
+  },
+  "v60500_taolesicard_normal" : {
+    "name" : "Dorothy's Black Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Dorothy's black card has no spending limit. It can only be used in this bodyguard mission.",
+    "source" : "Reward for the \"Abduction? Abduction!\" mission",
+    "icon" : "quan",
+    "rarity" : "LEGENDRY",
+    "id" : "v60500_taolesicard_normal"
+  },
+  "v60500_taolesicard_bad" : {
+    "name" : "Dorothy's Black Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "After hearing Fenrir recount the details of what happened, Dorothy thought that you wouldn't need this card because you like to use cash, so she canceled this card permanently.",
+    "source" : "Reward for the \"Abduction? Abduction!\" mission",
+    "icon" : "quan",
+    "rarity" : "LEGENDRY",
+    "id" : "v60500_taolesicard_bad"
+  },
+  "v60500_taolesicard_good" : {
+    "name" : "Dorothy's Black Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Dorothy has decided to give you something extra as thanks for taking care of Fenrir.",
+    "source" : "Reward for the \"Abduction? Abduction!\" mission",
+    "icon" : "quan",
+    "rarity" : "LEGENDRY",
+    "id" : "v60500_taolesicard_good"
+  },
+  "Item_AbyssWorld_01" : {
+    "name" : "R&D Permission Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Permission Card of the department head, used to activate a certain device.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_01"
+  },
+  "Item_AbyssWorld_02" : {
+    "name" : "Emergency Response Permission Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Permission Card of the department head, used to activate a certain device.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_02"
+  },
+  "Item_AbyssWorld_03" : {
+    "name" : "Engineering Permission Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Permission Card of the department head, used to activate a certain device.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_03"
+  },
+  "Item_AbyssWorld_04" : {
+    "name" : "Project Administration Permission Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Permission Card of the department head, used to activate a certain device.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_04"
+  },
+  "Item_AbyssWorld_05" : {
+    "name" : "Expedition Permission Card",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Permission Card of the department head, used to activate a certain device.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_05"
+  },
+  "Item_AbyssWorld_06" : {
+    "type" : "ITEM_TYPE_QUEST",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_06"
+  },
+  "Item_AbyssWorld_07" : {
+    "type" : "ITEM_TYPE_QUEST",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_make",
+    "rarity" : "EPIC",
+    "id" : "Item_AbyssWorld_07"
+  },
+  "Item_ExpCard_10k" : {
+    "name" : "Combat Logs Chip I",
+    "type" : "ITEM_TYPE_GIFT",
+    "typename" : "EXP Card",
+    "description" : "Contains combat logs. Use to get EXP.",
+    "source" : "Use to get 10,000 EXP",
+    "icon" : "ExpCard",
+    "rarity" : "RARE",
+    "id" : "Item_ExpCard_10k"
+  },
+  "Item_ExpCard_100k" : {
+    "name" : "Combat Logs Chip II",
+    "type" : "ITEM_TYPE_GIFT",
+    "typename" : "EXP Card",
+    "description" : "Contains combat logs. Use to get EXP.",
+    "source" : "Use to get 100,000 EXP",
+    "icon" : "ExpCard",
+    "rarity" : "RARE",
+    "id" : "Item_ExpCard_100k"
+  },
+  "Item_ExpCard_500k" : {
+    "name" : "Combat Logs Chip III",
+    "type" : "ITEM_TYPE_GIFT",
+    "typename" : "EXP Card",
+    "description" : "Contains combat logs. Use to get EXP.",
+    "source" : "Use to get 500,000 EXP",
+    "icon" : "ExpCard",
+    "rarity" : "RARE",
+    "id" : "Item_ExpCard_500k"
+  },
+  "imitation_fashion_26" : {
+    "name" : "No Fear of the Sun",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "UV rays are the enemy of all women... But she seems to enjoy bathing in the sunlight.",
+    "source" : "Unlock the Simulacrum Haute Couture—No Fear of the Sun—and the weapon appearance—Sunny Breeze.",
+    "icon" : "icon_annabeila0",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_26"
+  },
+  "imitation_fashion_26_w" : {
+    "name" : "Sunny Breeze",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "Taking a vacation between consecutive jobs is worth a change in mood. Just tap a few times on your phone for a change of paint.",
+    "source" : "Unlock the weapon appearance Sunny Breeze",
+    "icon" : "icon_annabeila1",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_26_w"
+  },
+  "imitation_fashion_22" : {
+    "name" : "Ultimate Pure White",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "\"Ultimate justice! Ultimate valor!! The Ultimate Warriors who give Night City ultimate protection! Elegant, pure, mighty! Super, super ultimate!\"",
+    "source" : "Unlock the Simulacrum Haute Couture—Ultimate Pure White.",
+    "icon" : "icon_bupoxiao",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_22"
+  },
+  "imitation_fashion_22_w" : {
+    "name" : "Pure Innocent Heart",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "The impeccable power has granted Heartstream with a new look.",
+    "source" : "Unlock the weapon appearance Pure Innocent Heart",
+    "icon" : "imitation_fashion_icon_shipin_01",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_22_w"
+  },
+  "imitation_fashion_21" : {
+    "name" : "Crimson Song",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "The little girl receives the red cloak from her sister. Wow, she gets so excited that she forgets to hide her tail!",
+    "source" : "Unlock the Simulacrum Haute Couture—Crimson Song.",
+    "icon" : "fashion_LB",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_21"
+  },
+  "imitation_fashion_21_w" : {
+    "name" : "Falling Flames",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Weapon Appearance",
+    "description" : "A magical creation that contains mysterious energy in the picture book Crimson Tale. It's also Little Red Riding Hood's closest friend.",
+    "source" : "Unlock the weapon appearance Falling Flames",
+    "icon" : "fashion_LB_weapon",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_21_w"
+  },
+  "imitation_fashion_21_bag" : {
+    "name" : "Crimson Song & Falling Flames ",
+    "type" : "ITEM_TYPE_GIFT",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "The little girl receives the red cloak from her sister. Wow, she gets so excited that she forgets to hide her tail!",
+    "source" : "Use to get the Simulacrum Haute Couture—Crimson Song—and the weapon appearance—Falling Flames.",
+    "icon" : "fashion_LB_bag",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_21_bag"
+  },
+  "imitation_fashion_17" : {
+    "name" : "Shirli",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "It's an image extracted from memories... It's just an illusion.",
+    "source" : "Unlock the Simulacrum Haute Couture—Shirli.",
+    "icon" : "fashion_SL",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_17"
+  },
+  "imitation_fashion_17_w" : {
+    "name" : "White Dwarf",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Weapon Appearance",
+    "description" : "A shining star might look small, but it gives off unimaginable energy.",
+    "source" : "Unlock the weapon appearance White Dwarf",
+    "icon" : "fashion_SL_weapon",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_17_w"
+  },
+  "imitation_fashion_10" : {
+    "name" : "Argent Intuition",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "It's difficult to find a balance between formal attire and work clothes. Only she insists that true art is a mix of practicality and artistry...",
+    "source" : "Unlock the Simulacrum Haute Couture—Argent Intuition.",
+    "icon" : "fashion_GL",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_10"
+  },
+  "imitation_fashion_10_w" : {
+    "name" : "Silver Flame Revolver",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Weapon Appearance",
+    "description" : "It would be great if I could apply paints of all colors to the flame... but there are still many technical problems to overcome.",
+    "source" : "Unlock the weapon appearance Silver Flame Revolver",
+    "icon" : "fashion_GL_weapon",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_10_w"
+  },
+  "imitation_fashion_23" : {
+    "name" : "Summer Shade",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "Even this well-known busy person of Mirroria occasionally enjoys some time off by the exclusive luxury pool.",
+    "source" : "Unlock the Simulacrum Haute Couture—Summer Shade.",
+    "icon" : "fashion_LY",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_23"
+  },
+  "imitation_fashion_23_w" : {
+    "name" : "Misty Weave",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Weapon Appearance",
+    "description" : "The wind blown by this fan seems cooler than before... Though it may just be the visual effects which make it seem that way?",
+    "source" : "Unlock the weapon appearance Misty Weave",
+    "icon" : "fashion_LY_weapon",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_23_w"
+  },
+  "imitation_fashion_23_bag" : {
+    "name" : "Summer Shade & Misty Weave",
+    "type" : "ITEM_TYPE_GIFT",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "Even this well-known busy person of Mirroria occasionally enjoys some time off by the exclusive luxury pool.",
+    "source" : "Use to get the Simulacrum Haute Couture—Summer Shade—and the weapon appearance—Misty Weave.",
+    "icon" : "fashion_LY_bag",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_23_bag"
+  },
+  "imitation_fashion_31" : {
+    "name" : "Rosa Rubus Wonderland",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Simulacrum Haute Couture",
+    "description" : "A costume that Umi ordered for a fairly formal performance, in which she will play the heir to the Rosa Rubus Castle and bring fantastic dreams to \"guests\" that stumble upon this place.",
+    "source" : "Unlock the Simulacrum Haute Couture—Rosa Rubus Wonderland",
+    "icon" : "icon_wumi",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_31"
+  },
+  "imitation_fashion_31_w" : {
+    "name" : "Gloom",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "typename" : "Weapon Appearance",
+    "description" : "There are many secrets surrounding the source of the castle heir's magical powers.",
+    "source" : "Unlock the weapon appearance Gloom",
+    "icon" : "icon_wumi1",
+    "rarity" : "LEGENDRY",
+    "id" : "imitation_fashion_31_w"
+  },
+  "Item_PanelKey_FoxCave" : {
+    "name" : "Activation Module",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "The control console's activation module.",
+    "source" : "Can be used to activate the dormant control console.",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Item_PanelKey_FoxCave"
+  },
+  "linye" : {
+    "name" : "Lin",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "She did allow her fans to use her photos, provided that it was not for commercial purposes, and only minor post-processing was done.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_linye",
+    "rarity" : "LEGENDRY",
+    "id" : "linye"
+  },
+  "Item_battery" : {
+    "name" : "Energy activation charger",
+    "type" : "ITEM_TYPE_BARTER",
+    "description" : "Special material used to power machines",
+    "source" : "Can be used to increase Appointed Research progress.",
+    "icon" : "UI_battery",
+    "rarity" : "RARE",
+    "id" : "Item_battery"
+  },
+  "Title_1_4_5_1" : {
+    "name" : "Top Ten",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Get in the top ten of Break From Destiny to unlock this title.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_4_5_1"
+  },
+  "fragment_reactor_orange" : {
+    "name" : "Fortress microreactor shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides stats support.",
+    "source" : "Collect 40 shards to fuse one of the following fortress microreactor types: Overload, Burst, Glaze, Arc.",
+    "icon" : "treasure_reactor_orange",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor_orange"
+  },
+  "fragment_reactor1_orange" : {
+    "name" : "Fortress Microreactor Shard (Overload)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides physical support.",
+    "source" : "Collect 40 shards to fuse the fortress microreactor (Overload)",
+    "icon" : "reactor_orange_physic",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor1_orange"
+  },
+  "fragment_reactor2_orange" : {
+    "name" : "Fortress Microreactor Shard (Glaze)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides frost support.",
+    "source" : "Collect 40 shards to fuse the fortress microreactor (Glaze)",
+    "icon" : "reactor_orange_ice",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor2_orange"
+  },
+  "fragment_reactor3_orange" : {
+    "name" : "Fortress Microreactor Shard (Burst)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides flame support.",
+    "source" : "Collect 40 shards to fuse the fortress microreactor (Burst)",
+    "icon" : "reactor_orange_fire",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor3_orange"
+  },
+  "fragment_reactor4_orange" : {
+    "name" : "Fortress Microreactor Shard (Arc)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides volt support.",
+    "source" : "Collect 40 shards to fuse the fortress microreactor (Arc)",
+    "icon" : "reactor_orange_thunder",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor4_orange"
+  },
+  "fragment_reactor5_orange" : {
+    "name" : "Fortress Microreactor Shard (Altered)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new high-efficiency reactor developed by District 7 R&D that provides altered-type support.",
+    "source" : "Collect 40 shards to fuse the fortress microreactor (Altered).",
+    "icon" : "reactor_orange_superpower",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_reactor5_orange"
+  },
+  "fragment_reactor_purple" : {
+    "name" : "Elite microreactor shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A microreactor equipped by District 7 Executors to fight Grayspace Entities.",
+    "source" : "Collect 20 shards to fuse one of the following elite microreactor types: Overload, Burst, Glaze, Arc.",
+    "icon" : "treasure_reactor_purple",
+    "rarity" : "EPIC",
+    "id" : "fragment_reactor_purple"
+  },
+  "fragment_reactor5_purple" : {
+    "name" : "Elite Microreactor Shard (Altered)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A microreactor equipped by District 7 Executors to fight Grayspace Entities.",
+    "source" : "Collect 20 shards to fuse the elite microreactor (Altered)",
+    "icon" : "reactor_purple",
+    "rarity" : "EPIC",
+    "id" : "fragment_reactor5_purple"
+  },
+  "fragment_exoskeleton_orange" : {
+    "name" : "Fortress Exoskeleton Shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new exoskeleton developed by District 7 R&D that provides excellent stat support.",
+    "source" : "Collect 40 shards to fuse one of the following fortress exoskeleton types: Overload, Burst, Glaze, and Arc.",
+    "icon" : "treasure_exoskeleton_orange",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_exoskeleton_orange"
+  },
+  "fragment_exoskeleton1_orange" : {
+    "name" : "Fortress Exoskeleton Shard (Overload)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new exoskeleton developed by District 7 R&D that provides physical support.",
+    "source" : "Collect 40 shards to fuse the fortress exoskeleton (Overload).",
+    "icon" : "exoskeleton_orange_physic",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_exoskeleton1_orange"
+  },
+  "fragment_exoskeleton2_orange" : {
+    "name" : "Fortress Exoskeleton Shard (Glaze)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new exoskeleton developed by District 7 R&D that provides frost support.",
+    "source" : "Collect 40 shards to fuse the fortress exoskeleton (Glaze).",
+    "icon" : "exoskeleton_orange_ice",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_exoskeleton2_orange"
+  },
+  "fragment_exoskeleton3_orange" : {
+    "name" : "Fortress Exoskeleton Shard (Burst)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new exoskeleton developed by District 7 R&D that provides flame support.",
+    "source" : "Collect 40 shards to fuse the fortress exoskeleton (Burst).",
+    "icon" : "exoskeleton_orange_fire",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_exoskeleton3_orange"
+  },
+  "fragment_exoskeleton4_orange" : {
+    "name" : "Fortress Exoskeleton Shard (Arc)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "A new exoskeleton developed by District 7 R&D that provides volt support.",
+    "source" : "Collect 40 shards to fuse the fortress exoskeleton (Arc).",
+    "icon" : "exoskeleton_orange_thunder",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_exoskeleton4_orange"
+  },
+  "fragment_exoskeleton_purple" : {
+    "name" : "Elite Exoskeleton Shard",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "An exoskeleton equipped by District 7 Executors to fight Grayspace Entities.",
+    "source" : "Collect 20 shards to fuse one of the following elite exoskeleton types: Overload, Burst, Glaze, and Arc.",
+    "icon" : "treasure_exoskeleton_purple",
+    "rarity" : "EPIC",
+    "id" : "fragment_exoskeleton_purple"
+  },
+  "Title_1_4_4_5" : {
+    "name" : "Boundless Realm Visitor",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Clear level 15 in the Boundless Realm to unlock.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_4_5"
+  },
+  "Title_1_4_4_6" : {
+    "name" : "Boundless Realm Walker",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Clear level 30 in the Boundless Realm to unlock.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_4_6"
+  },
+  "Title_1_4_4_7" : {
+    "name" : "Boundless Realm Pioneer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Clear level 45 in the Boundless Realm to unlock.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_4_7"
+  },
+  "Title_1_1_11_1" : {
+    "name" : "Abyss Listener",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Title for reaching 100% Confounding Abyss exploration.",
+    "source" : "Exploration progress title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_1_11_1"
+  },
+  "Title_Overseas_1" : {
+    "name" : "Vanguard Trailblazer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Unlocks by participating in the Live Stream event.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas_1"
+  },
+  "Title_Overseas_2" : {
+    "name" : "Hykros Observer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "A Pioneer who has made outstanding contributions to the promotion of Tower of Fantasy.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas_2"
+  },
+  "Title_Overseas_3" : {
+    "name" : "Greatest Creator",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Unlocked by being selected during the CBT's Submission Event",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas_3"
+  },
+  "Title_korea_1" : {
+    "name" : "The First Hero",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Participate in CB1",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_korea_1"
+  },
+  "Title_korea_2" : {
+    "name" : "Lone Warrior",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Level Reached",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_korea_2"
+  },
+  "Title_korea_3" : {
+    "name" : "Aida Trailblazer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "300,000 Korean Server Preorder Reward",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_korea_3"
+  },
+  "Title_korea_4" : {
+    "name" : "Bug Hunter",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Wanderers that participated in CBT and submitted bugs",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_korea_4"
+  },
+  "Title_iw_1" : {
+    "name" : "Advance Squad",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtainable by the first batch of Advance Squad members who arrived on Aida.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_iw_1"
+  },
+  "Title_iw_2" : {
+    "name" : "ToF Phase I Wanderer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained via event.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_iw_2"
+  },
+  "Title_iw_3" : {
+    "name" : "Omnium Guardian",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtainable by the pre-registered Wanderers.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_iw_3"
+  },
+  "Title_iw_4" : {
+    "name" : "ToF Phase II Wanderer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained via event.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_iw_4"
+  },
+  "Title_tencent_1" : {
+    "name" : "ToF Enthusiast",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "For the ToF Team's greatest helpers. Thank you for supporting Tower of Fantasy in becoming better and better!",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_tencent_1"
+  },
+  "Mount_016" : {
+    "name" : "Warcart of Tomorrow",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "Once it accelerates to 888 miles per hour, it can break through the time barrier and go to any time period...",
+    "source" : "Unlock the vehicle Warcart of Tomorrow.",
+    "icon" : "Mount_16",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_016"
+  },
+  "xinghuan" : {
+    "name" : "Lyra",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "I'm simply following Ms. Maidelin's orders, that's all.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_xinghuan",
+    "rarity" : "LEGENDRY",
+    "id" : "xinghuan"
+  },
+  "gift_monthcard_autouse_overseas" : {
+    "name" : "Random Monthly Pass Box",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "Receive one of the following items at random: Gold nucleus, proof of purchase, random SSR Relic shard box, random SR Relic shard box, weapon battery II, weapon battery III, weapon battery IV, Matrix data pack II, Matrix data pack III, and Matrix data pack IV.",
+    "source" : "Get random rewards.",
+    "icon" : "treasure_random",
+    "rarity" : "LEGENDRY",
+    "id" : "gift_monthcard_autouse_overseas"
+  },
+  "MapRadar" : {
+    "name" : "Radar detector",
+    "type" : "ITEM_TYPE_MAP_RADAR",
+    "description" : "The latest radar detector developed by the Mirroria Department of Science and Technology. An essential tool for Wanderers.",
+    "source" : "Use to randomly detect an undiscovered World Exploration point, supply pod, Grayspace spatial rift, Grayspace crystal dust, Twilight Zone Secret Box, or Twilight Zone Spacetime Crystal, and generate and record the location's navigation mark.",
+    "icon" : "Item_Icon_MapRadar",
+    "rarity" : "EPIC",
+    "id" : "MapRadar"
+  },
+  "MapRadarPoint" : {
+    "name" : "Navigation Beacon",
+    "type" : "ITEM_TYPE_MAP_RADAR_POINT",
+    "description" : "A complimentary device to the radar detector. The only choice for Wanderers.",
+    "source" : "Used to display exploration point coordinates.",
+    "icon" : "Item_Icon_MapRadarPoint",
+    "rarity" : "EPIC",
+    "id" : "MapRadarPoint"
+  },
+  "RoleVoicePackage_1" : {
+    "name" : "Basic Executor Voice Pack",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Voice Pack",
+    "source" : "That introvert of an Executor is way chattier than before!?",
+    "icon" : "avatar_02_s",
+    "rarity" : "LEGENDRY",
+    "id" : "RoleVoicePackage_1"
+  },
+  "Mount_017_a" : {
+    "name" : "Nova Engine",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "Don't underestimate its horsepower based on its cute appearance!",
+    "source" : "Used to unlock the Nova vehicle.",
+    "icon" : "Mount_017_a",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_017_a"
+  },
+  "Mount_017_b" : {
+    "name" : "Nova Base",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "A three-wheeled design, stable and safe. Great for travel, food delivery, cargo transportation, and household essentials!",
+    "source" : "Used to unlock the Nova vehicle.",
+    "icon" : "Mount_017_b",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_017_b"
+  },
+  "Mount_017_c" : {
+    "name" : "Nova Hull",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "I have to admit that this thing looks like a toy, but it's totally a different story on the manual...",
+    "source" : "Used to unlock the Nova vehicle.",
+    "icon" : "Mount_017_c",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_017_c"
+  },
+  "fragment_Mount_017_c" : {
+    "name" : "Nova Shard (Hull)",
+    "type" : "ITEM_TYPE_FRAGMENT",
+    "typename" : "Shards",
+    "description" : "I have to admit that this thing looks like a toy, but it's totally a different story on the manual...",
+    "source" : "Collect 100 shards to fuse Nova (Hull), which can be used to unlock the vehicle Nova.",
+    "icon" : "Mount_017_c",
+    "rarity" : "LEGENDRY",
+    "id" : "fragment_Mount_017_c"
+  },
+  "choose_ssr_OS" : {
+    "name" : "SSR Relic Box",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "description" : "General box",
+    "source" : "Open the box and select one of the <Orange>SSR</> Relics in it: Colossus Arm, Omnium Shield, Type V Armor, Spacetime Rift, Confinement, or Drone.",
+    "icon" : "gift_artifact_ssr",
+    "rarity" : "LEGENDRY",
+    "id" : "choose_ssr_OS"
+  },
+  "choose_frag_ssr_OS" : {
+    "name" : "SSR Relic Shard Box",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "description" : "General box",
+    "source" : "Open the box and select one of the <Orange>SSR</> Relic shards in it: Colossus Arm shard, Omnium Shield shard, Type V Armor shard, Spacetime Rift shard, Confinement shard, or Drone shard.",
+    "icon" : "gift_artifact_frag_ssr",
+    "rarity" : "LEGENDRY",
+    "id" : "choose_frag_ssr_OS"
+  },
+  "Blindbox_EarlySpring_2022_pack" : {
+    "name" : "Wheel of Light Giftbox",
+    "type" : "ITEM_TYPE_GIFT",
+    "description" : "One of the most popular limited-edition giftboxes at the Banges Expo. It's always a mixture of anticipation and trepidation when you open the box.",
+    "source" : "Random box.\r\nExtremely low chance of obtaining one of the Meteoric line of vehicles: Justice Meteor, Nightfeather Meteor, Med Meteor, Rockin' Meteor, Pouncing Cat Meteor, Arena Meteor, Absconder Meteor, Smoothie Meteor, Wishing Meteor, Modular Meteor, Supercomputing Meteor, Frosty Meteor, Snow Rose Meteor, EM Meteor, Glowing Meteor, Windrunner Meteor, Freedom Meteor, Electrovision Meteor, Neon Meteor, Surveyor Meteor, Scuba Meteor, Steady Meteor, Flame Chaser Meteor, Roaming Meteor, Phantasmic Meteor, Inspirational Meteor, DIY Meteor, Reminiscent Meteor, Miraculous Meteor\r\nLow chance of obtaining: [Outfit] Midnight, [Outfit] Early Sakura, [Accessory] Demon Holiday, [Accessory] Demon Devotee, [Accessory] Kiss of Stars, [Avatar Frame] Companion, [Chat Bubble] Type-5.",
+    "icon" : "liuguanglihe01",
+    "rarity" : "EPIC",
+    "id" : "Blindbox_EarlySpring_2022_pack"
+  },
+  "choose_elemine_p1_pack" : {
+    "name" : "Elemental Ore Shard Box",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "description" : "A box containing a selection of elemental ore shards to choose from.",
+    "source" : "Choose any piece of elemental ore shard in the box.",
+    "icon" : "treasure_choose",
+    "rarity" : "RARE",
+    "id" : "choose_elemine_p1_pack"
+  },
+  "tianlang" : {
+    "name" : "Tian Lang",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "I am the owner of the Mirroria Nursery. Don't spill the beans on my alter ego!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_tianlang",
+    "rarity" : "LEGENDRY",
+    "id" : "tianlang"
+  },
+  "Avatar36" : {
+    "name" : "End-Track",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Ride like the wind! Passion is forever young.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_36",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar36"
+  },
+  "Avatar37" : {
+    "name" : "Pumpkin Enchantment",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "You're a pumpkin now!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_37",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar37"
+  },
+  "Avatar38" : {
+    "name" : "I'm a fisherman",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Fishing rods, hooks, lines, protection... and helmets. Why would someone wear a helmet when fishing? Ahem... Anyway, best to be prepared!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_38",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar38"
+  },
+  "Avatar39" : {
+    "name" : "Chef Mi-a",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Mi-a is currently executing food preparation sequence, please wait...",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_39",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar39"
+  },
+  "Avatar40" : {
+    "name" : "Puppet",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "No one has seen the face of the heir of Rosa Rubus Castle. Why did she decide to make an appearance now?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_40",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar40"
+  },
+  "Avatar41" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_41",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar41"
+  },
+  "Avatar42" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_42",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar42"
+  },
+  "Avatar43" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_43",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar43"
+  },
+  "Avatar44" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_44",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar44"
+  },
+  "Avatar45" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_45",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar45"
+  },
+  "AvatarFrame_Overseas_1" : {
+    "name" : "Greatest Creator",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Limited reward for outstanding creators during the CBT.",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_BestTower01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_1"
+  },
+  "AvatarFrame_Overseas_2" : {
+    "name" : "Illusory Link",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Do we exist, or are we just shadows of some parallel universe?",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_Xuhuan01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_2"
+  },
+  "AvatarFrame_tencent_1" : {
+    "name" : "Creatower",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "An outstanding ToF creator. We can tell you love the game!",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_Creatower01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_tencent_1"
+  },
+  "AvatarFrame_tencent_2" : {
+    "name" : "Creatower Master",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "An extremely professional ToF creator. ToF is grateful to have an inspiration like you!",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_CreatowerMaster01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_tencent_2"
+  },
+  "AvatarFrame_tencent_3" : {
+    "name" : "Creatower of Fantasy",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "A fantastical ToF creator, one who is already one with the team... You are already one with the team, congrats!",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_CreatowerOfFantasy01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_tencent_3"
+  },
+  "Avatar_Overseas_1" : {
+    "name" : "Zeke: Awakening",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Maybe ol' Zeke can even be cute sometimes?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_Xiazuo",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_1"
+  },
+  "Avatar_Overseas_2" : {
+    "name" : "Shirli: Awakening",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "\"Do I look silly to you when I smile?\" Some dumb cute girl said so while swinging her fists.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_Shali",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_2"
+  },
+  "Avatar_Overseas_3" : {
+    "name" : "Nemesis: Awakening",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Indifference is just her self-protection.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_Naimeixisi",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_3"
+  },
+  "Avatar_korea_1" : {
+    "name" : "Mi-a: Cute Version",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Mi-a is currently executing the dressing sequence, please wait.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_KO_Mia",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_korea_1"
+  },
+  "Avatar_korea_2" : {
+    "name" : "Nemesis: Cute Version",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "I think I had a dream. I saw a lot of things in this dream.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_KO_Naimeixisi",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_korea_2"
+  },
+  "Avatar_korea_3" : {
+    "name" : "Shirli: Cute Version",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Do we wanna go to Cetus Island together?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_KO_Shali",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_korea_3"
+  },
+  "matrix_show_SSR1_OS" : {
+    "name" : "Meryl: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: If HP is less than 30% after being attacked, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds.\r\nFour-set bonus: Increase Whirlwind's damage by 36%/45%/54%/63% and restore HP equal to 30%/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60%/72%/81%/90% of ATK.",
+    "icon" : "icon_matrix_SSR1_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR1_OS"
+  },
+  "matrix_show_SSR2_OS" : {
+    "name" : "Tsubasa: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase damage dealt by 14%/16%/18%/20% when there are no enemies within 4 meters.\r\nFour-set bonus: Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/25% for 8 seconds.",
+    "icon" : "icon_matrix_SSR2_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR2_OS"
+  },
+  "matrix_show_SSR3_OS" : {
+    "name" : "Cocoritter: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase the healing capability and healing effect received by 10%/12%/14%/16%.\r\nFour-set bonus: When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/20% for 6 seconds. (Only the highest level's effect is applied when obtained repeatedly.)",
+    "icon" : "icon_matrix_SSR3_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR3_OS"
+  },
+  "matrix_show_SSR4_OS" : {
+    "name" : "KING: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: When a target is shattered, grant 8%/10%/12%/14% damage boost for 25 seconds. Only the highest set effect is applied when obtained repeatedly.\r\nFour-set bonus: If there are 2 or more enemies, hits restore HP equal to 14%/18%/22%/26%, not exceeding 36%/42%/48%/54% of ATK every 0.5 seconds.",
+    "icon" : "icon_matrix_SSR4_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR4_OS"
+  },
+  "matrix_show_SSR5_OS" : {
+    "name" : "Cobalt-B: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase damage against debuffed targets by 14%/16%/18%/20%.\r\nFour-set bonus: Grant 1 dodge attempt every 3 dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24%/30%/36%/42% of ATK every 0.5 seconds for 4 seconds. (Multiple instances of the dodge skill burn will only trigger damage the first time.)",
+    "icon" : "icon_matrix_SSR5_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR5_OS"
+  },
+  "matrix_show_SSR6_OS" : {
+    "name" : "Claudia: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase damage by 13%/17%/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.\r\nFour-set bonus: Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/2.5/3 seconds and increases the damage of discharge skills by 58%/80%/103%/126% for 15 seconds.",
+    "icon" : "icon_matrix_SSR6_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR6_OS"
+  },
+  "matrix_show_SSR7_OS" : {
+    "name" : "Shiro: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase both damage and shatter to targets with more than 50% HP by 15%/19%/22.5%/26%.\r\nFour-set bonus: Upon entering battle, gain a 20%/25%/30%/35% damage boost for 35 seconds. Reset 5 seconds after exiting battle.",
+    "icon" : "icon_matrix_SSR7_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR7_OS"
+  },
+  "matrix_show_SSR8_OS" : {
+    "name" : "Zero: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/300% of ATK for 6 seconds.\r\nFour-set bonus: While the shield is active, you and your teammates deal 16%/20%/24%/28% more damage.",
+    "icon" : "icon_matrix_SSR8_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR8_OS"
+  },
+  "matrix_show_SSR9_OS" : {
+    "name" : "Samir: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase damage progressively by 1% upon hitting a target. Stack up to 10/13/16/20 times. Lasts for 1.5 seconds.\r\nFour-set bonus: Increase the volt and crit damage of Dual EM Stars by 16%/22%/30%/40%.",
+    "icon" : "icon_matrix_SSR9_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR9_OS"
+  },
+  "matrix_show_SSR10_OS" : {
+    "name" : "Huma: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/26% of ATK every second for 5 seconds.\nFour-set bonus: Reduce ATK of all targets within 8 meters that are taking damage over time by 10%/12%/13%/15%. (Only the highest level's effect is applied when obtained repeatedly.)",
+    "icon" : "icon_matrix_SSR10_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR10_OS"
+  },
+  "matrix_show_SSR11_OS" : {
+    "name" : "Crow: Matrix",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "typename" : "Random Part Matrix",
+    "source" : "Two-set bonus: Increase crit damage to targets with less than 60% HP by 24%/30%/36%/42%.\r\nFour-set bonus: Crits deal additional damage over time equal to 18%/22%/26%/30% of ATK every second for 5 seconds. This effect does not stack.",
+    "icon" : "icon_matrix_SSR11_256",
+    "rarity" : "LEGENDRY",
+    "id" : "matrix_show_SSR11_OS"
+  },
+  "Title_1_1_10_2" : {
+    "name" : "Mirroria Pathfinder",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Title for reaching 100% Mirroria District B exploration.",
+    "source" : "Exploration progress title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_1_10_2"
+  },
+  "Title_1_1_10_3" : {
+    "name" : "Mirroria Navigator",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Title for reaching 100% Mirroria District C exploration.",
+    "source" : "Exploration progress title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_1_10_3"
+  },
+  "Item_gift_T101008" : {
+    "name" : "A Screenwriter's Blog",
+    "type" : "ITEM_TYPE_IMITATION_GIFT",
+    "description" : "A book that contains the screenwriter's personal experiences. Due to its incredible ability to put its readers to sleep, some use it as a sleeping aid.",
+    "icon" : "gift41",
+    "rarity" : "EPIC",
+    "id" : "Item_gift_T101008"
+  },
+  "Item_gift_T101010" : {
+    "name" : "Security Force Training Diary",
+    "type" : "ITEM_TYPE_IMITATION_GIFT",
+    "description" : "A training manual for special agents of the Security Force. It contains training methods shared by senior members, making it a must-read for new members.",
+    "icon" : "gift41",
+    "rarity" : "EPIC",
+    "id" : "Item_gift_T101010"
+  },
+  "Item_gift_T101011" : {
+    "name" : "Signed Postcard",
+    "type" : "ITEM_TYPE_IMITATION_GIFT",
+    "description" : "A postcard with Fenrir's autograph.",
+    "icon" : "gift04",
+    "rarity" : "EPIC",
+    "id" : "Item_gift_T101011"
+  },
+  "Item_gift_T101015" : {
+    "name" : "Rider Postcard",
+    "type" : "ITEM_TYPE_IMITATION_GIFT",
+    "description" : "A postcard signed by a famous rider.",
+    "icon" : "gift04",
+    "rarity" : "EPIC",
+    "id" : "Item_gift_T101015"
+  },
+  "Item_gift_T101037" : {
+    "name" : "Umi's Poker Deck",
+    "type" : "ITEM_TYPE_IMITATION_GIFT",
+    "description" : "Umi's magic items. I don't seem to notice anything special about them... If you could give them to her, maybe she will teach you a little trick.",
+    "icon" : "gift04",
+    "rarity" : "EPIC",
+    "id" : "Item_gift_T101037"
+  },
+  "chat_emoji_34" : {
+    "name" : "Anticipation",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "34",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_34"
+  },
+  "chat_emoji_35" : {
+    "name" : "Cry",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "35",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_35"
+  },
+  "chat_emoji_36" : {
+    "name" : "No",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "37",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_36"
+  },
+  "chat_emoji_37" : {
+    "name" : "Whispers",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "38",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_37"
+  },
+  "chat_emoji_38" : {
+    "name" : "Fan",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "39",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_38"
+  },
+  "chat_emoji_39" : {
+    "name" : "Neat Freak",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "40",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_39"
+  },
+  "chat_emoji_40" : {
+    "name" : "Awesome",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "41",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_40"
+  },
+  "chat_emoji_41" : {
+    "name" : "Hey",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "42",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_41"
+  },
+  "chat_emoji_42" : {
+    "name" : "Check it Out",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "43",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_42"
+  },
+  "chat_emoji_43" : {
+    "name" : "OK",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "44",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_43"
+  },
+  "chat_emoji_44" : {
+    "name" : "Hehe",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "45",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_44"
+  },
+  "chat_emoji_45" : {
+    "name" : "Outage",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "46",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_45"
+  },
+  "chat_emoji_46" : {
+    "name" : "Pinch",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "47",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_46"
+  },
+  "chat_emoji_47" : {
+    "name" : "Kiss",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "48",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_47"
+  },
+  "chat_emoji_48" : {
+    "name" : "Drag Away",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "49",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_48"
+  },
+  "chat_emoji_49" : {
+    "name" : "Yes Yes",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Static Chat Emotes",
+    "source" : "Unlock the corresponding static chat emotes.",
+    "icon" : "50",
+    "rarity" : "EPIC",
+    "id" : "chat_emoji_49"
+  },
+  "chat_BigEmoji_17" : {
+    "name" : "Anticipation (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "34",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_17"
+  },
+  "chat_BigEmoji_18" : {
+    "name" : "Cry (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "35",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_18"
+  },
+  "chat_BigEmoji_19" : {
+    "name" : "No (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "37",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_19"
+  },
+  "chat_BigEmoji_20" : {
+    "name" : "Whisper (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "38",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_20"
+  },
+  "chat_BigEmoji_21" : {
+    "name" : "Fan (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "39",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_21"
+  },
+  "chat_BigEmoji_22" : {
+    "name" : "Neat Freak (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "40",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_22"
+  },
+  "chat_BigEmoji_23" : {
+    "name" : "Awesome (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "41",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_23"
+  },
+  "chat_BigEmoji_24" : {
+    "name" : "Hey (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "42",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_24"
+  },
+  "chat_BigEmoji_25" : {
+    "name" : "Check it Out (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "43",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_25"
+  },
+  "chat_BigEmoji_26" : {
+    "name" : "OK (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "44",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_26"
+  },
+  "chat_BigEmoji_27" : {
+    "name" : "Hehe (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "45",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_27"
+  },
+  "chat_BigEmoji_28" : {
+    "name" : "Outage (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "46",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_28"
+  },
+  "chat_BigEmoji_29" : {
+    "name" : "Pinch (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "47",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_29"
+  },
+  "chat_BigEmoji_30" : {
+    "name" : "Kiss (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "48",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_30"
+  },
+  "chat_BigEmoji_31" : {
+    "name" : "Drag Away (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "49",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_31"
+  },
+  "chat_BigEmoji_32" : {
+    "name" : "Yes Yes (Animated)",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Animated Chat Emotes",
+    "source" : "Unlock the corresponding animated chat emotes.",
+    "icon" : "50",
+    "rarity" : "EPIC",
+    "id" : "chat_BigEmoji_32"
+  },
+  "annabeila" : {
+    "name" : "Annabella",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "How do the orders from her Master sound to her?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_annabeila",
+    "rarity" : "LEGENDRY",
+    "id" : "annabeila"
+  },
+  "livehouse_dance_1" : {
+    "name" : "Extra Move 1",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 1",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_06",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_1"
+  },
+  "livehouse_dance_2" : {
+    "name" : "Extra Move 2",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 2",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_07",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_2"
+  },
+  "livehouse_dance_3" : {
+    "name" : "Extra Move 3",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 3",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_08",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_3"
+  },
+  "livehouse_dance_4" : {
+    "name" : "Extra Move 4",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 4",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_09",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_4"
+  },
+  "livehouse_dance_5" : {
+    "name" : "Extra Move 5",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 5",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_10",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_5"
+  },
+  "livehouse_dance_6" : {
+    "name" : "Extra Move 6",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 6",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_16",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_6"
+  },
+  "livehouse_dance_7" : {
+    "name" : "Extra Move 7",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 7",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_17",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_7"
+  },
+  "livehouse_dance_8" : {
+    "name" : "Extra Move 8",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 8",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_18",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_8"
+  },
+  "livehouse_dance_9" : {
+    "name" : "Extra Move 9",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 9",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_19",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_9"
+  },
+  "livehouse_dance_10" : {
+    "name" : "Extra Move 10",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Extra Move 10",
+    "source" : "Obtain to unlock more dance moves in the Oasis Club.",
+    "icon" : "icon_live-house_20",
+    "rarity" : "EPIC",
+    "id" : "livehouse_dance_10"
+  },
+  "Mount_Racing_001" : {
+    "name" : "Thunder Roar",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "When its engine roared and it sped away, there was only one sound left ringing in the ears of the crowd: Thunder.",
+    "source" : "Unlocks the Thunder Roar vehicle.",
+    "icon" : "Mount_Racing_001",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_Racing_001"
+  },
+  "Title_1_4_6_1" : {
+    "name" : "The Origin",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 1 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_1"
+  },
+  "Title_1_4_6_2" : {
+    "name" : "A Broken Domain",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 2 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_2"
+  },
+  "Title_1_4_6_3" : {
+    "name" : "Flames of War",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 3 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_3"
+  },
+  "Title_1_4_6_4" : {
+    "name" : "A Tempered Destiny",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 4 or 5 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_4"
+  },
+  "Title_1_4_6_5" : {
+    "name" : "A Frightened Song",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 6–10 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_5"
+  },
+  "Title_1_4_6_6" : {
+    "name" : "Sharpened Will",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 11–100 in Origin of War at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_6_6"
+  },
+  "Title_1_6_1_6" : {
+    "name" : "Perfect Pastry Chef",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Unlocks through the Fortuitous Stockade event.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_6_1_6"
+  },
+  "AvatarFrameiw_01" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_iw_01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrameiw_01"
+  },
+  "ailisi" : {
+    "name" : "Alyss",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Trust me! I will give it my all!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_ailisi",
+    "rarity" : "LEGENDRY",
+    "id" : "ailisi"
+  },
+  "choose_frag_BP3_OS" : {
+    "name" : "Pass Relic Shard Box I",
+    "type" : "ITEM_TYPE_AWARD_CHOOSE",
+    "description" : "General box",
+    "source" : "Open the box and select one of the <Orange>SSR</> Relic shards in it: Colossus Arm shard, Omnium Shield shard, Type V Armor shard, Spacetime Rift shard, Confinement shard, Drone shard, or Hoverboard shard.",
+    "icon" : "gift_artifact_frag_ssr",
+    "rarity" : "LEGENDRY",
+    "id" : "choose_frag_BP3_OS"
+  },
+  "Title_Overseas2_1" : {
+    "name" : "New Wanderer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_1"
+  },
+  "Title_Overseas2_2" : {
+    "name" : "Vera Wanderer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_2"
+  },
+  "Title_Overseas2_3" : {
+    "name" : "Vera Observer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_3"
+  },
+  "Title_Overseas2_4" : {
+    "name" : "To the Core",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_4"
+  },
+  "Title_Overseas2_5" : {
+    "name" : "Sobek's Bane",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_5"
+  },
+  "Title_Overseas2_6" : {
+    "name" : "To Mirroria",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Obtained from channels and events.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_6"
+  },
+  "Title_Overseas2_7" : {
+    "name" : "Master",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Thank you for helping out new adventurers.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_7"
+  },
+  "Title_Overseas2_8" : {
+    "name" : "Fantasy Artist",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "A pair of hands capable of creating beauty.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_8"
+  },
+  "Title_Overseas2_9" : {
+    "name" : "Dawnbreaker",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Thank you for your honesty, Executor.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_9"
+  },
+  "Title_Overseas2_10" : {
+    "name" : "Battle Angel",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "From the Ultimate Weapon event",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_Overseas2_10"
+  },
+  "AvatarFrame_Overseas_3" : {
+    "name" : "Raging Sands",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "The desert, where a new adventure begins.",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_twitch",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_3"
+  },
+  "AvatarFrame_Overseas_4" : {
+    "name" : "Welcome to Vera",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Welcome to Mirroria.",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "Avatar_TX_vera_01",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_4"
+  },
+  "AvatarFrame_Overseas_5" : {
+    "name" : "Lovin' a Discount",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "1, 2, 3, 4, 5, 6, 7, 8...",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_off",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_5"
+  },
+  "AvatarFrame_Overseas_6" : {
+    "name" : "Countdown",
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "description" : "Time to open presents!",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "AvatarFrame_TX_gift",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_Overseas_6"
+  },
+  "Avatar_Overseas_4" : {
+    "name" : "Welcome to Mirroria.",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Welcome to Mirroria.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_vera_01",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_4"
+  },
+  "Avatar_Overseas_5" : {
+    "name" : "Mini Ruby",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Ruby loves opening presents.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_leibei_01",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_5"
+  },
+  "Avatar_Overseas_6" : {
+    "name" : "For Love",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "For my \"Sweetie.\"",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_GFQ_01",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_6"
+  },
+  "Avatar_Overseas_7" : {
+    "name" : "Desert Plant",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Pretend to be a cactus.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_xianrenzhang_01",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_7"
+  },
+  "Avatar_Overseas_8" : {
+    "name" : "The Queen",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Want to taste my boot and chainsaw?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Avatar_TX_luqiya_01",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_Overseas_8"
+  },
+  "Mount_018" : {
+    "name" : "Elaphuria",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "When operated at maximum power, the beams from the headlights will leave a dazzling trail. But... it is not safe to exceed the speed limit.",
+    "source" : "Unlocks the Elaphuria vehicle.",
+    "icon" : "Mount_18",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_018"
+  },
+  "Item_BossCustommadeCoin" : {
+    "name" : "Construction Points",
+    "type" : "ITEM_TYPE_BARTER",
+    "description" : "A victory certificate earned from \"Boss Customization\" combat missions.",
+    "source" : "Can be used to redeem rewards in the Store.",
+    "icon" : "BossCustommadeCoin",
+    "rarity" : "RARE",
+    "id" : "Item_BossCustommadeCoin"
+  },
+  "Item_BossCustommadeScore" : {
+    "name" : "Feature Construction Module",
+    "type" : "ITEM_TYPE_BARTER",
+    "description" : "Produced by the Hykros Combat Simulation Bureau.",
+    "source" : "You can give bosses an ability boost during \"Boss Customization\" combat missions.",
+    "icon" : "BossCustommadeScore",
+    "rarity" : "RARE",
+    "id" : "Item_BossCustommadeScore"
+  },
+  "Item_VeraPoison_001" : {
+    "name" : "Revelation Seeds",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Strange tree species that grow in the poisonous areas of the Miasmic Swamp. Different elemental ores create different reactions from the Brood.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_Poison_1",
+    "rarity" : "EPIC",
+    "id" : "Item_VeraPoison_001"
+  },
+  "Item_VeraPoison_002" : {
+    "name" : "Germinated Revelation Seeds",
+    "type" : "ITEM_TYPE_QUEST",
+    "description" : "Sprouting revelation seeds obtained by defeating enemies from broods. They can wipe out the poisonous plants in the Miasmic Swamp.",
+    "source" : "Used for decryption in Vera.",
+    "icon" : "AvatarFrame_Poison_2",
+    "rarity" : "EPIC",
+    "id" : "Item_VeraPoison_002"
+  },
+  "Avatar_FishKing_007" : {
+    "name" : "Blue Angelfish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "A blue fish with white stripes and gold accents. It's hard to believe such a stunning fish even exists!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_007_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_007"
+  },
+  "Avatar_FishKing_008" : {
+    "name" : "Flashy Angelfish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "A variant of the fairy fish. Its stripes resemble lightning, making them even rarer.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_008_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_008"
+  },
+  "Avatar_FishKing_009" : {
+    "name" : "Black Tigerfly Fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "This fish with tiger-like markings likes to hide in coral reefs, hence the name.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_009_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_009"
+  },
+  "Avatar_FishKing_010" : {
+    "name" : "Round sea bream",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Common snapper with round white scales that look like pearls.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_010_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_010"
+  },
+  "Avatar_FishKing_011" : {
+    "name" : "Blue Surgeonfish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "There is a sharp thorn at the tail. Be careful not to cut yourself.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_011_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_011"
+  },
+  "Avatar_FishKing_012" : {
+    "name" : "Purple puffer",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The purple patterns on their bodies swell when they're angry.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_012_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_012"
+  },
+  "Avatar_FishKing_013" : {
+    "name" : "High-Back Fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Their high back give them strong dorsal fins and balance, enabling them to survive the sea without fear of being pushed around by the waves.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_013_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_013"
+  },
+  "Avatar_FishKing_014" : {
+    "name" : "Green snapper",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The cyan back and dark red belly make this snapper highly recognizable.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_014_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_014"
+  },
+  "Avatar_FishKing_015" : {
+    "name" : "Scarlet Eye",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "A terrifying deep-sea fish characterized by its red eyes.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_015_1",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_015"
+  },
+  "Avatar_FishKing_016" : {
+    "name" : "Golden stripe puffer",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "With its long body and black tiger-like stripes, it is among the strongest fish in the sea.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_016_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_016"
+  },
+  "Avatar_FishKing_017" : {
+    "name" : "Bell Fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Their color is as beautiful as a bellflower.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_017_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_017"
+  },
+  "Avatar_FishKing_018" : {
+    "name" : "Tiger shrimp vegetables",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "A school of these fish swimming together looks like a cornucopia of fruit and vegetables coming towards you.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_018_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_018"
+  },
+  "Avatar_FishKing_019" : {
+    "name" : "Fantasy",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The purple body is coated with creamy white stripes which emit a dazzling light under the sun.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_019_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_019"
+  },
+  "Avatar_FishKing_020" : {
+    "name" : "Silver bone",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Its body is almost completely transparent. You can see its bones.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_020_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_020"
+  },
+  "Avatar_FishKing_021" : {
+    "name" : "Lemon yellow",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "It looks like a big lemon from a distance. It shouldn't taste sour, right?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_021_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_021"
+  },
+  "Avatar_FishKing_022" : {
+    "name" : "Cloudy Angelfish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The new variety of fairy fish looks like a painting of a sunset.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_022_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_022"
+  },
+  "Avatar_FishKing_023" : {
+    "name" : "Red mane fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The red dorsal fin is their most distinctive feature, but the patterns elsewhere are more random.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_023_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_023"
+  },
+  "Avatar_FishKing_024" : {
+    "name" : "Changing fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "The dazzling pattern can change into a variety of colors under the refraction of seawater.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_024_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_024"
+  },
+  "Avatar_FishKing_025" : {
+    "name" : "Wingless",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "With their bright green appearance, these fish look like they have no eyes. In fact, it is merely a pattern, and their eyes are hidden between the patterns.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_025_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_025"
+  },
+  "Avatar_FishKing_026" : {
+    "name" : "Sparky fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Catching this fish was a marvellous surprise. Its white pattern flashing in the sunshine as it came out of the water was dazzling.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_026_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_026"
+  },
+  "Avatar_FishKing_027" : {
+    "name" : "Dark purple tiger shrimp",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "A rare species of goby. Their neon-lit bodies can be seen roaming around the ocean depths.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_027_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_027"
+  },
+  "Avatar_FishKing_028" : {
+    "name" : "Midnight fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Their patterns can be seen even in the deep sea. What could possibly be a more pleasant surprise than catching one under the moonlight?",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_028_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_028"
+  },
+  "Avatar_FishKing_029" : {
+    "name" : "Green-blue fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Even the most brilliant turquoise is not as dazzling as they are!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_029_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_029"
+  },
+  "Avatar_FishKing_030" : {
+    "name" : "Angry fish",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "As deep-sea fish, they are free to choose how to grow their bodies. The spikes are for defense. Fish growing like into this form can naturally run rampant in the sea.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_030_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_030"
+  },
+  "Avatar_FishKing_031" : {
+    "name" : "Spiky sea bream",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Outliers among snappers, their bones grow outside of their body. They use their hard bones to defend against their natural enemies. Their hard armor makes them mighty and unyielding, but this one still took the bait.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_031_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_031"
+  },
+  "Avatar_FishKing_032" : {
+    "name" : "Red tail",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Their long, beautiful fins are as majestic as a phoenix's tail.",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "touxiang_fishking_032_i",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_FishKing_032"
+  },
+  "Title_1_4_7_1" : {
+    "name" : "Legendary Racer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 1 on Race Leaderboard at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_7_1"
+  },
+  "Title_1_4_7_2" : {
+    "name" : "Epic Racer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 2 on Race Leaderboard at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_7_2"
+  },
+  "Title_1_4_7_3" : {
+    "name" : "Star Racer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 3 on Race Leaderboard at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_7_3"
+  },
+  "Title_1_4_7_4" : {
+    "name" : "Elite Racer",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Rank 4 to 10 on Race Leaderboard at the results tally.",
+    "source" : "Honor title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "LEGENDRY",
+    "id" : "Title_1_4_7_4"
+  },
+  "Title_1_1_12_1" : {
+    "name" : "Miasmic Swamp Seeker",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Title for reaching 100% Miasmic Swamp exploration.",
+    "source" : "Exploration progress title",
+    "icon" : "pet_chip_0101",
+    "rarity" : "EPIC",
+    "id" : "Title_1_1_12_1"
+  },
+  "item_SecretAction_101" : {
+    "name" : "Puncture Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP, and they suffer 95% less damage when attacked within 20 meters.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipSquare",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_101"
+  },
+  "item_SecretAction_102" : {
+    "name" : "Hardshell Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP, and they suffer 95% less damage except when attacked from behind.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipTriangle",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_102"
+  },
+  "item_SecretAction_103" : {
+    "name" : "Armor Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP, and they suffer 95% less damage except when attacked from above.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipCircular",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_103"
+  },
+  "item_SecretAction_104" : {
+    "name" : "Mono Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP, and they suffer 95% less damage when there are other enemies within a 5-meter radius.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipX",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_104"
+  },
+  "item_SecretAction_105" : {
+    "name" : "Berserker Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 100% increased HP, and they can fully recover HP 15 seconds after they enter battle.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipDiamond",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_105"
+  },
+  "item_SecretAction_106" : {
+    "name" : "Flamebath Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP. Once their HP reaches 0, they can only be defeated with a flame weapon.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipTrapezoid",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_106"
+  },
+  "item_SecretAction_107" : {
+    "name" : "Frozen Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP. Once their HP reaches 0, they can only be defeated with a frost weapon.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipSun",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_107"
+  },
+  "item_SecretAction_108" : {
+    "name" : "Bolt Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP. Once their HP reaches 0, they can only be defeated with a volt weapon.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipMoon",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_108"
+  },
+  "item_SecretAction_109" : {
+    "name" : "Resistance Sample",
+    "type" : "ITEM_TYPE_SECRET_ACTION_INFO",
+    "description" : "Sample Info: Enemies with this sample have 50% increased HP. Once their HP reaches 0, they can only be defeated with a physical weapon.",
+    "source" : "Obtained by defeating enemies with corresponding marks on their heads in Vera: Miasmic Swamp during top-secret operations.",
+    "icon" : "Icon_ChipStars",
+    "rarity" : "EPIC",
+    "id" : "item_SecretAction_109"
+  },
+  "wumi" : {
+    "name" : "Umi",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Bang Bang Bang! There you have it. Vera's most mysterious and elegant magician, Umi!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_wumi",
+    "rarity" : "LEGENDRY",
+    "id" : "wumi"
+  },
+  "Item_Box_Refresh_Wild_001" : {
+    "name" : "Lv. 1 Random Box",
+    "type" : "ITEM_TYPE_PICKUSE",
+    "icon" : "None",
+    "rarity" : "COMMON",
+    "id" : "Item_Box_Refresh_Wild_001"
+  },
+  "Item_Box_Refresh_Wild_002" : {
+    "name" : "Random Box Lv. 2",
+    "type" : "ITEM_TYPE_PICKUSE",
+    "icon" : "None",
+    "rarity" : "RARE",
+    "id" : "Item_Box_Refresh_Wild_002"
+  },
+  "Item_Box_Refresh_Wild_003" : {
+    "name" : "Random Box Lv. 3",
+    "type" : "ITEM_TYPE_PICKUSE",
+    "icon" : "None",
+    "rarity" : "EPIC",
+    "id" : "Item_Box_Refresh_Wild_003"
+  },
+  "testpack_weapon" : {
+    "name" : "Meteor Box Reserve",
+    "type" : "ITEM_TYPE_GIFTPACK",
+    "description" : "In the dazzling rain of stars, there must be one of your destiny.   ",
+    "source" : "Open and choose one from the following vehicles:\r\nJustice Meteor, Nightfeather Meteor, Med Meteor, Rockin' Meteor, Pouncing Cat Meteor, Arena Meteor, Absconder Meteor, Smoothie Meteor, Wishing Meteor, Modular Meteor, Supercomputing Meteor, Frosty Meteor, Snow Rose Meteor, EM Meteor, Glowing Meteor, Windrunner Meteor, Freedom Meteor, Electrovision Meteor, Neon Meteor, Surveyor Meteor, Scuba Meteor, Steady Meteor, Flame Chaser Meteor, Roaming Meteor, Phantasmic Meteor, Inspirational Meteor, DIY Meteor.",
+    "icon" : "liuguanglihe02",
+    "rarity" : "LEGENDRY",
+    "id" : "testpack_weapon"
+  },
+  "testpack_matrix" : {
+    "name" : "Meteor Box Reserve",
+    "type" : "ITEM_TYPE_GIFTPACK",
+    "description" : "In the dazzling rain of stars, there must be one of your destiny.   ",
+    "source" : "Open and choose one from the following vehicles:\r\nJustice Meteor, Nightfeather Meteor, Med Meteor, Rockin' Meteor, Pouncing Cat Meteor, Arena Meteor, Absconder Meteor, Smoothie Meteor, Wishing Meteor, Modular Meteor, Supercomputing Meteor, Frosty Meteor, Snow Rose Meteor, EM Meteor, Glowing Meteor, Windrunner Meteor, Freedom Meteor, Electrovision Meteor, Neon Meteor, Surveyor Meteor, Scuba Meteor, Steady Meteor, Flame Chaser Meteor, Roaming Meteor, Phantasmic Meteor, Inspirational Meteor, DIY Meteor.",
+    "icon" : "liuguanglihe02",
+    "rarity" : "LEGENDRY",
+    "id" : "testpack_matrix"
+  },
+  "Mount_Racing_002" : {
+    "name" : "Mammoth",
+    "type" : "ITEM_TYPE_MOUNT",
+    "description" : "This superb car resembles a rushing mammoth when traversing treacherous terrain at high speeds.",
+    "source" : "Unlock the vehicle Mammoth.",
+    "icon" : "Mount_Racing_002",
+    "rarity" : "LEGENDRY",
+    "id" : "Mount_Racing_002"
+  },
+  "fenlier" : {
+    "name" : "Fenrir",
+    "type" : "ITEM_TYPE_AVATAR",
+    "description" : "Let's get the party started!",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "avatar_fenlier",
+    "rarity" : "LEGENDRY",
+    "id" : "fenlier"
+  },
+  "breakthrough_show" : {
+    "name" : "For augmenting weapons.",
+    "type" : "ITEM_TYPE_MATERIAL",
+    "source" : "Random chance of getting nano coating I, acidproof glaze I, booster frame I, nanofiber frame I.",
+    "icon" : "gift_gem_p2_2",
+    "rarity" : "RARE",
+    "id" : "breakthrough_show"
+  },
+  "fashion_Guidenpc_mia_10" : {
+    "name" : "Reindeer Mi-a",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "Just as described in so many tales, Mi-a had prepared her gifts long beforehand, and eagerly awaited the coming of that night.",
+    "source" : "Paint",
+    "icon" : "256mia013",
+    "rarity" : "LEGENDRY",
+    "id" : "fashion_Guidenpc_mia_10"
+  },
+  "fashion_Guidenpc_mia_11" : {
+    "name" : "Bunny Mi-a",
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "description" : "This isn't Dolly! I wouldn't want to hug the wrong one!",
+    "source" : "Paint",
+    "icon" : "256mia014",
+    "rarity" : "LEGENDRY",
+    "id" : "fashion_Guidenpc_mia_11"
+  },
+  "fashion_dress_44_4" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "source" : "Unlock the corresponding outfit.",
+    "icon" : "fashion_f45",
+    "rarity" : "LEGENDRY",
+    "id" : "fashion_dress_44_4"
+  },
+  "AvatarFrame_69" : {
+    "type" : "ITEM_TYPE_AVATAR_FRAME",
+    "source" : "Unlock the corresponding avatar frame.",
+    "icon" : "icon_AvatarFrame_69",
+    "rarity" : "LEGENDRY",
+    "id" : "AvatarFrame_69"
+  },
+  "Avatar_47" : {
+    "type" : "ITEM_TYPE_AVATAR",
+    "source" : "Unlock the corresponding avatar.",
+    "icon" : "Item_Avatar_47",
+    "rarity" : "LEGENDRY",
+    "id" : "Avatar_47"
+  },
+  "chat_qipao_70" : {
+    "type" : "ITEM_TYPE_CONSUMABLE",
+    "source" : "Chat bubble",
+    "icon" : "icon_qipao_70",
+    "rarity" : "LEGENDRY",
+    "id" : "chat_qipao_70"
   }
 }
