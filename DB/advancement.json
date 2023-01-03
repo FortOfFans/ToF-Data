@@ -1,2258 +1,4312 @@
 {
   "stave_thunder_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 10
+    }
   },
   "stave_thunder_sr_star_1" : {
     "advancement" : "Heal all teammates within <shuzhi>10</> meters for <shuzhi>100%</> of ATK after using a dodge skill.",
+    "numbers" : [],
     "cost" : 500,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 10
+    }
   },
   "stave_thunder_sr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 10
+    }
   },
   "stave_thunder_sr_star_3" : {
     "advancement" : "Normal attacks also fire two missiles, each dealing damage equal to <shuzhi>5%</> of ATK to the target and restoring <shuzhi>5</> weapon charge points.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.2
+    }
   },
   "stave_thunder_sr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 3000,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.2
+    }
   },
   "stave_thunder_sr_star_5" : {
     "advancement" : "Increase speed of obtaining weapon charge by <shuzhi>20%</> (not applicable to missile attacks).",
+    "numbers" : [],
     "cost" : 4500,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 13.2
+    }
   },
   "stave_thunder_sr_star_6" : {
     "advancement" : "Grant all teammates within range <shuzhi>60%</> damage reduction whenever a skill dispels control effects from the target.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "stave_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 13.2
+    }
   },
   "cannon_ice_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_1" : {
     "advancement" : "Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times. Increase ammo count to <shuzhi>60</>.",
+    "numbers" : [],
     "cost" : 500,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_3" : {
     "advancement" : "Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 3000,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_5" : {
     "advancement" : "Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.",
+    "numbers" : [],
     "cost" : 4500,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 10
+    }
   },
   "cannon_ice_sr_star_6" : {
     "advancement" : "Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>60%</>. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 16,
+      "charge" : 10
+    }
   },
   "hammer_ice_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_1" : {
     "advancement" : "Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 500,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_3" : {
     "advancement" : "After taking damage, reduce all damage received by <shuzhi>50%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 3000,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_5" : {
     "advancement" : "Normal attacks <shuzhi>stun</> targets for <shuzhi>2.5</> seconds. Cooldown: <shuzhi>20</> seconds.",
+    "numbers" : [],
     "cost" : 4500,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "hammer_ice_sr_star_6" : {
     "advancement" : "Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "bow_physic_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_1" : {
     "advancement" : "Restore 1 dodge attempt every fifth normal attack or after using <ComLblGreen>Piercing Shot</>.",
+    "numbers" : [],
     "cost" : 500,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_3" : {
     "advancement" : "Increase headshot damage by <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 3000,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_5" : {
     "advancement" : "Dodge skills inflict a grievous effect on targets for <shuzhi>7</> seconds.",
+    "numbers" : [],
     "cost" : 4500,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "bow_physic_sr_star_6" : {
     "advancement" : "Increase crit rate to grievous targets by <shuzhi>30%</> and crit damage by <shuzhi>50%</>.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "bow_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10
+    }
   },
   "spear_thunder_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 11,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_1" : {
     "advancement" : "Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.",
+    "numbers" : [],
     "cost" : 500,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_3" : {
     "advancement" : "After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds (effect can be stacked up to <shuzhi>3</> times by hitting multiple targets). Effect is doubled to grievous targets.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 3000,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_5" : {
     "advancement" : "Double stun duration from dodge skills.",
+    "numbers" : [],
     "cost" : 4500,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "spear_thunder_sr_star_6" : {
     "advancement" : "Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 7
+    }
   },
   "digger_thunder_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_1" : {
     "advancement" : "Attacking targets from behind increases crit rate of all dual blades attacks by <shuzhi>40%</>. Backstabbing an electrified target increases crit rate by <shuzhi>100%</> and crit damage by <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_3" : {
     "advancement" : "Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_5" : {
     "advancement" : "Triggering a Back Attack grants a 100% crit chance for the next <shuzhi>4</> seconds and increases crit damage by <shuzhi>50%</>. Cooldown: <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "digger_thunder_ssr_star_6" : {
     "advancement" : "After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "bigsword_ice_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_1" : {
     "advancement" : "Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.8,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.8,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_3" : {
     "advancement" : "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.8,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.8,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_5" : {
     "advancement" : "Increase damage and shatter by <shuzhi>50%</> while the shield is active.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 16.1,
+      "charge" : 4
+    }
   },
   "bigsword_ice_ssr_star_6" : {
     "advancement" : "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 16.1,
+      "charge" : 4
+    }
   },
   "bow_ice_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_1" : {
     "advancement" : "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_3" : {
     "advancement" : "Launching a Dodge attack fires <shuzhi>3</> Charged Arrows.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_5" : {
     "advancement" : "Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "bow_ice_ssr_star_6" : {
     "advancement" : "Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks. Headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 11.5
+    }
   },
   "stave_ice_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_1" : {
     "advancement" : "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_3" : {
     "advancement" : "Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by <shuzhi>20%</>, and grant them immunity to control effects and shatter.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_5" : {
     "advancement" : "Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "stave_ice_ssr_star_6" : {
     "advancement" : "Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain <shuzhi>15%</> all damage and healing boost (cannot stack).",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 4,
+      "charge" : 12.5
+    }
   },
   "sickle_fire_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_1" : {
     "advancement" : "Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>120%</> of ATK to the target every second for <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_3" : {
     "advancement" : "Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_5" : {
     "advancement" : "Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "sickle_fire_ssr_star_6" : {
     "advancement" : "Increase damage dealt by <shuzhi>10%</> for each enemy slain for <shuzhi>30</> seconds. Stack up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 5
+    }
   },
   "gun_fire_ssr_star_0" : {
     "advancement" : "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_1" : {
     "advancement" : "Each round of Barrage deals additional damage equal to <shuzhi>{0}%</> of the target's current HP (cannot exceed <shuzhi>{1}%</> of ATK).",
+    "numbermap" : "Gun_Fire_SSR_EffectFigure",
+    "numbers" : [
+      "GunLevel1_1_HP",
+      "GunLevel1_1_DMG"
+    ],
     "cost" : 1000,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_3" : {
     "advancement" : "Heavy Bombardment branch skill and Close Quarters dodge attack inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of ATK every second for <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_5" : {
     "advancement" : "The damage from <ComLblGreen>Ion Scorch</> increases to <shuzhi>60%</> of ATK. Successful attacks with any weapon's dodge skill will refresh the duration of <ComLblGreen>Ion Scorch</>.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "gun_fire_ssr_star_6" : {
     "advancement" : "<ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect. Successful attacks with any weapon's dodge skill reduces the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10
+    }
   },
   "sword_physic_ssr_star_0" : {
     "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 7.5,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_1" : {
     "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numbers" : [
+      "Buff_SwordPhy_SSR_Level1_DamageUp",
+      "Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+    ],
     "cost" : 1000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.5,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.5,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_3" : {
     "advancement" : "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. Stack up to <shuzhi>1</> time.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numbers" : [
+      "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+      "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+    ],
     "cost" : 4000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.2,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.2,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_5" : {
     "advancement" : "Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. This effect cannot be stacked.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numbers" : [
+      "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+      "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+    ],
     "cost" : 9000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.2,
+      "charge" : 12
+    }
   },
   "sword_physic_ssr_star_6" : {
     "advancement" : "Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.2,
+      "charge" : 12
+    }
   },
   "darts_physic_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_1" : {
     "advancement" : "Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.4,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.4,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_3" : {
     "advancement" : "Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_5" : {
     "advancement" : "Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds (only take effect once for the same effect).",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 6
+    }
   },
   "darts_physic_ssr_star_6" : {
     "advancement" : "After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13,
+      "charge" : 6
+    }
   },
   "cube_fire_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_1" : {
     "advancement" : "Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restore HP of any teammate who picks it up equal to <shuzhi>60%</> of ATK. <shuzhi>2</>-second cooldown.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_3" : {
     "advancement" : "Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>30%</> of ATK every second while the shield is active.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_5" : {
     "advancement" : "Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases all damage and healing of any teammate who picks it up by <shuzhi>2%</> for <shuzhi>30</> seconds. Stack up to <shuzhi>10</> times. Skill cooldown is <shuzhi>2.5</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "cube_fire_ssr_star_6" : {
     "advancement" : "Using a Skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5,
+      "charge" : 13
+    }
   },
   "dgun_thunder_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_1" : {
     "advancement" : "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_3" : {
     "advancement" : "Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_5" : {
     "advancement" : "Double the duration of Electro Field and pull targets into the center of the attack.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "dgun_thunder_ssr_star_6" : {
     "advancement" : "Triggering an electrical explosion reduces skill cooldowns by <shuzhi>1</> second.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 10.7
+    }
   },
   "ShieldAxe_Fire_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_1" : {
     "advancement" : "Gain a stack of Strong Shield upon using discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>10%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>15%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_3" : {
     "advancement" : "While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_5" : {
     "advancement" : "After switching to a shield axe, immediately grant <shuzhi>30%</> damage reduction that diminishes by <shuzhi>10%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "ShieldAxe_Fire_ssr_star_6" : {
     "advancement" : "Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP (up to a maximum of <shuzhi>15%</> of the user's Max HP).",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "Mark_physic_ssr_star_0" : {
     "advancement" : "<shuzhi>Guard when playing on a team</>: Unleashing Heavy System Strike, Form Switch, or Maximum Firepower, receive <shuzhi>40%</> of all damage dealt to the allied Wanderer with the lowest HP for <shuzhi>10</> seconds in their stead. After the effect ends, recover <shuzhi>10%</> of lost HP. Trigger only when you have <shuzhi>Fortitude Resonance</>. Cannot remove or trigger the effect again until its duration ends.\r\n<shuzhi>Amplification when playing solo</>: Gain <shuzhi>50%</> physical damage reduction in Heavy System Form\r\n<shuzhi>Heavy System Shield</>: Gain <shuzhi>1</> Heavy System Energy Point when Heavy System Attack, Flailing Cleave, or Crashing Slash hits the target. Upon reaching <shuzhi>20</> points, turn <shuzhi>20%</> of your current HP into <shuzhi>1.5</> times of the Heavy System Shield (no more than 1.5 times the maximum HP, during which healing is reduced by 50%). The shield lasts <shuzhi>15</> seconds. Cannot obtain Heavy System Shield when HP is below <shuzhi>10%</>. <shuzhi>66.7%</> of the remaining shield value is converted to HP when the shield ends. Gain <shuzhi>2</> Heavy System Energy Points upon hitting a vulnerable target. While Heavy System Shield is activated, other HP shields can be converted to Heavy System Shield and are immune to the addition of HP shields.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_1" : {
     "advancement" : "Gain Heavy System Shield immediately when you release Heavy System Strike, Form Switch, or Maximum Firepower.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_2" : {
     "advancement" : "Increase the current weapon's HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_3" : {
     "advancement" : "Gain 1 stack of <shuzhi>35%</> final damage boost when the Heavy System Shield ends, breaks or refreshes, for <shuzhi>20</> seconds. Not stackable.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_4" : {
     "advancement" : "Increase the current weapon's HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_5" : {
     "advancement" : "When Heavy System Shield ends, breaks, or refreshes, deal damage equal to <shuzhi>160%</> of current ATK + <shuzhi>5%</> of lost HP to nearby targets. Gain <shuzhi>50</> points of weapon charges by hitting targets.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Mark_physic_ssr_star_6" : {
     "advancement" : "During Heavy System Shield, physical resistance <shuzhi>doubles</> with a hyperbody effect. Additionally, gain another Heavy System Shield when the skill of other weapons hits the target or when using a discharge skill during Heavy System Shield.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Mark_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 12
+    }
   },
   "Immortal_thunder_ssr_star_0" : {
     "advancement" : "Activate Fighting Spirit upon entering battle, increasing final damage by <shuzhi>15%</> while accelerating Cellular Decay (lose <shuzhi>1%</> of current HP every <shuzhi>5</> seconds). The effect, \"switching weapons cancels the effect,\" ends upon leaving battle.\r\nCellular Decay is halted when HP drops below <shuzhi>50%</>, but effects of Fighting Spirit are retained. Switching weapons cancels the effect.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_1" : {
     "advancement" : "<shuzhi>Blade Slash</> deals additional damage equal to <shuzhi>80%</> of ATK + <shuzhi>2.5%</> of missing HP.\r\n<shuzhi>Cupping Dragon</>'s explosion deals additional damage equal to <shuzhi>160%</> of ATK + <shuzhi>5%</> of missing HP.\r\n<shuzhi>Force Field</> deals additional damage equal to <shuzhi>160%</> of ATK + <shuzhi>5%</> of missing HP. Damage over time does not trigger this effect.\"",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_3" : {
     "advancement" : "Increase shatter by <shuzhi>15%</>. Upon shattering the target's shield, place a Cupping Bomb at the target's location, instantly dealing damage equal to <shuzhi>680%</> of ATK to all nearby targets. If there is only one enemy in the target area, deal damage equal to <shuzhi>1,500%</> of ATK.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_5" : {
     "advancement" : "Automatically block for <shuzhi>1</> second upon being attacked. Dispel any control effects immediately when activated. Negate the next incoming attack that deals less than <shuzhi>20%</> of the max HP. While blocking, tapping the normal attack button unleashes a <shuzhi>Counter Slash</> on the target, dealing damage equal to <shuzhi>240%</> of ATK and <shuzhi>strongly suspends them</>. Cooldown: <shuzhi>18</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 8
+    }
   },
   "Immortal_thunder_ssr_star_6" : {
     "advancement" : "Upon entering the effective range of <shuzhi>Force Field</> or <shuzhi>Phantasia</>, boost the effects of Fighting Spirit for <shuzhi>7</> seconds, increasing final damage by <shuzhi>40%</> and halting Cellular Decay. Switching weapons cancels the effect.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Immortal_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.3,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_0" : {
     "advancement" : "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_1" : {
     "advancement" : "After using <shuzhi>Pulse Lock</> or <shuzhi>Particle Beam Burst</>, creates <shuzhi>1</> Electrode that immediately grants the user <shuzhi>5</> stacks of Healing Chain Enhance. In addition, unleash a Healing Chain that heals nearby allies by <shuzhi>135%</> of the Wanderer's ATK.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_3" : {
     "advancement" : "Every <shuzhi>6</> seconds, the Electrode will unleash <shuzhi>Ring Lightning</>, which deals area damage equal to a maximum of <shuzhi>205%</> of ATK.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_5" : {
     "advancement" : "After using <shuzhi>Pulse Lock</>, increase the Wanderer's ATK by (<shuzhi>5</> + (Number of Electrodes ×<shuzhi>5</>))% for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 8
+    }
   },
   "Suspension_thunder_ssr_star_6" : {
     "advancement" : "Up to <shuzhi>2</> Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Suspension_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6,
+      "charge" : 11
+    }
   },
   "Frigg_ice_ssr_star_0" : {
     "advancement" : "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_1" : {
     "advancement" : "Gain <shuzhi>1</> frostiness point every time you deal <shuzhi>550%</> × frost ATK of damage in the Frost Domain. Up to <shuzhi>10</> frostiness points can be accumulated.\r\nWhen the Frost Domain ends, frostiness points × frost ATK × <shuzhi>95%</> of blast damage will be dealt to all enemies in the Frost Domain. After leaving the Frost Domain, lose <shuzhi>1</> frostiness point every <shuzhi>3</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_3" : {
     "advancement" : "Increase frostiness limit to <shuzhi>15</>. When using discharge skills of frost weapons in the Frost Domain, deal damage equal to <shuzhi>25%</> of frost ATK × (current frostiness + 5) to all the targets in the Frost Domain.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_5" : {
     "advancement" : "When shattering a shield with a frost weapon in the Frost Domain, freeze the target for <shuzhi>2</> seconds and deal additional damage equal to frostiness × <shuzhi>35%</> of frost ATK. If the target cannot be frozen, the additional damage dealt is doubled.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "Frigg_ice_ssr_star_6" : {
     "advancement" : "When frostiness reaches <shuzhi>15</> points and you are in the Frost Domain, you will get an additional \"Domain of Frost II\" that increases frost ATK by <shuzhi>25%</> when frost weapons are used.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Frigg_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_0" : {
     "advancement" : "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_1" : {
     "advancement" : "Emblazen boosts the damage of Spark Attack to <shuzhi>{0}%</>. Skill cooldown drops to <shuzhi>24</> seconds.",
+    "numbermap" : "FunnelEffectFigure",
+    "numbers" : [
+      "FunnelLevel1AtkDamUp"
+    ],
     "cost" : 1000,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_3" : {
     "advancement" : "Emblazen increases flame boost by <shuzhi>{0}%</> and the burn multiplier to <shuzhi>75%</>.",
+    "numbermap" : "FunnelEffectFigure",
+    "numbers" : [
+      "FunnelLevel3FireDamBeUp"
+    ],
     "cost" : 4000,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_5" : {
     "advancement" : "Restore an additional <shuzhi>75</> points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by <shuzhi>25%</> when Ultimate Heat is active.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "funnel_fire_ssr_star_6" : {
     "advancement" : "Emblazen boosts the damage of Spark Attack to <shuzhi>{0}%</> and doubles Heat acquisition efficiency. Skill cooldown drops to <shuzhi>16</> seconds.",
+    "numbermap" : "FunnelEffectFigure",
+    "numbers" : [
+      "FunnelLevel6AtkDamUp"
+    ],
     "cost" : 13500,
     "need" : "funnel_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_0" : {
     "advancement" : "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>{0}%</> and frost resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numbers" : [
+      "Buff_Dkatana_Ice_Resonance_IceATK",
+      "Buff_Dkatana_Ice_Resonance_IceDef"
+    ],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_1" : {
     "advancement" : "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <shuzhi>5</> times weapon skills are used, and the damage of Flow and Counterattack is increased by <shuzhi>1</> time for the next <shuzhi>{0}</> seconds.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numbers" : [
+      "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+    ],
     "cost" : 1000,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_3" : {
     "advancement" : "Excited Flow: Increase the damage of Sword Shadow: Surge to <shuzhi>350%</> of frost ATK.\r\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <shuzhi>{0}</> seconds.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numbers" : [
+      "Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+    ],
     "cost" : 4000,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_5" : {
     "advancement" : "Freeze time and trigger Phantasia upon Surge hitting the target. Share cooldown with the Phantasia triggered by dodging.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "dkatana_ice_ssr_star_6" : {
     "advancement" : "Upon hitting a target with Surge, increase frost damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numbers" : [
+      "Buff_Dkatana_IceDMG_Add",
+      "Buff_Dkatana_IceDMG_Add_Duration",
+      "Buff_Dkatana_BlockWeakenEffect",
+      "Buff_Dkatana_BlockWeakenEffect_Duration"
+    ],
     "cost" : 13500,
     "need" : "Dkatana_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.9,
+      "charge" : 8
+    }
   },
   "fan_superpower_ssr_star_0" : {
     "advancement" : "When pairing Shadoweave with other weapons, the <shuzhi>Weapons Master</> effect can be created.\r\nEpiphyllum will appear around the target randomly and explode within <shuzhi>1–3</> seconds, dealing <shuzhi>25%</> area damage.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_1" : {
     "advancement" : "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by <shuzhi>{0}%</>, up to a maximum of <shuzhi>{1}%</>.\r\nThe epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.5</> seconds.",
+    "numbermap" : "FanEffectFigure",
+    "numbers" : [
+      "FanFlowerDamageUp",
+      "FanFlowerDamageUp5"
+    ],
     "cost" : 1000,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_3" : {
     "advancement" : "The epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.3</> seconds.\r\nEpiphyllums will attach to the enemy.\r\nThe duration of <shuzhi>Moonlight Realm</> is now increased to <shuzhi>20</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_5" : {
     "advancement" : "When under the effect of <shuzhi>Moonlight Realm</>, gain <shuzhi>30</> weapon charge every second and increase the damage of discharge skill by <shuzhi>{0}%</>.",
+    "numbermap" : "FanEffectFigure",
+    "numbers" : [
+      "FanSkillLevel5ChangeSkillDamUp"
+    ],
     "cost" : 9000,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "fan_superpower_ssr_star_6" : {
     "advancement" : "Switch modes on <shuzhi>Moonlight Realm</> up to <shuzhi>2</> times. Gain <shuzhi>1</> attempt after skill cooldown and another <shuzhi>1</> attempt by charging discharge.\r\nUse any weapon discharge <shuzhi>3</> times to gain <shuzhi>+1</> on the <shuzhi>Moonlight Realm</> count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of <shuzhi>Moonlight Realm</>, increase attack by <shuzhi>{0}%</>.",
+    "numbermap" : "FanEffectFigure",
+    "numbers" : [
+      "FanSkillLevel6FinalDamUpdes"
+    ],
     "cost" : 13500,
     "need" : "fan_superpower_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.5,
+      "charge" : 11.5
+    }
   },
   "arm_physic_ssr_star_0" : {
     "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbermap" : "ArmEffectFigure",
+    "numbers" : [
+      "ArmGMPhyAtkMul",
+      "ArmGMPhyDefMul"
+    ],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_1" : {
     "advancement" : "When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to <shuzhi>{0}%</> of physical ATK × number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.",
+    "numbermap" : "ArmEffectFigure",
+    "numbers" : [
+      "ArmLevel1DamMul"
+    ],
     "cost" : 1000,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_3" : {
     "advancement" : "Increase all damage dealt by Guards by <shuzhi>20%</>, and increase the guarded target's final damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</> when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
+    "numbermap" : "ArmEffectFigure",
+    "numbers" : [
+      "ArmLevel3FinalDamMul",
+      "ArmLevel3FinalDamDuration"
+    ],
     "cost" : 4000,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_5" : {
     "advancement" : "Forgiveness Guard: After releasing Resonance 5 times, receive <shuzhi>1</> chance to negate fatal damage for the user and the guarded target. After a teammate negates fatal damage, they will consume Forgiveness Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the user receives <shuzhi>2</> chances to negate fatal damage. Stack up to <shuzhi>5</> times. After the user negates fatal damage, they will consume 1 stack of Enlightenment Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.",
+    "numbermap" : "ArmEffectFigure",
+    "numbers" : [
+      "ArmLevel5HpReply"
+    ],
     "cost" : 9000,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "arm_physic_ssr_star_6" : {
     "advancement" : "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by <shuzhi>{0}%</>, up to <shuzhi>{1}%</> for <shuzhi>{2} seconds</>.",
+    "numbermap" : "ArmEffectFigure",
+    "numbers" : [
+      "ArmLevel6Add",
+      "ArmLevel6AddMax",
+      "ArmLevel6AddDuration"
+    ],
     "cost" : 13500,
     "need" : "arm_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 10
+    }
   },
   "tianlang_thunder_ssr_star_0" : {
     "advancement" : "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_1" : {
     "advancement" : "Gain 1 stack of Superconductor per charge: Increase Max HP by <shuzhi>{0}%</> but increase damage received by <shuzhi>{1}%</> (except when the current HP is lower than {2} times of volt ATK and no HP Shield is equipped), stacking up to <shuzhi>8</> times. Lose 1 stack if no Superconductor gets refreshed within <shuzhi>{3}</> seconds.",
+    "numbermap" : "TianlangEffectFigure",
+    "numbers" : [
+      "ImproveMaxHP_L3",
+      "Tianlang_BeDMGUp",
+      "Tianlang_BeDMGUp_Con_ATK",
+      "ImproveMaxHpDuration"
+    ],
     "cost" : 1000,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_3" : {
     "advancement" : "Release any volt weapon skill or discharge skill to get <shuzhi>2</> charges. Gain hyperbody at <shuzhi>8</> Superconductor stacks.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_5" : {
     "advancement" : "Each Superconductor stack increases final damage by <shuzhi>{0}%</>.",
+    "numbermap" : "TianlangEffectFigure",
+    "numbers" : [
+      "AddFinalDMG_L5"
+    ],
     "cost" : 9000,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "tianlang_thunder_ssr_star_6" : {
     "advancement" : "Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain <shuzhi>{0}%</> volt damage boost for <shuzhi>{1}</> seconds.",
+    "numbermap" : "TianlangEffectFigure",
+    "numbers" : [
+      "ThuInteractionAddThuDmgL6",
+      "ThuInteractionDuration"
+    ],
     "cost" : 13500,
     "need" : "tianlang_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 8
+    }
   },
   "snipe_fire_ssr_star_0" : {
     "advancement" : "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Tranquil Heart</>: Using discharge/skills/charged attacks/dodging with Clover Cross increases Clover Cross' final crit rate by <shuzhi>5%</> for <shuzhi>15</> seconds, stacking up to <shuzhi>3</> times. After the crit rate exceeds <shuzhi>100%</>, <shuzhi>50%</> of the extra amount will be converted into crit damage, up to <shuzhi>7.5%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_1" : {
     "advancement" : "Hitting a target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, burn damage will be triggered an additional <shuzhi>2</> times. When an enemy unit leaves the optical space, their speed is reduced by <shuzhi>80%</> for <shuzhi>2.5</> seconds. Cooldown: <shuzhi>12</> seconds.\r\nTargets of Cross Snipe will be terrified (speed is slowed by <shuzhi>80%</>) for <shuzhi>1.5</> seconds. Cooldown: <shuzhi>4</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_3" : {
     "advancement" : "Recover HP equal to <shuzhi>50%</> of the damage dealt every time Cross Snipe lands a critical hit (not exceeding <shuzhi>15%</> of own Max HP) and <shuzhi>50</> weapon charge.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</>, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_5" : {
     "advancement" : "<shuzhi>Ruthless Bomb</> Enhancement: While in the Burn Enhancement state, burn damage dealt to targets is increased by <shuzhi>30%</>.\r\n<shuzhi>Deceitful Bomb</> Enhancement: Gas explosion damage ignores <shuzhi>30%</> of the target's flame resistance.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "snipe_fire_ssr_star_6" : {
     "advancement" : "Increase damage dealt by Cross Snipe by an additional <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12,
+      "charge" : 9
+    }
   },
   "iceblade_ice_ssr_star_0" : {
     "advancement" : "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_1" : {
     "advancement" : "Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_3" : {
     "advancement" : "Receive Alyss's Support every time Starry Night is triggered and increase Starry Night and Hoarfrost Damage by <shuzhi>{0}%</> for <shuzhi>{1} [@$second|seconds]</>. Stack up to <shuzhi>3</> times.",
+    "numbermap" : "IceBladeEffectFigure",
+    "numbers" : [
+      "IcebladeLevel3DamageUpPer",
+      "IcebladeLevel3DamageUpDuration"
+    ],
     "cost" : 4000,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_5" : {
     "advancement" : "Increase the damage of Unyielding Wing's normal attack and Spatial Slice by <shuzhi>{0}%</>. The Wanderer receives Alyss's Protection upon taking fatal damage, protecting the Wanderer from death 1 time and making the Wanderer immune to damage for a short time. Cooldown: <shuzhi>{1} [@$second|seconds]</>.",
+    "numbermap" : "IceBladeEffectFigure",
+    "numbers" : [
+      "IcebladeLevel5DamageUpPer",
+      "IcebladeLevel5ImmLethalCD"
+    ],
     "cost" : 9000,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "iceblade_ice_ssr_star_6" : {
     "advancement" : "Increase frost damage by <shuzhi>{0}%</> when Alyss's Support reaches 3 stacks.",
+    "numbermap" : "IceBladeEffectFigure",
+    "numbers" : [
+      "IcebladeLevel6IceDamageUpPer"
+    ],
     "cost" : 13500,
     "need" : "iceblade_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8,
+      "charge" : 12
+    }
   },
   "Whip_physic_ssr_star_0" : {
     "advancement" : "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "numbermap" : "WhipEffectFigure",
+    "numbers" : [
+      "Buff_Whip_Physic_Resonance_ATK",
+      "Buff_Whip_Physic_Resonance_Def",
+      "Buff_Whip_ReviveHP",
+      "Buff_Whip_ReviveCD_L0"
+    ],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_1" : {
     "advancement" : "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Psychic Puppet's physical damage boost to <shuzhi>{0}%</>. During Magic Trick, recover <shuzhi>{1}%</> of Max HP and <shuzhi>{2}</> weapon charge every second.",
+    "numbermap" : "WhipEffectFigure",
+    "numbers" : [
+      "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+      "Buff_Whip_ChargedRecover_L1_HP",
+      "Buff_Whip_ChargedRecover_L1_Charge"
+    ],
     "cost" : 1000,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_3" : {
     "advancement" : "When ending Magic Trick early, deal damage in a large area over <shuzhi>{3} [@$second|seconds]</>. The cooldown of Mobius' next skill is reduced, and physical damage is increased by <shuzhi>{0}%</> for a period of time. If Magic Trick has more than <shuzhi>13</> seconds remaining, gain an additional <shuzhi>200</> weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts (this effect does not apply to Mobius). The area damage dealt is capped at <shuzhi>{1}%</> of ATK (the maximum damage is dealt when the remaining time is more than <shuzhi>{5} [@$second|seconds]</>). The maximum cooldown reduction is <shuzhi>{4} [@$second|seconds]</>, and the physical damage boost can last up to <shuzhi>{2} [@$second|seconds]</>.",
+    "numbermap" : "WhipEffectFigure",
+    "numbers" : [
+      "Buff_Whip_ChargedEndEffect_L3",
+      "MagicEnd_HighDamage",
+      "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+      "MagicEnd_DamageDuration",
+      "ReduceSkillCDMax",
+      "MagicEnd_HighThreshold"
+    ],
     "cost" : 4000,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_5" : {
     "advancement" : "When switching to Mobius, immediately gain <shuzhi>{0}</> warm-up points. Cooldown: <shuzhi>{1} [@$second|seconds]</>. When using Magic Trick, deal area damage equal to <shuzhi>{2}%</> of ATK to nearby targets and reduce their physical resistance by <shuzhi>{3}%</> for <shuzhi>{4} [@$second|seconds]</>.",
+    "numbermap" : "WhipEffectFigure",
+    "numbers" : [
+      "Buff_Whip_ChargeGet_L5",
+      "Buff_Whip_ChargeGetCD_L5",
+      "GE_WhipMagicBeginExSkill_Damage",
+      "Buff_Whip_MagicBeginExSkill_L5_Effect",
+      "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+    ],
     "cost" : 9000,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "Whip_physic_ssr_star_6" : {
     "advancement" : "When using Magic Trick, Mobius has an additional whip that is automatically swung whenever Mobius uses normal attacks or dodges, dealing damage equal to <shuzhi>{0}%</> of Mobius' ATK (this damage is not counted as normal attack damage).",
+    "numbermap" : "WhipEffectFigure",
+    "numbers" : [
+      "WhipMagicExWhipSkillDamageVar",
+      "Buff_Whip_ReviveCD_L6"
+    ],
     "cost" : 13500,
     "need" : "Whip_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14,
+      "charge" : 9
+    }
   },
   "bigsword_fire_r_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 7.2,
+      "charge" : 3.2
+    }
   },
   "spear_ice_r_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 6.9,
+      "charge" : 5.6
+    }
   },
   "digger_physic_r_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 3.2,
+      "charge" : 9.6
+    }
   },
   "bow_fire_r_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 4.8,
+      "charge" : 8
+    }
   },
   "sword_thunder_r_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 3.6,
+      "charge" : 8.8
+    }
   },
   "Gun_thunder_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "Gun_thunder_sr_star_1" : {
     "advancement" : "Enemies caught in the Tempest Round's area of effect are slowed by 30% for 1 second.",
+    "numbers" : [],
     "cost" : 200,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "Gun_thunder_sr_star_2" : {
     "advancement" : "Increase activation range and blast radius of landmines.",
+    "numbers" : [],
     "cost" : 400,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "Gun_thunder_sr_star_3" : {
     "advancement" : "Restore 1 dodge attempt after hitting any enemy with a landmine.",
+    "numbers" : [],
     "cost" : 600,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "Gun_thunder_sr_star_4" : {
     "advancement" : "Increase Tempest Round's area of effect and duration.",
+    "numbers" : [],
     "cost" : 800,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "Gun_thunder_sr_star_5" : {
     "advancement" : "Placing a landmine within Tempest Round's area of effect immediately detonates it, generating another Tempest Round and expanding its area of effect.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bigsword_physic_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_1" : {
     "advancement" : "Switching to this weapon grants a shield equal to <shuzhi>7.5%</> of Max HP that lasts up to <shuzhi>10</> seconds. Cooldown: <shuzhi>60</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_2" : {
     "advancement" : "When equipped with 2 or more defense-type weapons, reduce damage received by <shuzhi>3%</>. Take effect immediately and stack with multiple weapons. Effect and aggro are both increased when playing in a team.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_3" : {
     "advancement" : "Upon switching to the weapon, gain a shield equal to <shuzhi>15%</> of Max HP for <shuzhi>10</> seconds and immunity to hitstun. Cooldown: <shuzhi>60</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_4" : {
     "advancement" : "Reduce physical damage received by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_5" : {
     "advancement" : "Targets hit by discharge skills take an additional <shuzhi>15%</> physical damage for the next <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 1,
+      "charge" : 1
+    }
   },
   "bigsword_physic_sr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 1
+    }
   },
   "spear_physic_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_1" : {
     "advancement" : "While airborne, each successful attack increases the user's final damage dealt by <shuzhi>4%</>, up to a maximum of <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_2" : {
     "advancement" : "When equipped with 2 or more DPS-type weapons, deal an additional <shuzhi>7.5%</> final damage to targets with less than <shuzhi>50%</> HP. Take effect immediately and stack with multiple weapons. Effect is boosted when playing in a team.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_3" : {
     "advancement" : "Hitting targets while airborne has a <shuzhi>30%</> chance to reduce all weapon skill cooldowns by <shuzhi>2</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_4" : {
     "advancement" : "After landing, the damage boost persists for the next <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_5" : {
     "advancement" : "Deal an additional <shuzhi>30%</> Final Damage to airborne/stunned/frozen/electrified targets.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "spear_physic_sr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_1" : {
     "advancement" : "When equipped with 2 or more defense-type weapons, reduce damage received by an additional <shuzhi>5%</> whenever HP is less than <shuzhi>70%</>. Take effect immediately and stack with multiple weapons. Effect and aggro are both increased when playing in a team.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_2" : {
     "advancement" : "When hyperbody is activated, increase its duration by <shuzhi>0.5</> seconds for every <shuzhi>5%</> HP lost.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_3" : {
     "advancement" : "Reduce physical damage received by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_4" : {
     "advancement" : "Using skills increases the user's physical defense by (<shuzhi>20% + 200</>) for <shuzhi>15</> seconds (cannot stack, duration can be refreshed).",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_5" : {
     "advancement" : "Discharge skills deal an additional <shuzhi>20%</> physical damage to targets for <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sickle_physic_ssr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_1" : {
     "advancement" : "Normal attacks generate explosions, dealing flame damage equal to 90% of ATK in a small radius. Cooldown: 5 seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_3" : {
     "advancement" : "Increase damage dealt by 40% when a normal attack hits the target on its side or back.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_5" : {
     "advancement" : "Grant 50% lifesteal during Phantasia.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "sword_fire_sr_star_6" : {
     "advancement" : "Increase damage dealt by 80% when a normal attack hits the target on its side or back.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 4.8,
+      "charge" : 8
+    }
   },
   "bow_fire_sr_star_1" : {
     "advancement" : "Grant <yellow_lbl_15_1>Sharp Arrow I</> each time the user hits a target with a Charged Arrow. Sharp Arrow I: Increase final damage by <shuzhi>4%</> for <shuzhi>10</> seconds. The effect can be stacked up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_2" : {
     "advancement" : "When equipped with 2 or more DPS-type weapons, deal an additional <shuzhi>5%</> final damage to targets that are further than 6 meters away. Take effect immediately and stack with multiple weapons. Effect is boosted when playing in a team.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_3" : {
     "advancement" : "Launching a Dodge attack fires <shuzhi>3</> piercing shots.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_4" : {
     "advancement" : "Extend Arrow Rain duration by 100%.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_5" : {
     "advancement" : "Grant <yellow_lbl_15_1>Sharp Arrow I</> each time the user hits a target with a Charged Arrow. Sharp Arrow I: Increase final damage by <shuzhi>4%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>5</> times.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "bow_fire_sr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_1" : {
     "advancement" : "When equipped with 2 or more defense-type weapons, reduce damage received by <shuzhi>5%</>. Take effect immediately and stack with multiple weapons. Increase aggro by <shuzhi>200%</> when playing in a team. Taunt all enemies in an <shuzhi>8</>-meter radius for <shuzhi>5</> seconds after switching to this weapon. Cooldown: <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_2" : {
     "advancement" : "After switching to this weapon, the next hit <shuzhi>stuns</> the target for <shuzhi>2</> seconds. Cooldown: <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_3" : {
     "advancement" : "Increase volt damage reduction by <shuzhi>10%</>.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_4" : {
     "advancement" : "Reduce damage received by <shuzhi>10%</> for <shuzhi>30</> seconds after switching to this weapon. When equipped with 2 or more defense-type weapons, teammates also gain <shuzhi>10%</> damage reduction for <shuzhi>30</> seconds. Cooldown: <shuzhi>30</> seconds. Cannot stack with effects of the same type.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_5" : {
     "advancement" : "Targets hit by discharge skills take an additional <shuzhi>20%</> volt damage for the next <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "hammer_thunder_ssr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_1" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_2" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_3" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_4" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_5" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test3_ssr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_1" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_2" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_3" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_4" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_5" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test4_ssr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_1" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_2" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_3" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_4" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_5" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "test5_ssr_star_6" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 0,
+      "charge" : 0
+    }
   },
   "breakfate_digger_thunder_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_1" : {
     "advancement" : "Attacking targets from behind increases crit rate of all dual blades attacks by <shuzhi>40%</>. Backstabbing an electrified target increases crit rate by <shuzhi>100%</> and crit damage by <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_3" : {
     "advancement" : "Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_5" : {
     "advancement" : "Triggering a Back Attack grants a 100% crit chance for the next <shuzhi>4</> seconds and increases crit damage by <shuzhi>50%</>. Cooldown: <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_star_6" : {
     "advancement" : "After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_bigsword_ice_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_1" : {
     "advancement" : "Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_3" : {
     "advancement" : "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_5" : {
     "advancement" : "Increase damage and shatter by <shuzhi>50%</> while the shield is active.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_star_6" : {
     "advancement" : "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bow_ice_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_1" : {
     "advancement" : "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by <shuzhi>8%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_3" : {
     "advancement" : "Launching a Dodge attack fires <shuzhi>3</> Charged Arrows.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_5" : {
     "advancement" : "Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_star_6" : {
     "advancement" : "Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks. Headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_stave_ice_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_1" : {
     "advancement" : "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_3" : {
     "advancement" : "Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by <shuzhi>20%</>, and grant them immunity to control effects and shatter.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_5" : {
     "advancement" : "Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_star_6" : {
     "advancement" : "Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain <shuzhi>15%</> damage boost. This effect cannot stack.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_sickle_fire_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_1" : {
     "advancement" : "Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>120%</> of ATK to the target every second for <shuzhi>15</> seconds.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_3" : {
     "advancement" : "Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_5" : {
     "advancement" : "Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_star_6" : {
     "advancement" : "Increase damage dealt by <shuzhi>10%</> for each enemy slain for <shuzhi>30</> seconds. Stack up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sword_physic_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_1" : {
     "advancement" : "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_3" : {
     "advancement" : "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. Stack up to <shuzhi>1</> time.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_5" : {
     "advancement" : "Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. This effect cannot be stacked.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_star_6" : {
     "advancement" : "Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_darts_physic_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_1" : {
     "advancement" : "Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>30%</>.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_2" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_3" : {
     "advancement" : "Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_4" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_5" : {
     "advancement" : "Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds (only take effect once for the same effect).",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_star_6" : {
     "advancement" : "After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_ShieldAxe_Fire_star_0" : {
+    "numbers" : [],
     "cost" : 0,
     "need" : "None",
-    "needamt" : null
+    "needamt" : null,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_1" : {
     "advancement" : "Gain a stack of Strong Shield upon using discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>10%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>15%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.",
+    "numbers" : [],
     "cost" : 1000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_2" : {
     "advancement" : "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
+    "numbers" : [],
     "cost" : 2000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_3" : {
     "advancement" : "While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.",
+    "numbers" : [],
     "cost" : 4000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_4" : {
     "advancement" : "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+    "numbers" : [],
     "cost" : 6000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_5" : {
     "advancement" : "After switching to a shield axe, immediately grant <shuzhi>30%</> damage reduction that diminishes by <shuzhi>10%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.",
+    "numbers" : [],
     "cost" : 9000,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_star_6" : {
     "advancement" : "Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP (up to a maximum of <shuzhi>15%</> of the user's Max HP).",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_digger_thunder_n_6" : {
     "advancement" : "Passive 1: Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 2: After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds. ",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_r_6" : {
     "advancement" : "Passive 1: Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 2: After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds. ",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.4,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_sr_6" : {
     "advancement" : "Passive 1: Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 2: After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds. ",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.8,
+      "charge" : 9.3
+    }
   },
   "breakfate_digger_thunder_ssr_6" : {
     "advancement" : "Passive 1: Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 2: After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds. ",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "digger_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.2,
+      "charge" : 9.3
+    }
   },
   "breakfate_bigsword_ice_n_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.\r\n\r\nPassive 2: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.\r\n\r\nPassive 3: Increase damage and shatter by <shuzhi>20%</> while the shield is active.\r\n\r\nPassive 4: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when the shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.8,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_r_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.\r\n\r\nPassive 2: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.\r\n\r\nPassive 3: Increase damage and shatter by <shuzhi>20%</> while the shield is active.\r\n\r\nPassive 4: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when the shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_sr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.\r\n\r\nPassive 2: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.\r\n\r\nPassive 3: Increase damage and shatter by <shuzhi>20%</> while the shield is active.\r\n\r\nPassive 4: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when the shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.7,
+      "charge" : 7.4
+    }
   },
   "breakfate_bigsword_ice_ssr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.\r\n\r\nPassive 2: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.\r\n\r\nPassive 3: Increase damage and shatter by <shuzhi>20%</> while the shield is active.\r\n\r\nPassive 4: Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immune to controls when the shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bigsword_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 15.6,
+      "charge" : 7.4
+    }
   },
   "breakfate_bow_ice_n_6" : {
     "advancement" : "Passive 1: Grant a stack of Sharp Arrow each time the arrow fired by a dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.\r\n\r\nPassive 2: Launching a dodge attack fires <shuzhi>3</> Charged Arrows.\r\n\r\nPassive 3: Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.\r\n\r\nPassive 4: Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks, headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6.1,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_r_6" : {
     "advancement" : "Passive 1: Grant a stack of Sharp Arrow each time the arrow fired by a dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.\r\n\r\nPassive 2: Launching a dodge attack fires <shuzhi>3</> Charged Arrows.\r\n\r\nPassive 3: Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.\r\n\r\nPassive 4: Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks, headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.4,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_sr_6" : {
     "advancement" : "Passive 1: Grant a stack of Sharp Arrow each time the arrow fired by a dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.\r\n\r\nPassive 2: Launching a dodge attack fires <shuzhi>3</> Charged Arrows.\r\n\r\nPassive 3: Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.\r\n\r\nPassive 4: Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks, headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.6,
+      "charge" : 10.5
+    }
   },
   "breakfate_bow_ice_ssr_6" : {
     "advancement" : "Passive 1: Grant a stack of Sharp Arrow each time the arrow fired by a dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.\r\n\r\nPassive 2: Launching a dodge attack fires <shuzhi>3</> Charged Arrows.\r\n\r\nPassive 3: Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.\r\n\r\nPassive 4: Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks, headshots grant <shuzhi>5</> stacks.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "bow_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.8,
+      "charge" : 10.5
+    }
   },
   "breakfate_stave_ice_n_6" : {
     "advancement" : "Passive 1: After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.\r\n\r\nPassive 2: Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets. It can be used while being affected by control effects and immune to control effects and shatter.\r\n\r\nPassive 3: Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 4: Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain a <shuzhi>10%</> damage boost. This effect cannot stack.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.3,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_r_6" : {
     "advancement" : "Passive 1: After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.\r\n\r\nPassive 2: Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets. It can be used while being affected by control effects and immune to control effects and shatter.\r\n\r\nPassive 3: Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 4: Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain a <shuzhi>10%</> damage boost. This effect cannot stack.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_sr_6" : {
     "advancement" : "Passive 1: After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.\r\n\r\nPassive 2: Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets. It can be used while being affected by control effects and immune to control effects and shatter.\r\n\r\nPassive 3: Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 4: Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain a <shuzhi>10%</> damage boost. This effect cannot stack.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 13.8
+    }
   },
   "breakfate_stave_ice_ssr_6" : {
     "advancement" : "Passive 1: After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time and last for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.\r\n\r\nPassive 2: Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets. It can be used while being affected by control effects and immune to control effects and shatter.\r\n\r\nPassive 3: Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.\r\n\r\nPassive 4: Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain a <shuzhi>10%</> damage boost. This effect cannot stack.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "stave_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.3,
+      "charge" : 13.8
+    }
   },
   "breakfate_sickle_fire_n_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>70%</> of ATK to the target every second for <shuzhi>15</> seconds.\r\n\r\nPassive 2: Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.\r\n\r\nPassive 3: Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.\r\n\r\nPassive 4: Increase damage dealt by <shuzhi>8%</> for each target defeated. The effect lasts for <shuzhi>30</> seconds and can be stacked up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_r_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>70%</> of ATK to the target every second for <shuzhi>15</> seconds.\r\n\r\nPassive 2: Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.\r\n\r\nPassive 3: Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.\r\n\r\nPassive 4: Increase damage dealt by <shuzhi>8%</> for each target defeated. The effect lasts for <shuzhi>30</> seconds and can be stacked up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.3,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_sr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>70%</> of ATK to the target every second for <shuzhi>15</> seconds.\r\n\r\nPassive 2: Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.\r\n\r\nPassive 3: Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.\r\n\r\nPassive 4: Increase damage dealt by <shuzhi>8%</> for each target defeated. The effect lasts for <shuzhi>30</> seconds and can be stacked up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.1,
+      "charge" : 7.9
+    }
   },
   "breakfate_sickle_fire_ssr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>70%</> of ATK to the target every second for <shuzhi>15</> seconds.\r\n\r\nPassive 2: Increase damage dealt by <shuzhi>10%</> for each enemy within <shuzhi>6</> meters, up to a maximum of <shuzhi>30%</>.\r\n\r\nPassive 3: Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.\r\n\r\nPassive 4: Increase damage dealt by <shuzhi>8%</> for each target defeated. The effect lasts for <shuzhi>30</> seconds and can be stacked up to <shuzhi>3</> times.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sickle_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 15,
+      "charge" : 7.9
+    }
   },
   "breakfate_sword_physic_n_6" : {
     "advancement" : "Passive 1: After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>4%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.\r\n\r\nPassive 2: Hitting a target with a skill or discharge skill applies a stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>1</> time.\r\n\r\nPassive 3: Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>10%</> for <shuzhi>15</> seconds. This effect cannot be stacked.\r\n\r\nPassive 4: Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.8,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_r_6" : {
     "advancement" : "Passive 1: After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>4%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.\r\n\r\nPassive 2: Hitting a target with a skill or discharge skill applies a stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>1</> time.\r\n\r\nPassive 3: Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>10%</> for <shuzhi>15</> seconds. This effect cannot be stacked.\r\n\r\nPassive 4: Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_sr_6" : {
     "advancement" : "Passive 1: After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>4%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.\r\n\r\nPassive 2: Hitting a target with a skill or discharge skill applies a stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>1</> time.\r\n\r\nPassive 3: Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>10%</> for <shuzhi>15</> seconds. This effect cannot be stacked.\r\n\r\nPassive 4: Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 10.6
+    }
   },
   "breakfate_sword_physic_ssr_6" : {
     "advancement" : "Passive 1: After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <shuzhi>4%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times for a maximum of 1 stack per skill use.\r\n\r\nPassive 2: Hitting a target with a skill or discharge skill applies a stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>1</> time.\r\n\r\nPassive 3: Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>10%</> for <shuzhi>15</> seconds. This effect cannot be stacked.\r\n\r\nPassive 4: Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "sword_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.5,
+      "charge" : 10.6
+    }
   },
   "breakfate_darts_physic_n_6" : {
     "advancement" : "Passive 1: Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>10%</>.\r\n\r\nPassive 2: Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.\r\n\r\nPassive 3: Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds. Only take effect once for the same effect.\r\n\r\nPassive 4: After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.1,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_r_6" : {
     "advancement" : "Passive 1: Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>10%</>.\r\n\r\nPassive 2: Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.\r\n\r\nPassive 3: Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds. Only take effect once for the same effect.\r\n\r\nPassive 4: After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.9,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_sr_6" : {
     "advancement" : "Passive 1: Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>10%</>.\r\n\r\nPassive 2: Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.\r\n\r\nPassive 3: Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds. Only take effect once for the same effect.\r\n\r\nPassive 4: After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.7,
+      "charge" : 8.4
+    }
   },
   "breakfate_darts_physic_ssr_6" : {
     "advancement" : "Passive 1: Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>10%</>.\r\n\r\nPassive 2: Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.\r\n\r\nPassive 3: Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds. Only take effect once for the same effect.\r\n\r\nPassive 4: After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "darts_physic_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.6,
+      "charge" : 8.4
+    }
   },
   "breakfate_ShieldAxe_Fire_n_6" : {
     "advancement" : "Passive 1: Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>5%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>7%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.\r\n\r\nPassive 2: While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.\r\n\r\nPassive 3: After switching to a shield axe, immediately grant <shuzhi>15%</> damage reduction that diminishes by <shuzhi>5%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 4: Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP. Up to a maximum of <shuzhi>15%</> of the user's Max HP.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.3,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_r_6" : {
     "advancement" : "Passive 1: Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>5%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>7%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.\r\n\r\nPassive 2: While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.\r\n\r\nPassive 3: After switching to a shield axe, immediately grant <shuzhi>15%</> damage reduction that diminishes by <shuzhi>5%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 4: Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP. Up to a maximum of <shuzhi>15%</> of the user's Max HP.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_sr_6" : {
     "advancement" : "Passive 1: Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>5%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>7%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.\r\n\r\nPassive 2: While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.\r\n\r\nPassive 3: After switching to a shield axe, immediately grant <shuzhi>15%</> damage reduction that diminishes by <shuzhi>5%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 4: Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP. Up to a maximum of <shuzhi>15%</> of the user's Max HP.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 10
+    }
   },
   "breakfate_ShieldAxe_Fire_ssr_6" : {
     "advancement" : "Passive 1: Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>5%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>7%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.\r\n\r\nPassive 2: While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.\r\n\r\nPassive 3: After switching to a shield axe, immediately grant <shuzhi>15%</> damage reduction that diminishes by <shuzhi>5%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 4: Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP. Up to a maximum of <shuzhi>15%</> of the user's Max HP.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "ShieldAxe_Fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.3,
+      "charge" : 10
+    }
   },
   "breakfate_cannon_ice_ssr_6" : {
     "advancement" : "Passive 1: Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times and increase ammo count to <shuzhi>60</>.\r\n\r\nPassive 2: Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.\r\n\r\nPassive 3: Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.\r\n\r\nPassive 4: Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>10%</>. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 16.9,
+      "charge" : 10
+    }
   },
   "breakfate_cannon_ice_sr_6" : {
     "advancement" : "Passive 1: Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times and increase ammo count to <shuzhi>60</>.\r\n\r\nPassive 2: Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.\r\n\r\nPassive 3: Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.\r\n\r\nPassive 4: Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>10%</>. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.8,
+      "charge" : 10
+    }
   },
   "breakfate_cannon_ice_r_6" : {
     "advancement" : "Passive 1: Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times and increase ammo count to <shuzhi>60</>.\r\n\r\nPassive 2: Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.\r\n\r\nPassive 3: Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.\r\n\r\nPassive 4: Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>10%</>. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.6,
+      "charge" : 10
+    }
   },
   "breakfate_cannon_ice_n_6" : {
     "advancement" : "Passive 1: Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times and increase ammo count to <shuzhi>60</>.\r\n\r\nPassive 2: Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.\r\n\r\nPassive 3: Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.\r\n\r\nPassive 4: Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>10%</>. Cooldown: <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "cannon_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.5,
+      "charge" : 10
+    }
   },
   "breakfate_gun_fire_ssr_6" : {
     "advancement" : "Passive 1: Each round of Barrage deals additional damage equal to <shuzhi>2%</> of the target's current HP. The additional damage cannot exceed <shuzhi>200%</> of ATK.\r\n\r\nPassive 2: Heavy Bombardment, Dodge Attack, and Close Quarters inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of their current ATK every second for <shuzhi>10</> seconds.\r\n\r\nPassive 3: Successful attacks with any weapon's dodge skills will refresh the duration of <ComLblGreen>Ion Scorch</>.\r\n\r\nPassive 4: <ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect and deals <shuzhi>20%</> burn damage. Successful attacks with any weapon's dodge skills reduce the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT from the dodge skills also triggers the effect of cooldown reduction.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.7,
+      "charge" : 10
+    }
   },
   "breakfate_gun_fire_sr_6" : {
     "advancement" : "Passive 1: Each round of Barrage deals additional damage equal to <shuzhi>2%</> of the target's current HP. The additional damage cannot exceed <shuzhi>200%</> of ATK.\r\n\r\nPassive 2: Heavy Bombardment, Dodge Attack, and Close Quarters inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of their current ATK every second for <shuzhi>10</> seconds.\r\n\r\nPassive 3: Successful attacks with any weapon's dodge skills will refresh the duration of <ComLblGreen>Ion Scorch</>.\r\n\r\nPassive 4: <ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect and deals <shuzhi>20%</> burn damage. Successful attacks with any weapon's dodge skills reduce the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT from the dodge skills also triggers the effect of cooldown reduction.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 10
+    }
   },
   "breakfate_gun_fire_r_6" : {
     "advancement" : "Passive 1: Each round of Barrage deals additional damage equal to <shuzhi>2%</> of the target's current HP. The additional damage cannot exceed <shuzhi>200%</> of ATK.\r\n\r\nPassive 2: Heavy Bombardment, Dodge Attack, and Close Quarters inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of their current ATK every second for <shuzhi>10</> seconds.\r\n\r\nPassive 3: Successful attacks with any weapon's dodge skills will refresh the duration of <ComLblGreen>Ion Scorch</>.\r\n\r\nPassive 4: <ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect and deals <shuzhi>20%</> burn damage. Successful attacks with any weapon's dodge skills reduce the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT from the dodge skills also triggers the effect of cooldown reduction.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.1,
+      "charge" : 10
+    }
   },
   "breakfate_gun_fire_n_6" : {
     "advancement" : "Passive 1: Each round of Barrage deals additional damage equal to <shuzhi>2%</> of the target's current HP. The additional damage cannot exceed <shuzhi>200%</> of ATK.\r\n\r\nPassive 2: Heavy Bombardment, Dodge Attack, and Close Quarters inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of their current ATK every second for <shuzhi>10</> seconds.\r\n\r\nPassive 3: Successful attacks with any weapon's dodge skills will refresh the duration of <ComLblGreen>Ion Scorch</>.\r\n\r\nPassive 4: <ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect and deals <shuzhi>20%</> burn damage. Successful attacks with any weapon's dodge skills reduce the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT from the dodge skills also triggers the effect of cooldown reduction.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "gun_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6.7,
+      "charge" : 10
+    }
   },
   "breakfate_spear_thunder_ssr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.\r\n\r\nPassive 2: After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>3</> times by hitting multiple targets and is doubled to grievous targets.\r\n\r\nPassive 3: Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 15,
+      "charge" : 7
+    }
   },
   "breakfate_spear_thunder_sr_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.\r\n\r\nPassive 2: After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>3</> times by hitting multiple targets and is doubled to grievous targets.\r\n\r\nPassive 3: Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.1,
+      "charge" : 7
+    }
   },
   "breakfate_spear_thunder_r_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.\r\n\r\nPassive 2: After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>3</> times by hitting multiple targets and is doubled to grievous targets.\r\n\r\nPassive 3: Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.2,
+      "charge" : 7
+    }
   },
   "breakfate_spear_thunder_n_6" : {
     "advancement" : "Passive 1: Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.\r\n\r\nPassive 2: After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>3</> times by hitting multiple targets and is doubled to grievous targets.\r\n\r\nPassive 3: Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "spear_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 7
+    }
   },
   "breakfate_hammer_ice_ssr_6" : {
     "advancement" : "Passive 1: Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 2: After taking damage, reduce all damage received by <shuzhi>10%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 3: Normal attacks <shuzhi>stun</> targets for <shuzhi>1</> second. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 4: Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 13.3,
+      "charge" : 6
+    }
   },
   "breakfate_hammer_ice_sr_6" : {
     "advancement" : "Passive 1: Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 2: After taking damage, reduce all damage received by <shuzhi>10%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 3: Normal attacks <shuzhi>stun</> targets for <shuzhi>1</> second. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 4: Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11.7,
+      "charge" : 6
+    }
   },
   "breakfate_hammer_ice_r_6" : {
     "advancement" : "Passive 1: Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 2: After taking damage, reduce all damage received by <shuzhi>10%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 3: Normal attacks <shuzhi>stun</> targets for <shuzhi>1</> second. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 4: Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10,
+      "charge" : 6
+    }
   },
   "breakfate_hammer_ice_n_6" : {
     "advancement" : "Passive 1: Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>30</> seconds.\r\n\r\nPassive 2: After taking damage, reduce all damage received by <shuzhi>10%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 3: Normal attacks <shuzhi>stun</> targets for <shuzhi>1</> second. Cooldown: <shuzhi>20</> seconds.\r\n\r\nPassive 4: Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "numbers" : [],
     "cost" : 6750,
     "need" : "hammer_ice_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.3,
+      "charge" : 6
+    }
   },
   "breakfate_dgun_thunder_ssr_6" : {
     "advancement" : "Passive 1: Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.\r\n\r\nPassive 2: Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.\r\n\r\nPassive 3: Double the duration of Electro Field and pull targets into the center of the attack.\r\n\r\nPassive 4: Triggering an electrical explosion reduces skill cooldown by <shuzhi>1</> second.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 10.3,
+      "charge" : 10.7
+    }
   },
   "breakfate_dgun_thunder_sr_6" : {
     "advancement" : "Passive 1: Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.\r\n\r\nPassive 2: Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.\r\n\r\nPassive 3: Double the duration of Electro Field and pull targets into the center of the attack.\r\n\r\nPassive 4: Triggering an electrical explosion reduces skill cooldown by <shuzhi>1</> second.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9,
+      "charge" : 10.7
+    }
   },
   "breakfate_dgun_thunder_r_6" : {
     "advancement" : "Passive 1: Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.\r\n\r\nPassive 2: Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.\r\n\r\nPassive 3: Double the duration of Electro Field and pull targets into the center of the attack.\r\n\r\nPassive 4: Triggering an electrical explosion reduces skill cooldown by <shuzhi>1</> second.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.7,
+      "charge" : 10.7
+    }
   },
   "breakfate_dgun_thunder_n_6" : {
     "advancement" : "Passive 1: Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.\r\n\r\nPassive 2: Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.\r\n\r\nPassive 3: Double the duration of Electro Field and pull targets into the center of the attack.\r\n\r\nPassive 4: Triggering an electrical explosion reduces skill cooldown by <shuzhi>1</> second.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "dgun_thunder_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 6.5,
+      "charge" : 10.7
+    }
   },
   "breakfate_cube_fire_ssr_6" : {
     "advancement" : "Passive 1: Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restores HP of any teammate who picks it up equal to <shuzhi>15%</> of ATK. Cooldown: <shuzhi>2</> seconds.\r\n\r\nPassive 2: Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>20%</> of ATK every second while the shield is active.\r\n\r\nPassive 3: Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases the damage of the teammate who picks it up by <shuzhi>1%</> for <shuzhi>45</> seconds. Stack up to <shuzhi>10</> times. Cooldown: <shuzhi>2.5</> seconds.\r\n\r\nPassive 4: Using a skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.4,
+      "charge" : 13
+    }
   },
   "breakfate_cube_fire_sr_6" : {
     "advancement" : "Passive 1: Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restores HP of any teammate who picks it up equal to <shuzhi>15%</> of ATK. Cooldown: <shuzhi>2</> seconds.\r\n\r\nPassive 2: Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>20%</> of ATK every second while the shield is active.\r\n\r\nPassive 3: Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases the damage of the teammate who picks it up by <shuzhi>1%</> for <shuzhi>45</> seconds. Stack up to <shuzhi>10</> times. Cooldown: <shuzhi>2.5</> seconds.\r\n\r\nPassive 4: Using a skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 8.2,
+      "charge" : 13
+    }
   },
   "breakfate_cube_fire_r_6" : {
     "advancement" : "Passive 1: Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restores HP of any teammate who picks it up equal to <shuzhi>15%</> of ATK. Cooldown: <shuzhi>2</> seconds.\r\n\r\nPassive 2: Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>20%</> of ATK every second while the shield is active.\r\n\r\nPassive 3: Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases the damage of the teammate who picks it up by <shuzhi>1%</> for <shuzhi>45</> seconds. Stack up to <shuzhi>10</> times. Cooldown: <shuzhi>2.5</> seconds.\r\n\r\nPassive 4: Using a skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 7.1,
+      "charge" : 13
+    }
   },
   "breakfate_cube_fire_n_6" : {
     "advancement" : "Passive 1: Deal damage and produce a healing orb, which lasts for <shuzhi>20</> seconds and restores HP of any teammate who picks it up equal to <shuzhi>15%</> of ATK. Cooldown: <shuzhi>2</> seconds.\r\n\r\nPassive 2: Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>20%</> of ATK every second while the shield is active.\r\n\r\nPassive 3: Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases the damage of the teammate who picks it up by <shuzhi>1%</> for <shuzhi>45</> seconds. Stack up to <shuzhi>10</> times. Cooldown: <shuzhi>2.5</> seconds.\r\n\r\nPassive 4: Using a skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "cube_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 5.9,
+      "charge" : 13
+    }
   },
   "breakfate_Snipe_fire_ssr_6" : {
     "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 14.6,
+      "charge" : 9
+    }
   },
   "breakfate_Snipe_fire_sr_6" : {
     "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 12.8,
+      "charge" : 9
+    }
   },
   "breakfate_Snipe_fire_r_6" : {
     "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 11,
+      "charge" : 9
+    }
   },
   "breakfate_Snipe_fire_n_6" : {
     "advancement" : "Passive 1: Hitting the target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>optical space</> that lasts for <shuzhi>12</> seconds at the target location. After enemies in the optical space are inflicted with burn, and burn damage will be triggered an additional <shuzhi>2</> times.\r\n\r\nPassive 2: Recover <shuzhi>50</> weapon charge whenever Cross Snipe lands a critical hit.\r\nEach stack of Tranquil Heart increases final crit rate to <shuzhi>9%</>, up to <shuzhi>27%</> in total, and converts up to <shuzhi>13.5%</> of crit damage.",
+    "numbers" : [],
     "cost" : 13500,
     "need" : "Snipe_fire_plasm",
-    "needamt" : 1
+    "needamt" : 1,
+    "stats" : {
+      "shatter" : 9.1,
+      "charge" : 9
+    }
   }
 }

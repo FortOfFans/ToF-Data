@@ -1,36 +1,4 @@
 {
-  "weapon_exp_n" : {
-    "name" : "Weapon Battery I",
-    "element" : "None",
-    "icon" : "None",
-    "gachaIcon" : "weapon_exp_n",
-    "sim" : "weapon_exp_n",
-    "simLv3" : "erjie_weapon_exp_n"
-  },
-  "weapon_exp_r" : {
-    "name" : "Weapon Battery II",
-    "element" : "None",
-    "icon" : "None",
-    "gachaIcon" : "weapon_exp_r",
-    "sim" : "weapon_exp_r",
-    "simLv3" : "erjie_weapon_exp_r"
-  },
-  "weapon_exp_sr" : {
-    "name" : "Weapon Battery III",
-    "element" : "None",
-    "icon" : "None",
-    "gachaIcon" : "weapon_exp_sr",
-    "sim" : "weapon_exp_sr",
-    "simLv3" : "erjie_weapon_exp_sr"
-  },
-  "weapon_exp_ssr" : {
-    "name" : "Weapon Battery IV",
-    "element" : "None",
-    "icon" : "None",
-    "gachaIcon" : "weapon_exp_sr",
-    "sim" : "weapon_exp_sr",
-    "simLv3" : "erjie_weapon_exp_sr"
-  },
   "spear_ice" : {
     "name" : "Frosted Spear",
     "element" : "Ice",
@@ -191,22 +159,6 @@
     "sim" : "imitation_6",
     "simLv3" : "erjie_imitation_6"
   },
-  "mark_physic" : {
-    "name" : "Dawn",
-    "element" : "Physics",
-    "icon" : "yizhi_SSR_Mark_Phy01",
-    "gachaIcon" : "SSR_lh_Mark_physic",
-    "sim" : "imitation_20",
-    "simLv3" : "erjie_imitation_20"
-  },
-  "immortal_thunder" : {
-    "name" : "Alaya",
-    "element" : "Thunder",
-    "icon" : "yizhi_SSR_Immortal_Thunder01",
-    "gachaIcon" : "SSR_lh_Immortal_thunder",
-    "sim" : "imitation_18",
-    "simLv3" : "erjie_imitation_18"
-  },
   "suspension_thunder" : {
     "name" : "Venus",
     "element" : "Thunder",
@@ -247,14 +199,6 @@
     "sim" : "imitation_23",
     "simLv3" : "erjie_imitation_23"
   },
-  "fan_superpower_fashion" : {
-    "name" : "Shadoweave",
-    "element" : "Superpower",
-    "icon" : "yizhi_SSR_fan_superpower01",
-    "gachaIcon" : "SSR_lh_linye",
-    "sim" : "imitation_23",
-    "simLv3" : "erjie_imitation_23"
-  },
   "tianlang_thunder" : {
     "name" : "Thunderbreaker",
     "element" : "Thunder",
@@ -270,21 +214,5 @@
     "gachaIcon" : "SSR_lh_xinghuan",
     "sim" : "imitation_24",
     "simLv3" : "erjie_imitation_24"
-  },
-  "arm_physic_imitation" : {
-    "name" : "Vesper",
-    "element" : "Physics",
-    "icon" : "yizhi_SSR_Mark_Phy01",
-    "gachaIcon" : "SSR_lh_Mark_physic",
-    "sim" : "imitation_20",
-    "simLv3" : "erjie_imitation_20"
-  },
-  "arm_physic_imitationlv3" : {
-    "name" : "Vesper",
-    "element" : "Physics",
-    "icon" : "yizhi_SSR_Mark_Phy01",
-    "gachaIcon" : "SSR_lh_Mark_physic",
-    "sim" : "imitation_20",
-    "simLv3" : "erjie_imitation_20"
   }
 }
