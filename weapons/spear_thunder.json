@@ -1,0 +1,24 @@
+{
+  "name" : "Thunderous Halberd",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A halberd infused with the power of thunder. Great for burst damage, and its length makes it a great weapon for a variety of ranges.",
+  "icon" : "item_Weapon_SSR_Spear_Thunder01",
+  "gachaIcon" : "SR_lh_ltzj",
+  "rarity" : "SR",
+  "element" : "Thunder",
+  "weaponType" : "Spear",
+  "wc" : "DPS",
+  "mats" : "thunder_sr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Thrust",
+    "normal_des" : "While on the ground, swing the long spear to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a significant distance.",
+    "normal_id" : "GA_FPlayerSpearMeleeThu_SSR",
+    "dodge" : "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Kick.\r\nOnce hit the target, deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, knock the enemies back significantly, and <shuzhi>stun</> enemies for <shuzhi>1</> second or <shuzhi>0.5</> seconds to Wanderers.",
+    "dodge_id" : "GA_FPlayerSpearEvadeThu_SSR",
+    "skill" : "<shuzhi>Strongly suspend</> targets and go airborne, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Cooldown: <shuzhi>25</> seconds.",
+    "skill_id" : "GA_FPlayerSpearSkillThu_SSR",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</>, who jumps in the air and throws a thunderous spear that causes an explosion to an area, dealing <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> damage and <shuzhi>strongly paralyzes</> targets for <shuzhi>1</> second.",
+    "discharge_id" : "GA_FPlayerSpearChangeSkillNewThu_SSRNew"
+  },
+  "id" : "spear_thunder"
+}

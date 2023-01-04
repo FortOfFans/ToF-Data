@@ -1,0 +1,24 @@
+{
+  "name" : "Scythe of the Crow",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A powerful scythe, great for both offense and defense. Able to instantly kill its target within a certain distance.",
+  "icon" : "item_Weapon_SSR_Sickle_Fire01",
+  "gachaIcon" : "SSR_lh_ml",
+  "rarity" : "SSR",
+  "element" : "Flame",
+  "weaponType" : "Sickle",
+  "wc" : "DPS",
+  "mats" : "fire_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, swing the scythe to launch 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</>, <shuzhi>strongly suspend</> the target, and cause the Wanderer to go airborne.",
+    "normal_id" : "GA_FPlayerSickleMeleeFire_SSR",
+    "dodge" : "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Rapid Lunge.\r\nDeal up to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage and pull in nearby enemies.",
+    "dodge_id" : "GA_FPlayerSickleEvadeFire_SSR",
+    "skill" : "Swing the scythe, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Cooldown: <shuzhi>45</> seconds.",
+    "skill_id" : "GA_FPlayerSickleSkillFire_SSR",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and create a Flaming Scythe upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and lasts for <shuzhi>10</> seconds. Additionally, spawn Flaming Scythes Domain every <shuzhi>2</> seconds. The scythes summon volcanic eruptions from the ground, which deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to targets and suspend them.",
+    "discharge_id" : "GA_FPlayerSickleChangeSkillFire_SSR_New"
+  },
+  "id" : "sickle_fire"
+}

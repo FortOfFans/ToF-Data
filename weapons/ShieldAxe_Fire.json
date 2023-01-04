@@ -1,0 +1,24 @@
+{
+  "name" : "Molten Shield V2",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A shield axe that belongs to the V2 weapon series, a collection of weapons forged with special techniques.",
+  "icon" : "item_Weapon_SSR_ShieldAxe_Fire01",
+  "gachaIcon" : "SSR_lh_yyz",
+  "rarity" : "SSR",
+  "element" : "Flame",
+  "weaponType" : "ShieldAxe",
+  "wc" : "Tank",
+  "mats" : "fire_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, swing the shield axe to attack 4 times in a row.\r\nFirst Attack in Shield Form: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and <shuzhi>launch the target into the air</>.\r\nFirst Attack in Axe Form: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{10}%</> of ATK + <shuzhi>{11}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{12}%</> of ATK + <shuzhi>{13}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{14}%</> of ATK + <shuzhi>{15}</> and knock the target back.",
+    "normal_id" : "GA_FPlayerShieldMelee_OS",
+    "dodge" : "Tap normal attack during the short period after dodging to trigger Dodge Attack.\r\nShield Form: Unleash a flaming shield, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knocking back targets. In addition, trigger an explosion that deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, <shuzhi>stun</> targets for <shuzhi>0.5</> seconds, and reduce incoming healing effects on targets by <shuzhi>30%</> for <shuzhi>10</> seconds.\r\nAxe Form: Swing an axe to deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>, and reduce incoming healing effects on targets by <shuzhi>30%</> for <shuzhi>10</> seconds.",
+    "dodge_id" : "GA_FPlayerShieldEvade_OS",
+    "skill" : "Shield Conversion: Switch from shield form to axe form and smash the ground, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and <shuzhi>strongly suspends</> the target. Leave a large flame zone for <shuzhi>5</> seconds that burns the target, dealing continuous damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nAxe Conversion: Switch from axe form to shield form and slam it to the ground, dealing damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> to the target and knocking them back. Prevent the target from switching weapons for <shuzhi>5</> seconds.\r\nCooldown: <shuzhi>25</> seconds. Shield Conversion, and Axe Conversion share a cooldown.",
+    "skill_id" : "GA_FPlayerShieldSkill",
+    "discharge" : "When <red>weapon charge is full</> or when <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and unleash a flame shockwave upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Taunt enemies for <shuzhi>5</> seconds, during which gain <shuzhi>15%</> damage reduction. Scatter shield-shaped objects based on the number of targets taunted. Objects last <shuzhi>20</> seconds and provide <shuzhi>10</> seconds of <shuzhi>5%</> damage reduction (stackable), restoring dodge by 1.",
+    "discharge_id" : "GA_FPlayerShieldChangeSkill"
+  },
+  "id" : "ShieldAxe_Fire"
+}

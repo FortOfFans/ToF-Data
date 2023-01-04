@@ -1,0 +1,24 @@
+{
+  "name" : "Vesper",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A support weapon personalized for an insider of the Maidelin Foundation. Ms. Maidelin believes that Lyra could make proper use of it.",
+  "icon" : "item_Weapon_SSR_Arm_Physic01",
+  "gachaIcon" : "SSR_lh_xinghuan",
+  "rarity" : "SSR",
+  "element" : "Physics",
+  "weaponType" : "Arm",
+  "wc" : "SUP",
+  "mats" : "physic_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Normal Vesper Attack Passive",
+    "normal_des" : "<ComLblGreen>Enlightenment</>: Upon hit, Normal Vesper Attack without Benediction Resonance deals extra damage to the targets bearing the <shuzhi>Enlightenment mark</>, equal to the number of Guards you carry × <shuzhi>2.1%</> of ATK (no more than 12.6% × ATK in total). That damage will not trigger extra attack effects and is regarded as discharge skill and weapon skill damage.\r\n\r\nUpon hit, Normal Vesper Attack with Benediction Resonance deals extra damage to the targets bearing the <shuzhi>Enlightenment mark</>, equal to the number of Guards you and teammates carry × <shuzhi>1.5%</> of ATK (no more than 12% × ATK in total). That damage will not trigger extra attack effects and is regarded as discharge skill and weapon skill damage.\r\n<ComLblGreen>Glowing</>: Upon hit, all normal Vesper attacks recover HP equal to <shuzhi>15%</> of ATK.\r\n<ComLblGreen>Sacred Strike</>: Vesper's Aerial Discharge and Accumulator can convert 60% of charge to shield shattering.\r\n<ComLblGreen>Guard</>: For every <shuzhi>15%</> loss of HP or every <shuzhi>300</> weapon charge gained, obtain up to <shuzhi>5</> Enlightenment Guards for yourself (can be produced in the off-hand slot). Enlightenment Guard lasts for <shuzhi>25</> seconds. If your own Enlightenment Guards are full, the new Enlightenment Guards will attack enemies, dealing physical damage equal to <shuzhi>48%</> of ATK, then disappear. That damage does not trigger extra attack effects.\r\n\r\nNote: In Bygone Phantasm, Vesper is not regarded as a support weapon.",
+    "normal_id" : "GA_FPlayerArmMeleePhy",
+    "dodge" : "After dodging, tap normal attack to pull the target to you and draw it in for <shuzhi>2</> seconds, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Tapping and holding normal attack after dodging can trigger <shuzhi>Shimmer</> after unleashing <shuzhi>Mind Capture</>.",
+    "dodge_id" : "GA_FPlayerArmEvadePhy",
+    "skill" : "<ComLblGreen>Forgiveness Guard</>: When the healing effect overflows, gain an HP Shield equal to up to <shuzhi>25%</> of Max HP. When Vesper has Forgiveness Guard, different guard effects are activated under different Resonances.\r\n<ComLblGreen>Benediction Guard</>: The skill is replaced with <shuzhi>Shinerise</>, and the Wanderer earns no more Enlightenment Guard, which is converted to Forgiveness Guard for teammates. Earn 1 Forgiveness Guard for each <shuzhi>15%</> of Max HP healed, and grant up to 1 Forgiveness Guard to every teammate. If every teammate has one, Forgiveness Guard deals physical damage equal to <shuzhi>60%</> of ATK to an enemy and disappears. That damage does not trigger extra attack effects. Also, increase Max HP by <shuzhi>10%</> for self and teammates. Unstackable.\r\n<ComLblGreen>Attack Guard</>: When a Vesper skill hits, immediately gain a shield equal to <shuzhi>30%</> of Max HP. Cooldown: <shuzhi>30</> seconds.\r\n<ComLblGreen>Fortitude Guard</>: When a Vesper skill hits, immediately gain healing, restoring <shuzhi>2%</> of Max HP per second for <shuzhi>20</> seconds. Cooldown: <shuzhi>30</> seconds.\r\n<ComLblGreen>Balance Guard</>: When HP is more than <shuzhi>50%</>, increase shatter by <shuzhi>20%</>. When HP is less than <shuzhi>50%</>, increase final damage by <shuzhi>10%</> and shatter by <shuzhi>10%</>.",
+    "skill_id" : "GA_FPlayerArmSkillLawPhy",
+    "discharge" : "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, switching to this weapon from another <shuzhi>removes all debuffs from the wielder</> and unleashes Chanting Sigh, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and adding an Enlightenment mark to the target for <shuzhi>18</> seconds, during which damage immunity lasts <shuzhi>1.5</> seconds (unavailable in Apex League).",
+    "discharge_id" : "GA_FPlayerArmChangeSkillPhy"
+  },
+  "id" : "arm_physic"
+}

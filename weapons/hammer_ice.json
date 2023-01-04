@@ -1,0 +1,24 @@
+{
+  "name" : "Pummeler",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "No one wants to be on the receiving end of this maul.",
+  "icon" : "item_Weapon_SR_Hammer_Ice01",
+  "gachaIcon" : "SR_lh_cdzj",
+  "rarity" : "SR",
+  "element" : "Ice",
+  "weaponType" : "Hammer",
+  "wc" : "Tank",
+  "mats" : "ice_sr_tupo_BC",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, swing the maul to attack 4 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and launch the target.\r\nWhile Outburst is active, swing the maul to attack 4 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{10}%</> of ATK + <shuzhi>{11}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{12}%</> of ATK + <shuzhi>{13}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{14}%</> of ATK + <shuzhi>{15}</> and <shuzhi>strongly suspend</> the target.",
+    "normal_id" : "GA_FPlayerHammerMeleeIce_OS",
+    "dodge" : "Use the arrow buttons and the dodge button to trigger Jumping Smash, unleashing a Shockwave that suspends the enemy <shuzhi>4</> times, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.",
+    "dodge_id" : "GA_FPlayerHammerEvadeIce",
+    "skill" : "Switch to activate Outburst, increasing damage dealt for <shuzhi>25</> seconds.\r\nWhile Outburst is active, skills trigger Windfury, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, <shuzhi>strongly suspend</> the target, and create an air current on the ground. While standing in the current, dodging has no cost. Cooldown: <shuzhi>{2}</> seconds (Windfury's cooldown: <shuzhi>10</> seconds).",
+    "skill_id" : "GA_FPlayerHammerBigSkillIce",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and <shuzhi>strongly suspend</> nearby targets upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Also summon a maul to fall on nearby targets, dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.",
+    "discharge_id" : "GA_FPlayerHammerChangeSkillIce"
+  },
+  "id" : "hammer_ice"
+}

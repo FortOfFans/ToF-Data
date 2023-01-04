@@ -1,0 +1,24 @@
+{
+  "name" : "Rosy Edge",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "An elegant frost blade that conjures up images of a pure white flower blooming on a snow-covered cliff.",
+  "icon" : "item_Weapon_SSR_BigSword_Ice01",
+  "gachaIcon" : "SSR_lh_qwjf",
+  "rarity" : "SSR",
+  "element" : "Ice",
+  "weaponType" : "BigSword",
+  "wc" : "Tank",
+  "mats" : "ice_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Heavy Cleave",
+    "normal_des" : "While on the ground, swing a greatsword to attack 4 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>, <shuzhi>strongly launch</> the target, then launch them upon landing.",
+    "normal_id" : "GA_FPlayerBigSwordMeleeIce_SSR_OS",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerBigSwordEvadeIce_SSR",
+    "skill" : "Swing the greatsword to launch sword auras forward, each dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and increasing damage dealt by <shuzhi>5%</> with each hit. While active, immune to control effects. Cooldown: <shuzhi>45</> seconds.",
+    "skill_id" : "GA_FPlayerBigSwordBigSkillIce_SSR_OS",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the wielder</> and smash the ground to form a barrier, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to nearby enemies, suspending the targets. This reduces their speed by <shuzhi>50%</> and stops them from dodge or jump. The barrier lasts <shuzhi>5</> seconds and blocks projectiles.",
+    "discharge_id" : "GA_FPlayerBigSwordChangeSkillIce_SSR"
+  },
+  "id" : "bigsword_ice"
+}

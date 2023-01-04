@@ -1,0 +1,24 @@
+{
+  "name" : "Shadoweave",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all.",
+  "icon" : "item_Weapon_SSR_fan_superpower01",
+  "gachaIcon" : "SSR_lh_linye",
+  "rarity" : "SSR",
+  "element" : "Superpower",
+  "weaponType" : "Fan",
+  "wc" : "DPS",
+  "mats" : "superpower_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, use Shadoweave to launch 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>. \r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and suspend the target.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</>.",
+    "normal_id" : "GA_FPlayerFanMelee",
+    "dodge" : "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <shuzhi>0.5</> seconds while dodging.",
+    "dodge_id" : "GA_FPlayerFanEvade",
+    "skill" : "Create a Moonlight Realm around yourself for <shuzhi>15</> seconds. Your attack in the realm is increased by <shuzhi>15%</>, jumping ability increased by <shuzhi>20%</>, and endurance consumption reduced by <shuzhi>50%</>. Cooldown: <shuzhi>30</> seconds.\r\nEnter the special state Airbloom when using Shadoweave in the realm. Your fall speed is greatly reduced and you can perform multiple double-jumps. In this state, using the directional controls and jump button while mid-air will perform a Roam and launch an attack on the target. Upon hit, deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and randomly generate <shuzhi>1–3</> epiphyllums.\r\n\r\nPassive: In the Moonlight Realm, <shuzhi>1</> epiphyllum will be generated near 1 target every <shuzhi>0.8</> seconds. \r\nPassive: When you use Shadoweave in Moonlight Realm, an extra <shuzhi>50%</> of damage is dealt to enemies with less than <shuzhi>20%</> HP.\r\nPassive: When you use Shadoweave in Moonlight Realm, you will blink away from the target when incoming damage is detected. Cooldown: <shuzhi>10</> seconds.\r\n\r\nPassive: Weapons Master\r\nFlame: When Shadoweave is paired with 2 flame weapons, Moonlight Realm is converted to Flame: Moonlight Realm. When a target is burned while in Flame: Moonlight Realm, they are burned for an extra <shuzhi>4</> seconds. Targets with shield take an extra <shuzhi>15%</> flame damage. \r\n\r\nVolt: When Shadoweave is paired with 2 volt weapons, Moonlight Realm is converted to Volt: Moonlight Realm. While in Volt: Moonlight Realm, dodging has a <shuzhi>65%</> chance of not consuming a dodge attempt, dodge attacks deal <shuzhi>5%</> additional damage, and volt damage is increased by <shuzhi>10%</>.\r\n\r\nFrost: When Shadoweave is paired with 2 frost weapons, Moonlight Realm is converted to Frost: Moonlight Realm. While in Frost: Moonlight Realm, frost ATK is increased by <shuzhi>10%</>.\r\n\r\nPhysical: When Shadoweave is paired with 2 physical weapons, Moonlight Realm is converted to Physical: Moonlight Realm. While in Physical: Moonlight Realm, deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to targets within attack range every second.\r\n\r\nBalance: When Shadoweave is paired with any two different elemental weapons (among flame, volt, frost, and physical weapons), the Wanderer's ATK is increased by <shuzhi>15%</> in the realm, and counted as activating flame, volt, frost, and physical resonance without resonance effects.",
+    "skill_id" : "GA_FPlayerFanSkill",
+    "discharge" : "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</> and unleashes Gravity Weave with a stronger absorption force, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Then explode and create a ranged diffusion wave after <shuzhi>5</> seconds, dealing damage equal to <shuzhi>{2}%</> + <shuzhi>{3}</>. Damage immunity lasts <shuzhi>1.5</> seconds while the skill is active (unavailable in Apex League).",
+    "discharge_id" : "GA_FPlayerFanChangeSkill"
+  },
+  "id" : "fan_superpower"
+}

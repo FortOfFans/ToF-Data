@@ -1,0 +1,24 @@
+{
+  "name" : "Venus",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "Its designer is unknown. The special hovering EM Blaster's prototype's blueprint has been lost. It contains a unique electrical saving process in its interior. It's extremely troublesome to repair when it gets worn out, but Cobalt-B of Banges Tech seems to be able to do it. ",
+  "icon" : "item_Weapon_SSR_naimxs_Thunder01",
+  "gachaIcon" : "SSR_lh_nmxs",
+  "rarity" : "SSR",
+  "element" : "Thunder",
+  "weaponType" : "Suspension",
+  "wc" : "SUP",
+  "mats" : "thunder_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, use Venus to attack 5 times in a row.\r\nThe first attack deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nThe second attack deals damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThe third attack deals damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>.\r\nThe fourth attack deals damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>.\r\nThe fifth attack deals damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</>.",
+    "normal_id" : "GA_FPlayerSuspensionMelee",
+    "dodge" : "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <shuzhi>0.5</> seconds while dodging.",
+    "dodge_id" : "GA_FPlayerSuspensionEvade",
+    "skill" : "Venus fires a guided missile that explodes on contact with enemy targets, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knocking down targets. Cooldown: <shuzhi>25</> seconds.",
+    "skill_id" : "GA_FPlayerSuspensionSkill",
+    "discharge" : "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, switching to this weapon will <shuzhi>remove all debuffs from the user</> and command Venus to fire a cross-shaped ray at the ground, creating an unstable area and slowing targets' movement speed by <shuzhi>70%</> for <shuzhi>5</> seconds. After a brief delay, unleash an electromagnetic burst that deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nUsing a discharge attack will spawn <shuzhi>1</> Electrode near the enemy's position that attacks once every <shuzhi>1.5</> seconds, dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThe Electrode gains <shuzhi>100%</> of the Wanderer's stats, can be attacked or healed, and loses <shuzhi>3%</> of its max HP every second.\r\nOnly <shuzhi>1</> Electrode can exist at any given time, and summoning a new Electrode will replace the previous one.",
+    "discharge_id" : "GA_FPlayerSuspensionChangeSkill"
+  },
+  "id" : "Suspension_thunder"
+}

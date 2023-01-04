@@ -1,0 +1,24 @@
+{
+  "name" : "Flaming Revolver",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "Invented by a mad scientist. With its impressive test numbers, one can only imagine how powerful it might be at full power.",
+  "icon" : "item_Weapon_SSR_Gun_Fire01",
+  "gachaIcon" : "SSR_lh_zl",
+  "rarity" : "SSR",
+  "element" : "Flame",
+  "weaponType" : "Gun",
+  "wc" : "DPS",
+  "mats" : "fire_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "On the ground, use normal attack to launch 5 attacks in a row.\r\nThe first attack deals <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage.\r\nThe second attack deals <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> damage.\r\nThe third attack deals <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> damage.\r\nThe fourth attack deals <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> damage.\r\nThe fifth attack deals <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> damage.",
+    "normal_id" : "GA_FPlayerGunMelee_New",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerGunEvade_New_OS",
+    "skill" : "Constant fire in a frontal cone area to deal <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage. Cooldown: <shuzhi>60</> seconds.",
+    "skill_id" : "GA_FPlayerGunSkill_New",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</> and unleashes <shuzhi>3</> grenades forward, dealing <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> AOE damage and causing <shuzhi>launch</>.",
+    "discharge_id" : "GA_FPlayerGunChangeSkill_NewNew"
+  },
+  "id" : "gun_fire"
+}

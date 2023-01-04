@@ -1,0 +1,24 @@
+{
+  "name" : "The Terminator",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The most gnarly firearm ever created, also known as a moving turret.",
+  "icon" : "item_Weapon_SR_Cannon_Ice01",
+  "gachaIcon" : "SR_lh_zjz",
+  "rarity" : "SR",
+  "element" : "Ice",
+  "weaponType" : "Cannon",
+  "wc" : "DPS",
+  "mats" : "ice_sr_tupo_AD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to <shuzhi>40</> rounds. Each shot deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Deal double damage when scoring a headshot or hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers).",
+    "normal_id" : "GA_FPlayerCannonMelee",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerCannonEvade",
+    "skill" : "Enable turret mode and fire large energy orbs, each dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: <shuzhi>{2}</> seconds.",
+    "skill_id" : "GA_FPlayerCannonSkillNew_Level30",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and fire an arctic beam upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and inflict a <shuzhi>3</>-second <shuzhi>freeze</> effect. Also reduce the target's frost resistance by <shuzhi>50%</> for <shuzhi>10</> seconds.",
+    "discharge_id" : "GA_FPlayerCannonChangeSkill_New_OS"
+  },
+  "id" : "cannon_ice"
+}

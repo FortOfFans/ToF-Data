@@ -1,0 +1,24 @@
+{
+  "name" : "Chakram of the Seas",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A round and sharp weapon that traveled the seas with its owner.",
+  "icon" : "item_Weapon_SSR_Darts_Phy01",
+  "gachaIcon" : "SSR_lh_hr",
+  "rarity" : "SSR",
+  "element" : "Physics",
+  "weaponType" : "Darts",
+  "wc" : "DPS",
+  "mats" : "physic_ssr_tupo_BC",
+  "skills" : {
+    "normal_n" : "Rapid Throw",
+    "normal_des" : "While on the ground, brandish the chakram to unleash 5 spinning attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.",
+    "normal_id" : "GA_FPlayerDartsMelee",
+    "dodge" : "Tap normal attack during the short period after dodging to trigger Waning Moon.\r\nToss a spinning chakram forward, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to the target and inflicting a <shuzhi>stun</> effect for <shuzhi>0.5</> seconds. The chakram then splits into <shuzhi>3</> and keeps traveling, dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to targets along their path. <red>Split chakrams will bounce during Full Bloom</>.",
+    "dodge_id" : "GA_FPlayerDartsEvade",
+    "skill" : "Create a Chakram Domain with the Wanderer at the center for <shuzhi>8</> seconds. At the same time, enemies are pulled in, and their speed is reduced by <shuzhi>30%</> for <shuzhi>8</> seconds. Fire <shuzhi>5</> chakrams that bounce between enemies, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to targets along their paths, bouncing up to <shuzhi>5</> times. <red>The split chakrams triggered by Waning Moon will also bounce up to 5 times.</> Cooldown: <shuzhi>45</> seconds.",
+    "skill_id" : "GA_FPlayerDartsSkill",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</> and unleashes Chakram of the Seas at a target. Struck target causes AOE <shuzhi>stun</> for <shuzhi>1</> second, plus <shuzhi>1</> attack each against up to <shuzhi>3</> units every second (each attack has <shuzhi>10%</> chance of <shuzhi>stunning</> the target for <shuzhi>1.5</> seconds), dealing <shuzhi>{0}%</> x ATK + <shuzhi>{1}</> damage for <shuzhi>10</> seconds.",
+    "discharge_id" : "GA_FPlayerDartsChangeSkill_New"
+  },
+  "id" : "darts_physic"
+}

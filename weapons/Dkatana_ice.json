@@ -1,0 +1,24 @@
+{
+  "name" : "Heartstream",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A special tachi that adapts to the Super Flow experiments. It is able to sense the user's mental state and generate Sword Shadows to assist in combat at the right time.",
+  "icon" : "item_Weapon_SSR_dkatana_Ice01",
+  "gachaIcon" : "SSR_lh_bupoxiao",
+  "rarity" : "SSR",
+  "element" : "Ice",
+  "weaponType" : "katana",
+  "wc" : "Tank",
+  "mats" : "ice_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Ragestream",
+    "normal_des" : "Launch 5 Heartstream attacks while on the ground.\r\nThe first attack deals <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage to the target and knocks the target back a short distance.\r\nThe second attack deals <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> damage to the target and knocks the target back a short distance.\r\nThe third attack deals <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> damage to the target and knocks the target back a short distance.\r\nThe fourth attack deals <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> damage to the target and knocks the target back a short distance.\r\nThe fifth attack deals <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> damage to the target and launches the target into the air.",
+    "normal_id" : "GA_FPlayerDkatanaMelee",
+    "dodge" : "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <shuzhi>0.5</> seconds while dodging.",
+    "dodge_id" : "GA_FPlayerDkatanaEvade",
+    "skill" : "Dash toward the target and temporarily immobilize enemies along the path, dealing delayed damage up to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Cooldown: <shuzhi>30</> seconds.",
+    "skill_id" : "GA_FPlayerDkatanaSkill",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and dash toward the target with a combo attack upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.",
+    "discharge_id" : "GA_FPlayerDkatanaChangeSkill"
+  },
+  "id" : "Dkatana_ice"
+}

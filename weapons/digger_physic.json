@@ -1,0 +1,24 @@
+{
+  "name" : "Combat Blade",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A basic weapon developed by Banges Tech. Forged in a special alloy, it is light, agile, and easy to handle.",
+  "icon" : "item_Weapon_R_Ds_Phy01",
+  "gachaIcon" : "Weapon_R_Ds_Phy01",
+  "rarity" : "R",
+  "element" : "Physics",
+  "weaponType" : "DoubleSword",
+  "wc" : "DPS",
+  "mats" : "physic_r_tupo_BC",
+  "skills" : {
+    "normal_n" : "Twin Blades",
+    "normal_des" : "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.",
+    "normal_id" : "GA_FPlayerDSMelee_R",
+    "dodge" : "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades.\r\nUpon hit, <shuzhi>strongly suspend</> the target and deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Keep tapping to throw up to <shuzhi>6</> more Flying Blades, each dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.",
+    "dodge_id" : "GA_FPlayerDsEvade_R",
+    "skill" : "Fire <shuzhi>6</> Returning Blades in all directions, each dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. <shuzhi>{2}</>-second cooldown.",
+    "skill_id" : "GA_FPlayerDSSkill_R",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</> and unleashes orbiting blades that deal <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage, with <shuzhi>2</> more flying blades spinning around the Wanderer to deal <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> damage to targets coming into contact.",
+    "discharge_id" : "GA_FPlayerDSChangeSkill_R"
+  },
+  "id" : "digger_physic"
+}

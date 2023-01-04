@@ -1,0 +1,24 @@
+{
+  "name" : "Negating Cube",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "Users of the Strange Cube tend to think of many ways to negate unnecessary requirements.",
+  "icon" : "item_Weapon_SSR_Cube_Fire01",
+  "gachaIcon" : "SSR_lh_mf",
+  "rarity" : "SSR",
+  "element" : "Flame",
+  "weaponType" : "Cube",
+  "wc" : "SUP",
+  "mats" : "fire_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, manipulate the cube to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> up to 3 times and <shuzhi>launch</> the target.\r\n<shuzhi>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.</>",
+    "normal_id" : "GA_FPlayerCubeMelee",
+    "dodge" : "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area and grants hitstun immunity for <shuzhi>0.5</> seconds.\r\nIf the Wanderer has less than <shuzhi>5</> cubes, each successful dodge has a <shuzhi>40%</> chance to restore 1 dodge attempt.\r\nSuccessful dodges do not interrupt normal attack combos.\r\n<shuzhi>Passive: Gain a cube for every successful aerial dodge.</>",
+    "dodge_id" : "GA_FPlayerCubeEvade",
+    "skill" : "Create shielding for self and nearby allies to block up to <shuzhi>800%</> of ATK in damage for <shuzhi>10</> seconds, deal <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage to nearby targets and <shuzhi>strongly launch</> them. Each cube in possession when this skill is used adds <shuzhi>160%</> of ATK to max shielding and exhaust the cube. Cooldown: <shuzhi>60</> seconds.",
+    "skill_id" : "GA_FPlayerCubeSkill",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and gain <shuzhi>5</> cubes after switching to this weapon, then unleash the <shuzhi>5</> cubes along with a Shockwave. This Shockwave deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to nearby targets, and <shuzhi>strongly launches</> them into the air. Each cube also deals damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <shuzhi>3</> seconds.",
+    "discharge_id" : "GA_FPlayerCubeChangeSkill"
+  },
+  "id" : "cube_fire"
+}

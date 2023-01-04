@@ -1,0 +1,24 @@
+{
+  "name" : "Dual EM Stars",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "These firearms are designed based on railguns, and must be used in a pair.",
+  "icon" : "item_Weapon_SSR_DGun_Thunder",
+  "gachaIcon" : "SSR_lh_Sq",
+  "rarity" : "SSR",
+  "element" : "Thunder",
+  "weaponType" : "DoubleGun",
+  "wc" : "DPS",
+  "mats" : "thunder_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Dual Fire",
+    "normal_des" : "Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols.\r\nFirst Attack: Deal total damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nSecond Attack: Deal total damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThird Attack: Deal total damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>.\r\nFourth attack: Deal total damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>.\r\nFifth Attack: Deal total damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and <shuzhi>launch</> the target.",
+    "normal_id" : "GA_FPlayerDgunMeleeThu_OS",
+    "dodge" : "Tap normal attack after dodging to <shuzhi>strongly suspend</> targets and deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.",
+    "dodge_id" : "GA_FPlayeDgunEvadeThu_OS",
+    "skill" : "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, and the last hit <shuzhi>strongly suspends</> targets. Cooldown: <shuzhi>45</>-seconds.",
+    "skill_id" : "GA_FPlayerDgunSkillThu",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</>, and create a Domain of Thunder at the target location upon switching to this weapon, <shuzhi>strongly suspending</> targets within the area and dealing a total of <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <shuzhi>3.5</> seconds and deals damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to a target every <shuzhi>0.5</> seconds.",
+    "discharge_id" : "GA_FPlayerDgunChangeSkillThu"
+  },
+  "id" : "dgun_thunder"
+}

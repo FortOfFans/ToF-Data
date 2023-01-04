@@ -1,0 +1,24 @@
+{
+  "name" : "EM Blade",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The earliest electromagnetic Omnium project. The blade is easy to handle, and is very popular among Wanderers that are not great fighters.",
+  "icon" : "item_Weapon_R_Sword_Thunder01",
+  "gachaIcon" : "Weapon_R_Sword_Thunder01",
+  "rarity" : "R",
+  "element" : "Thunder",
+  "weaponType" : "Sword",
+  "wc" : "DPS",
+  "mats" : "thunder_r_tupo_BD",
+  "skills" : {
+    "normal_n" : "Quick Slash",
+    "normal_des" : "While on the ground, swing the blade to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and <shuzhi>launch</> the target.",
+    "normal_id" : "GA_FPlayerSwordMeleeThu_R",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerSwordEvadeThu_R",
+    "skill" : "Roam between targets, dealing total damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to up to <shuzhi>5</> targets, with the last hit suspending the target. Immune to hitstun while active. Reduce damage dealt to the same target by <shuzhi>40%</> each time. <shuzhi>{2}</>-second cooldown.",
+    "skill_id" : "GA_FPlayerSwordSkillNewThu_R",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the wielder</>, then rush to the target and <shuzhi>strongly suspend</> them, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.",
+    "discharge_id" : "GA_FPlayerSwordChangeSkillThu_R"
+  },
+  "id" : "sword_thunder"
+}

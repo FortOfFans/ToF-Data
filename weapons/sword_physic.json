@@ -1,0 +1,24 @@
+{
+  "name" : "Guren Blade",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The crimson blade stands for courage and resolve, while the sharp edge carries out justice.",
+  "icon" : "item_Weapon_SR_Sword_Fire01",
+  "gachaIcon" : "SSR_lh_hlr",
+  "rarity" : "SSR",
+  "element" : "Physics",
+  "weaponType" : "Sword",
+  "wc" : "DPS",
+  "mats" : "physic_ssr_tupo_AD",
+  "skills" : {
+    "normal_n" : "Quick Slash",
+    "normal_des" : "While on the ground, swing the blade to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and <shuzhi>launch</> the target.",
+    "normal_id" : "GA_FPlayerSwordMelee_SSR",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerSwordEvade_SSR",
+    "skill" : "Dance through targets while swinging the blade, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to up to <shuzhi>5</> targets (consecutive hits on the same target deal <shuzhi>20%</> reduced damage). After Roam has concluded, slash the space in front, dealing area damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to surrounding targets and suspend them. Immune to control effects while skill is in use, and all damage taken is reduced by <shuzhi>50%</>. Cooldown: <shuzhi>15</> seconds.",
+    "skill_id" : "GA_FPlayerSwordSkillNew_SSR_OS",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the Wanderer</>, who then rushes to and <shuzhi>strongly suspends</> a target, dealing <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> damage, leaving behind a Bladestorm that deals <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> damage, while gaining immunity to grievous/freeze/burn/electrify effects for <shuzhi>5</> seconds.",
+    "discharge_id" : "GA_FPlayerSwordChangeSkill_SSR_New_OS"
+  },
+  "id" : "sword_physic"
+}

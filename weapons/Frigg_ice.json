@@ -1,0 +1,24 @@
+{
+  "name" : "Balmung",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The greatsword and the saber belonging exclusively to the Angel of Clemency, Frigg. They were adapted to Frigg's cybernetic body when they were manufactured. The two weapons are not one and the same, but Frigg refers to them collectively as Balmung.",
+  "icon" : "item_Weapon_SSR_frigg_Ice01",
+  "gachaIcon" : "SSR_lh_flj",
+  "rarity" : "SSR",
+  "element" : "Ice",
+  "weaponType" : "Frigg",
+  "wc" : "DPS",
+  "mats" : "ice_ssr_tupo_AC",
+  "skills" : {
+    "normal_n" : "Normal Attack",
+    "normal_des" : "While on the ground, initiate 5 attacks in a row with Balmung.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target down.",
+    "normal_id" : "GA_FPlayerFriggMeleeIce",
+    "dodge" : "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <shuzhi>0.5</> seconds while dodging.",
+    "dodge_id" : "GA_FPlayerFriggEvadeIce",
+    "skill" : "Slash the space around the Wanderer, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, launching and suspending targets and gaining damage immunity while this skill is in use. Cooldown: <shuzhi>30</> seconds.\r\nAfter unleashing <shuzhi>\"Fimbulwinter\"</>, a large Frost Domain will be formed around the Wanderer for <shuzhi>25</> seconds. Dodge attempts will not be consumed while dodging with Balmung within the Frost Domain.\r\nGrant \"Domain of Frost I\" when you are in the Frost Domain: When using a frost weapon, shatter is increased by <shuzhi>25%</> and frost ATK is increased by <shuzhi>15%</>.",
+    "skill_id" : "GA_FPlayerFriggSkillIce",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>clear all debuffs from the user</> and dash forward upon switching to this weapon, temporarily controlling enemies in an area before unleashing a gigantic slash. Launch targets into the air and deal damage equal to <shuzhi>{0}%</>of ATK + <shuzhi>{1}</>.",
+    "discharge_id" : "GA_FPlayerFriggChangeSkillIce"
+  },
+  "id" : "Frigg_ice"
+}

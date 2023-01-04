@@ -1,0 +1,24 @@
+{
+  "name" : "Spark",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "A special weapon Lin asked Mirroria R&D to make for Ruby. Its main functions include: Acting as the housekeeper in the play-house game, waking Ruby up in the morning, and leading the way for Ruby... But most importantly, protecting Ruby. ",
+  "icon" : "item_Weapon_SSR_funnel_Fire01",
+  "gachaIcon" : "SSR_lh_leibei",
+  "rarity" : "SSR",
+  "element" : "Flame",
+  "weaponType" : "Funnel",
+  "wc" : "DPS",
+  "mats" : "fire_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Spark Attack",
+    "normal_des" : "While on the ground, tap the normal attack button to command Spark to attack 5 times in a row.\r\nFirst Attack: Deal total damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> against each target.\r\nSecond Attack: Deal total damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> against each target.\r\nThird Attack: Deal total damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> against each target.\r\nFourth Attack: Deal total damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> against each target.\r\nFifth Attack: Deal total damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> against each target and <shuzhi>launches</> targets.",
+    "normal_id" : "GA_FPlayerFunnelMeleeFire",
+    "dodge" : "Throw Dolly after dodging. Dolly remains for <shuzhi>10</> seconds, drawing in nearby enemies and dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> against them, as well as taunting them for <shuzhi>1.5</> seconds, causing them to divert their attacks to Dolly (cannot taunt enemies when in a team).",
+    "dodge_id" : "GA_FPlayerFunnelEvadeFire",
+    "skill" : "Spark fires out Sparks that last for 15 seconds and bounce between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for <shuzhi>4</> seconds with a <shuzhi>15</>-second cooldown. Sparks deal more damage the further they travel. On hit, they deal damage up to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and inflict a <shuzhi>25</>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> against its target. Spark's normal attacks deal <shuzhi>30%</> more damage to Emblazen-marked targets. When Sparks hit targets burned by the Wanderer, they burn or ignite the target once and deal additional damage equal to <shuzhi>45%</> of the total remaining damage (multiple burn or incendiary effects are counted together). The result calculation cooldown is <shuzhi>6</> seconds and the skill cooldown is <shuzhi>30</> seconds.\r\n\"<shuzhi>Passive</>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <shuzhi>1</> point of Heat with a <shuzhi>0.9</>-second cooldown, for up to <shuzhi>8</> points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by <shuzhi>10%</> for <shuzhi>25</> seconds.",
+    "skill_id" : "GA_FPlayerFunnelSkillFire",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</>. Spark enters a charged state, continuously blasting searing energy beams at the target location before eventually exploding, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. When Sparks hits targets burned by the Wanderer, it burns or ignites the target once and deals additional damage equal to <shuzhi>45%</> of the total remaining damage (multiple burn or incendiary effects are counted together). The result calculation cooldown is <shuzhi>6</> seconds. Damage immunity lasts for <shuzhi>1.5</> seconds when the skill is active (unavailable in Apex League).",
+    "discharge_id" : "GA_FPlayerFunnelChangeSkillFire"
+  },
+  "id" : "funnel_fire"
+}

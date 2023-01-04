@@ -1,0 +1,24 @@
+{
+  "name" : "Thunderbreaker",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "This long spear covered in lightning is the SMA1-TS000-Thunderbreaker. It is able to unleash the stored power through unimaginable means. The electric field that it generates disrupts the mind of its wielder, so it cannot be mastered by ordinary people.",
+  "icon" : "item_Weapon_SSR_Tianlang_Thunder01",
+  "gachaIcon" : "SSR_lh_tianlang",
+  "rarity" : "SSR",
+  "element" : "Thunder",
+  "weaponType" : "Tianlang",
+  "wc" : "DPS",
+  "mats" : "thunder_ssr_tupo_BD",
+  "skills" : {
+    "normal_n" : "Normal attack passive",
+    "normal_des" : "When wielding Thunderbreaker, every <shuzhi>4</> normal attacks will charge the weapon, stacking up to <shuzhi>5</> charge points. After charging, any Electromancy dodge skill triggers electrocution with lightning. Lightning damage dealt equals <shuzhi>3%</> of HP lost (but no lower than <shuzhi>100%</> of Volt ATK, and no higher than <shuzhi>1,000%</> of Volt ATK), and triggers Electrified Entity, which deals area volt damage equal to <shuzhi>2%</> of HP lost (no lower than <shuzhi>40%</> of Volt ATK, and no higher than <shuzhi>400%</> of Volt ATK).",
+    "normal_id" : "GA_FPlayerTianLangMelee",
+    "dodge" : "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <shuzhi>0.5</> seconds while dodging.",
+    "dodge_id" : "GA_FPlayerTianLangEvade",
+    "skill" : "Unleash a barrage of attacks, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> to enemies within range, and transform enemies and your summons within a certain range into Electrified Entities. Up to 3 Electrified Entities can exist at a time. Cooldown: <shuzhi>30</> seconds.\r\n\r\nGain Volt Sense when Dubhe is used: Scan the other two equipped weapons when unleashing skills. Each additional volt weapon sensed by it increases volt ATK by <shuzhi>6%</> for <shuzhi>25</> seconds.\r\n\r\nElectrified Entity: When unleashing any volt weapon discharge skill, Electrified Entities unleash volt area damage equal to <shuzhi>5%</> of missing HP (no less than <shuzhi>100%</> of volt ATK, no more than <shuzhi>1,000%</> of volt ATK).\r\n\r\nWhen using Thunderbreaker, unleashing any volt weapon skill or discharge skill consumes <shuzhi>30%</> of current HP to deal additional volt damage equal to <shuzhi>45%</> of the consumed HP (no less than <shuzhi>400%</> volt ATK, no more than <shuzhi>3,000%</> volt ATK). After <shuzhi>8</> seconds or when HP is lower than <shuzhi>10%</>, recover <shuzhi>5%</> of missing HP every second for <shuzhi>8</> seconds (not affected by any healing effects). The recovery effect cannot be stacked.",
+    "skill_id" : "GA_FPlayerTianLangSkill",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, switching to this weapon from another weapon <shuzhi>removes all debuffs from the wielder</>. Thunderbreaker unleashes wide-range volt damage, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and transforms enemies and your summons within a certain range into Electrified Entities. Up to 3 Electrified Entities can exist at a time.\r\n\r\nElectrified Entity: When unleashing any volt weapon skill or discharge skill, Electrified Entities unleash volt area damage equal to <shuzhi>5%</> of missing HP (no less than <shuzhi>100%</> volt ATK, no more than <shuzhi>1,000%</> volt ATK).\r\n\r\nWhen using Thunderbreaker, unleashing any volt weapon skill or discharge consumes <shuzhi>30%</> of current HP to deal additional volt damage equal to <shuzhi>45%</> of the consumed HP (no less than <shuzhi>400%</> of volt ATK and no more than <shuzhi>3,000%</> of volt ATK). After <shuzhi>8</> seconds or when HP is lower than <shuzhi>10%</>, recover <shuzhi>5%</> missing HP every second for <shuzhi>8</> seconds (not affected by healing effects). The recovery effect is not stackable.",
+    "discharge_id" : "GA_FPlayerTianLangChangeSkill"
+  },
+  "id" : "tianlang_thunder"
+}

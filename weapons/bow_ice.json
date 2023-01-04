@@ -1,0 +1,24 @@
+{
+  "name" : "Icewind Arrow",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "The arrows from this bow carry the power of frost.",
+  "icon" : "item_Weapon_SSR_Bow_Ice01",
+  "gachaIcon" : "SSR_lh_Mg",
+  "rarity" : "SSR",
+  "element" : "Ice",
+  "weaponType" : "Bow",
+  "wc" : "DPS",
+  "mats" : "ice_ssr_tupo_AD",
+  "skills" : {
+    "normal_n" : "Quickdraw",
+    "normal_des" : "While on the ground, draw the bow repeatedly to attack 5 times.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</>.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</>.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</>.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.",
+    "normal_id" : "GA_FPlayerBowMeleeIce_SSR",
+    "dodge" : "Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for <shuzhi>0.5</> seconds.",
+    "dodge_id" : "GA_FPlayerBowEvadeIce_SSR_OS",
+    "skill" : "Perform a backflip and fire <shuzhi>3</> piercing shots, with the main shot deals damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>, and the other two shots deal 60% damage. In addition, <shuzhi>knock targets back</> and stun them for <shuzhi>5</> seconds if they collide with an obstacle. Cooldown: <shuzhi>12</> seconds.",
+    "skill_id" : "GA_FPlayerBowSkillIce_SSR_OS",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</>, and create a hailstorm at the target location upon switching to this weapon, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. The storm has a <shuzhi>10%</> chance to inflict a <shuzhi>2</> seconds <shuzhi>freeze effect</>. Gain cold front, and increase speed by <shuzhi>45%</> for <shuzhi>7</> seconds.",
+    "discharge_id" : "GA_FPlayerBowChangeSkillIce_SSR_OS"
+  },
+  "id" : "bow_ice"
+}

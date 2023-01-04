@@ -1,0 +1,24 @@
+{
+  "name" : "Thunderblades",
+  "type" : "ITEM_TYPE_WEAPON",
+  "description" : "Lethal, unpredictable and quiet.",
+  "icon" : "item_Weapon_SSR_Ds_Thunder01",
+  "gachaIcon" : "SSR_lh_jkxd",
+  "rarity" : "SSR",
+  "element" : "Thunder",
+  "weaponType" : "DoubleSword",
+  "wc" : "DPS",
+  "mats" : "thunder_ssr_tupo_AD",
+  "skills" : {
+    "normal_n" : "Twin Blades",
+    "normal_des" : "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> and knock the target back a short distance.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK + <shuzhi>{5}</> and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK + <shuzhi>{7}</> and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK + <shuzhi>{9}</> and knock the target back a short distance.",
+    "normal_id" : "GA_FPlayerDSMeleeThu_SSR_OS",
+    "dodge" : "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades.\r\nSlash a target <shuzhi>5</> times, each dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Grant immunity to control effects while phasing.",
+    "dodge_id" : "GA_FPlayerDsEvadeThu_SSR",
+    "skill" : "Fire <shuzhi>6</> returning blades, each dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</>. Gains <shuzhi>hyperbody</> for up to <shuzhi>8</> seconds, and the effect is removed when the blades return. <shuzhi>45</> -second cooldown.",
+    "skill_id" : "GA_FPlayerDSSkillThu_SSR",
+    "discharge" : "When <red>weapon charge</> is full or <red>Phantasia</> is triggered, <shuzhi>remove all debuffs from the wielder</> and dash to the target location upon switching to this weapon and attack, dealing damage equal to <shuzhi>{0}%</> of ATK + <shuzhi>{1}</> and electrocuting the target (after <shuzhi>5</> seconds, deals volt damage equal to <shuzhi>15%</> of damage dealt, up to <shuzhi>350%</> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <shuzhi>{2}%</> of ATK + <shuzhi>{3}</> to those that touch them.",
+    "discharge_id" : "GA_FPlayerDSChangeSkillThu_SSR"
+  },
+  "id" : "digger_thunder"
+}
