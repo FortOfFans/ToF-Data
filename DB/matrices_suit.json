@@ -1,0 +1,1413 @@
+{
+  "suit_N1_0" : {
+    "twopc" : "Increase damage dealt by <shuzhi>4%</>.",
+    "numberst" : [],
+    "id" : "suit_N1_0"
+  },
+  "suit_N2_0" : {
+    "twopc" : "Reduce damage received by <shuzhi>4%</>.",
+    "numberst" : [],
+    "id" : "suit_N2_0"
+  },
+  "suit_R1_0" : {
+    "twopc" : "Increase damage dealt by flame weapons by <shuzhi>6%</>.",
+    "numberst" : [],
+    "id" : "suit_R1_0"
+  },
+  "suit_R2_0" : {
+    "twopc" : "Increase damage dealt by frost weapons by <shuzhi>6%</>.",
+    "numberst" : [],
+    "id" : "suit_R2_0"
+  },
+  "suit_R3_0" : {
+    "twopc" : "Increase damage dealt by volt weapons by <shuzhi>6%</>.",
+    "numberst" : [],
+    "id" : "suit_R3_0"
+  },
+  "suit_R4_0" : {
+    "twopc" : "Increase damage dealt by physical weapons by <shuzhi>6%</>.",
+    "numberst" : [],
+    "id" : "suit_R4_0"
+  },
+  "suit_R6_0" : {
+    "twopc" : "Increase shatter by <shuzhi>18%</>.",
+    "numberst" : [],
+    "id" : "suit_R6_0"
+  },
+  "suit_R7_0" : {
+    "twopc" : "Reduce damage received by <shuzhi>6%</>.",
+    "numberst" : [],
+    "id" : "suit_R7_0"
+  },
+  "suit_SR1_0" : {
+    "twopc" : "When a target is shattered, poison the target and deal damage equal to <shuzhi>45%</>/56%/67.5% of ATK every second for 10 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR1_0"
+  },
+  "suit_SR1_1" : {
+    "twopc" : "When a target is shattered, poison the target and deal damage equal to 45%/<shuzhi>56%</>/67.5% of ATK every second for 10 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR1_1"
+  },
+  "suit_SR1_2" : {
+    "twopc" : "When a target is shattered, poison the target and deal damage equal to 45%/56%/<shuzhi>67.5%</> of ATK every second for 10 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR1_2"
+  },
+  "suit_SR2_0" : {
+    "twopc" : "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to <shuzhi>20%</>/25%/30%.",
+    "numberst" : [],
+    "id" : "suit_SR2_0"
+  },
+  "suit_SR2_1" : {
+    "twopc" : "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to 20%/<shuzhi>25%</>/30%.",
+    "numberst" : [],
+    "id" : "suit_SR2_1"
+  },
+  "suit_SR2_2" : {
+    "twopc" : "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to 20%/25%/<shuzhi>30%</>.",
+    "numberst" : [],
+    "id" : "suit_SR2_2"
+  },
+  "suit_SR3_0" : {
+    "twopc" : "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to <shuzhi>160%</>/200%/240% of ATK.",
+    "numberst" : [],
+    "id" : "suit_SR3_0"
+  },
+  "suit_SR3_1" : {
+    "twopc" : "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to 160%/<shuzhi>200%</>/240% of ATK.",
+    "numberst" : [],
+    "id" : "suit_SR3_1"
+  },
+  "suit_SR3_2" : {
+    "twopc" : "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to 160%/200%/<shuzhi>240%</> of ATK.",
+    "numberst" : [],
+    "id" : "suit_SR3_2"
+  },
+  "suit_SR4_0" : {
+    "twopc" : "Increase damage dealt by <shuzhi>6%</>/7.5%/9% for each enemy nearby. Up to 3 stacks.",
+    "numberst" : [],
+    "id" : "suit_SR4_0"
+  },
+  "suit_SR4_1" : {
+    "twopc" : "Increase damage dealt by 6%/<shuzhi>7.5%</>/9% for each enemy nearby. Up to 3 stacks.",
+    "numberst" : [],
+    "id" : "suit_SR4_1"
+  },
+  "suit_SR4_2" : {
+    "twopc" : "Increase damage dealt by 6%/7.5%/<shuzhi>9%</> for each enemy nearby. Up to 3 stacks.",
+    "numberst" : [],
+    "id" : "suit_SR4_2"
+  },
+  "suit_SR5_0" : {
+    "twopc" : "Upon switching to the weapon, gain <shuzhi>50%</>/62.5%/75% damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a <shuzhi>20%</>/25%/30% damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR5_0"
+  },
+  "suit_SR5_1" : {
+    "twopc" : "Upon switching to the weapon, gain 50%/<shuzhi>62.5%</>/75% damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a 20%/<shuzhi>25%</>/30% damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR5_1"
+  },
+  "suit_SR5_2" : {
+    "twopc" : "Upon switching to the weapon, gain 50%/62.5%/<shuzhi>75%</> damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a 20%/25%/<shuzhi>30%</> damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR5_2"
+  },
+  "suit_SR6_0" : {
+    "twopc" : "Increase speed of obtaining weapon charge by <shuzhi>10%</>/12.5%/15%.",
+    "numberst" : [],
+    "id" : "suit_SR6_0"
+  },
+  "suit_SR6_1" : {
+    "twopc" : "Increase speed of obtaining weapon charge by 10%/<shuzhi>12.5%</>/15%.",
+    "numberst" : [],
+    "id" : "suit_SR6_1"
+  },
+  "suit_SR6_2" : {
+    "twopc" : "Increase speed of obtaining weapon charge by 10%/12.5%/<shuzhi>15%</>.",
+    "numberst" : [],
+    "id" : "suit_SR6_2"
+  },
+  "suit_SR7_0" : {
+    "twopc" : "Increase ATK by <shuzhi>15%</>/19%/22.5% when there are no enemies within 6 meters.",
+    "numberst" : [],
+    "id" : "suit_SR7_0"
+  },
+  "suit_SR7_1" : {
+    "twopc" : "Increase ATK by 15%/<shuzhi>19%</>/22.5% when there are no enemies within 6 meters.",
+    "numberst" : [],
+    "id" : "suit_SR7_1"
+  },
+  "suit_SR7_2" : {
+    "twopc" : "Increase ATK by 15%/19%/<shuzhi>22.5%</> when there are no enemies within 6 meters.",
+    "numberst" : [],
+    "id" : "suit_SR7_2"
+  },
+  "suit_SR8_0" : {
+    "twopc" : "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to <shuzhi>60%</>/75%/90% of ATK. Cooldown: <shuzhi>3</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR8_0"
+  },
+  "suit_SR8_1" : {
+    "twopc" : "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to 60%/<shuzhi>75%</>/90% of ATK. Cooldown: <shuzhi>3</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR8_1"
+  },
+  "suit_SR8_2" : {
+    "twopc" : "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to 60%/75%/<shuzhi>90%</> of ATK. Cooldown: <shuzhi>3</> seconds.",
+    "numberst" : [],
+    "id" : "suit_SR8_2"
+  },
+  "suit_SR9_0" : {
+    "twopc" : "Increase damage dealt to grievous targets by <shuzhi>12%</>/15%/18%.",
+    "numberst" : [],
+    "id" : "suit_SR9_0"
+  },
+  "suit_SR9_1" : {
+    "twopc" : "Increase damage dealt to grievous targets by 12%/<shuzhi>15%</>/18%.",
+    "numberst" : [],
+    "id" : "suit_SR9_1"
+  },
+  "suit_SR9_2" : {
+    "twopc" : "Increase damage dealt to grievous targets by 12%/15%/<shuzhi>18%</>.",
+    "numberst" : [],
+    "id" : "suit_SR9_2"
+  },
+  "suit_SR10_0" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants <shuzhi>80</>/100/120 weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR10_0"
+  },
+  "suit_SR10_1" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants 80/<shuzhi>100</>/120 weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR10_1"
+  },
+  "suit_SR10_2" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants 80/100/<shuzhi>120</> weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR10_2"
+  },
+  "suit_SR11_0" : {
+    "twopc" : "Increase crit damage dealt to targets with less than 60% HP by <shuzhi>35%</>/44%/52.5%.",
+    "numberst" : [],
+    "id" : "suit_SR11_0"
+  },
+  "suit_SR11_1" : {
+    "twopc" : "Increase crit damage dealt to targets with less than 60% HP by 35%/<shuzhi>44%</>/52.5%.",
+    "numberst" : [],
+    "id" : "suit_SR11_1"
+  },
+  "suit_SR11_2" : {
+    "twopc" : "Increase crit damage dealt to targets with less than 60% HP by 35%/44%/<shuzhi>52.5%</>.",
+    "numberst" : [],
+    "id" : "suit_SR11_2"
+  },
+  "suit_SR12_0" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants <shuzhi>80</>/100/120 weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR12_0"
+  },
+  "suit_SR12_1" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants 80/<shuzhi>100</>/120 weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR12_1"
+  },
+  "suit_SR12_2" : {
+    "twopc" : "Using a discharge skill to switch to the current weapon grants 80/100/<shuzhi>120</> weapon charge.",
+    "numberst" : [],
+    "id" : "suit_SR12_2"
+  },
+  "suit_SR13_0" : {
+    "twopc" : "Gain <shuzhi>30%</>/36%/39% lifesteal during Phantasia and restore HP up to <shuzhi>60%</>/69%/73.5% of ATK every 0.5 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR13_0"
+  },
+  "suit_SR13_1" : {
+    "twopc" : "Gain 30%/<shuzhi>36%</>/39% lifesteal during Phantasia and restore HP up to 60%/<shuzhi>69%</>/73.5% of ATK every 0.5 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR13_1"
+  },
+  "suit_SR13_2" : {
+    "twopc" : "Gain 30%/36%/<shuzhi>39%</> lifesteal during Phantasia and restore HP up to 60%/69%/<shuzhi>73.5%</> of ATK every 0.5 seconds.",
+    "numberst" : [],
+    "id" : "suit_SR13_2"
+  },
+  "suit_SSR1_0" : {
+    "twopc" : "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to <shuzhi>20%</>/26%/32%/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+    "fourpc" : "Increase Whirlwind's damage by <shuzhi>36%</>/45%/54%/63% and restore HP equal to <shuzhi>30%</>/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed <shuzhi>60%</>72%/81%/90% of ATK.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR1_0"
+  },
+  "suit_SSR1_1" : {
+    "twopc" : "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/<shuzhi>26%</>/32%/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+    "fourpc" : "Increase Whirlwind's damage by 36%/<shuzhi>45%</>/54%/63% and restore HP equal to 30%/<shuzhi>38%</>/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/<shuzhi>72%</>/81%/90% of ATK.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR1_1"
+  },
+  "suit_SSR1_2" : {
+    "twopc" : "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/26%/<shuzhi>32%</>/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+    "fourpc" : "Increase Whirlwind's damage by 36%/45%/<shuzhi>54%</>/63% and restore HP equal to 30%/38%/<shuzhi>44%</>/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/72%/<shuzhi>81%</>/90% of ATK.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR1_2"
+  },
+  "suit_SSR1_3" : {
+    "twopc" : "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/26%/32%/<shuzhi>40%</> of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+    "fourpc" : "Increase Whirlwind's damage by 36%/45%/54%/<shuzhi>63%</> and restore HP equal to 30%/38%/44%/<shuzhi>50%</> of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/72%/81%/<shuzhi>90%</> of ATK.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR1_3"
+  },
+  "suit_SSR2_0" : {
+    "twopc" : "Increase damage dealt by <shuzhi>14%</>/16%/18%/20% when there are no enemies within <shuzhi>4</> meters.",
+    "fourpc" : "Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by <shuzhi>15%</>/18%/21%/25% for <shuzhi>8</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR2_0"
+  },
+  "suit_SSR2_1" : {
+    "twopc" : "Increase damage dealt by 14%/<shuzhi>16%</>/18%/20% when there are no enemies within <shuzhi>4</> meters.",
+    "fourpc" : "Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by 15%/<shuzhi>18%</>/21%/25% for <shuzhi>8</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR2_1"
+  },
+  "suit_SSR2_2" : {
+    "twopc" : "Increase damage dealt by 14%/16%/<shuzhi>18%</>/20% when there are no enemies within <shuzhi>4</> meters.",
+    "fourpc" : "Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/<shuzhi>21%</>/25% for <shuzhi>8</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR2_2"
+  },
+  "suit_SSR2_3" : {
+    "twopc" : "Increase damage dealt by 14%/16%/18%/<shuzhi>20%</> when there are no enemies within <shuzhi>4</> meters.",
+    "fourpc" : "Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/<shuzhi>25%</> for <shuzhi>8</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR2_3"
+  },
+  "suit_SSR20_0" : {
+    "twopc" : "Every time volt damage is dealt, there is a <shuzhi>40%</> chance of triggering chain lighting, dealing damage equal to <shuzhi>{0}%</>/{1}%/{2}%/{3}% of volt ATK to up to <shuzhi>7</> targets. Cooldown: <shuzhi>2</> seconds. Every time chain lightning is triggered, increase volt damage by <shuzhi>{4}%</> for <shuzhi>6</> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Every time a volt weapon's skill or discharge skill is used, increase volt damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "TianlangEffectFigure",
+    "numberst" : [
+      "TianlangMatrix39ThunderL1",
+      "TianlangMatrix39ThunderL2",
+      "TianlangMatrix39ThunderL3",
+      "TianlangMatrix39ThunderL4",
+      "TianlangMatrix39DamageUp"
+    ],
+    "numbersf" : [
+      "TianlangMatrix40DamageUpL1",
+      "TianlangMatrix40DamageUpL2",
+      "TianlangMatrix40DamageUpL3",
+      "TianlangMatrix40DamageUpL4"
+    ],
+    "id" : "suit_SSR20_0"
+  },
+  "suit_SSR20_1" : {
+    "twopc" : "Every time volt damage is dealt, there is a <shuzhi>40%</> chance of triggering chain lighting, dealing damage equal to {0}%/<shuzhi>{1}%</>/{2}%/{3}% of volt ATK to up to <shuzhi>7</> targets. Cooldown: <shuzhi>2</> seconds. Every time chain lightning is triggered, increase volt damage by <shuzhi>{4}%</> for <shuzhi>6</> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Every time a volt weapon's skill or discharge skill is used, increase volt damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "TianlangEffectFigure",
+    "numberst" : [
+      "TianlangMatrix39ThunderL1",
+      "TianlangMatrix39ThunderL2",
+      "TianlangMatrix39ThunderL3",
+      "TianlangMatrix39ThunderL4",
+      "TianlangMatrix39DamageUp"
+    ],
+    "numbersf" : [
+      "TianlangMatrix40DamageUpL1",
+      "TianlangMatrix40DamageUpL2",
+      "TianlangMatrix40DamageUpL3",
+      "TianlangMatrix40DamageUpL4"
+    ],
+    "id" : "suit_SSR20_1"
+  },
+  "suit_SSR20_2" : {
+    "twopc" : "Every time volt damage is dealt, there is a <shuzhi>40%</> chance of triggering chain lighting, dealing damage equal to {0}%/{1}%/<shuzhi>{2}%</>/{3}% of volt ATK to up to <shuzhi>7</> targets. Cooldown: <shuzhi>2</> seconds. Every time chain lightning is triggered, increase volt damage by <shuzhi>{4}%</> for <shuzhi>6</> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Every time a volt weapon's skill or discharge skill is used, increase volt damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "TianlangEffectFigure",
+    "numberst" : [
+      "TianlangMatrix39ThunderL1",
+      "TianlangMatrix39ThunderL2",
+      "TianlangMatrix39ThunderL3",
+      "TianlangMatrix39ThunderL4",
+      "TianlangMatrix39DamageUp"
+    ],
+    "numbersf" : [
+      "TianlangMatrix40DamageUpL1",
+      "TianlangMatrix40DamageUpL2",
+      "TianlangMatrix40DamageUpL3",
+      "TianlangMatrix40DamageUpL4"
+    ],
+    "id" : "suit_SSR20_2"
+  },
+  "suit_SSR20_3" : {
+    "twopc" : "Every time volt damage is dealt, there is a <shuzhi>40%</> chance of triggering chain lighting, dealing damage equal to {0}%/{1}%/{2}%/<shuzhi>{3}%</> of volt ATK to up to <shuzhi>7</> targets. Cooldown: <shuzhi>2</> seconds. Every time chain lightning is triggered, increase volt damage by <shuzhi>{4}%</> for <shuzhi>6</> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Every time a volt weapon's skill or discharge skill is used, increase volt damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "TianlangEffectFigure",
+    "numberst" : [
+      "TianlangMatrix39ThunderL1",
+      "TianlangMatrix39ThunderL2",
+      "TianlangMatrix39ThunderL3",
+      "TianlangMatrix39ThunderL4",
+      "TianlangMatrix39DamageUp"
+    ],
+    "numbersf" : [
+      "TianlangMatrix40DamageUpL1",
+      "TianlangMatrix40DamageUpL2",
+      "TianlangMatrix40DamageUpL3",
+      "TianlangMatrix40DamageUpL4"
+    ],
+    "id" : "suit_SSR20_3"
+  },
+  "suit_SSR21_0" : {
+    "twopc" : "Increase final damage by <shuzhi>5%</>/6%/7%/8% and final crit rate by <shuzhi>2.5%</>/2.5%/3%/3% for <shuzhi>25</> seconds when hitting a target with a flame weapon, stacking up to <shuzhi>2</> times. Only the effect with the highest star rating is applied when obtained repeatedly.",
+    "fourpc" : "When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by <shuzhi>11%</>/13%/15%/17%, and increases crit damage by an additional <shuzhi>22%</>/24%/26%/28% within <shuzhi>25</> seconds of landing a critical hit. For every <shuzhi>3</> charged attacks that hit the target, restore <shuzhi>1</> dodge attempt. Cooldown: <shuzhi>2</> seconds. Only the effect of the highest star rating is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR21_0"
+  },
+  "suit_SSR21_1" : {
+    "twopc" : "Increase final damage by 5%/<shuzhi>6%</>/7%/8% and final crit rate by 2.5%/<shuzhi>2.5%</>/3%/3% for <shuzhi>25</> seconds when hitting a target with a flame weapon, stacking up to <shuzhi>2</> times. Only the effect with the highest star rating is applied when obtained repeatedly.",
+    "fourpc" : "When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 11%/<shuzhi>13%</>/15%/17%, and increases crit damage by an additional 22%/<shuzhi>24%</>/26%/28% within <shuzhi>25</> seconds of landing a critical hit. For every <shuzhi>3</> charged attacks that hit the target, restore <shuzhi>1</> dodge attempt. Cooldown: <shuzhi>2</> seconds. Only the effect of the highest star rating is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR21_1"
+  },
+  "suit_SSR21_2" : {
+    "twopc" : "Increase final damage by 5%/6%/<shuzhi>7%</>/8% and final crit rate by 2.5%/2.5%/<shuzhi>3%</>/3% for <shuzhi>25</> seconds when hitting a target with a flame weapon, stacking up to <shuzhi>2</> times. Only the effect with the highest star rating is applied when obtained repeatedly.",
+    "fourpc" : "When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 11%/13%/<shuzhi>15%</>/17%, and increases crit damage by an additional 22%/24%/<shuzhi>26%</>/28% within <shuzhi>25</> seconds of landing a critical hit. For every <shuzhi>3</> charged attacks that hit the target, restore <shuzhi>1</> dodge attempt. Cooldown: <shuzhi>2</> seconds. Only the effect of the highest star rating is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR21_2"
+  },
+  "suit_SSR21_3" : {
+    "twopc" : "Increase final damage by 5%/6%/7%/<shuzhi>8%</> and final crit rate by 2.5%/2.5%/3%/<shuzhi>3%</> for <shuzhi>25</> seconds when hitting a target with a flame weapon, stacking up to <shuzhi>2</> times. Only the effect with the highest star rating is applied when obtained repeatedly.",
+    "fourpc" : "When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 11%/13%/15%/<shuzhi>17%</>, and increases crit damage by an additional 22%/24%/26%/<shuzhi>28%</> within <shuzhi>25</> seconds of landing a critical hit. For every <shuzhi>3</> charged attacks that hit the target, restore <shuzhi>1</> dodge attempt. Cooldown: <shuzhi>2</> seconds. Only the effect of the highest star rating is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR21_3"
+  },
+  "suit_SSR22_0" : {
+    "twopc" : "Increase final damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% upon switching to this weapon. Increase frost damage by an additional <shuzhi>{4}%</> for <shuzhi>{5} [@$second|seconds]</> if it's a frost weapon. Only the set with the highest star rating will take effect.",
+    "fourpc" : "Increase final damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% for <shuzhi>{4} [@$second|seconds]</> when using Unyielding Wing's discharge skill, stacking up to <shuzhi>2</> times. Remove <shuzhi>1</> stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by <shuzhi>50%</> in its Latent State.",
+    "numberst" : [
+      "IceBladeMatrixSSR43Level1DamUpPer",
+      "IceBladeMatrixSSR43Level2DamUpPer",
+      "IceBladeMatrixSSR43Level3DamUpPer",
+      "IceBladeMatrixSSR43Level4DamUpPer",
+      "IceBladeMatrixSSR43IceDamUpPer",
+      "IceBladeMatrixSSR43Duration"
+    ],
+    "numbersf" : [
+      "IceBladeMatrixSSR44Level1DamUpPer",
+      "IceBladeMatrixSSR44Level2DamUpPer",
+      "IceBladeMatrixSSR44Level3DamUpPer",
+      "IceBladeMatrixSSR44Level4DamUpPer",
+      "IceBladeMatrixSSR44Duration"
+    ],
+    "id" : "suit_SSR22_0"
+  },
+  "suit_SSR22_1" : {
+    "twopc" : "Increase final damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% upon switching to this weapon. Increase frost damage by an additional <shuzhi>{4}%</> for <shuzhi>{5} [@$second|seconds]</> if it's a frost weapon. Only the set with the highest star rating will take effect.",
+    "fourpc" : "Increase final damage by {0}%/<shuzhi>{1}%</>%/{2}%/{3}% for <shuzhi>{4} [@$second|seconds]</> when using Unyielding Wing's discharge skill, stacking up to <shuzhi>2</> times. Remove <shuzhi>1</> stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by <shuzhi>50%</> in its Latent State.",
+    "numberst" : [
+      "IceBladeMatrixSSR43Level1DamUpPer",
+      "IceBladeMatrixSSR43Level2DamUpPer",
+      "IceBladeMatrixSSR43Level3DamUpPer",
+      "IceBladeMatrixSSR43Level4DamUpPer",
+      "IceBladeMatrixSSR43IceDamUpPer",
+      "IceBladeMatrixSSR43Duration"
+    ],
+    "numbersf" : [
+      "IceBladeMatrixSSR44Level1DamUpPer",
+      "IceBladeMatrixSSR44Level2DamUpPer",
+      "IceBladeMatrixSSR44Level3DamUpPer",
+      "IceBladeMatrixSSR44Level4DamUpPer",
+      "IceBladeMatrixSSR44Duration"
+    ],
+    "id" : "suit_SSR22_1"
+  },
+  "suit_SSR22_2" : {
+    "twopc" : "Increase final damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% upon switching to this weapon. Increase frost damage by an additional <shuzhi>{4}%</> for <shuzhi>{5} [@$second|seconds]</> if it's a frost weapon. Only the set with the highest star rating will take effect.",
+    "fourpc" : "Increase final damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% for <shuzhi>{4} [@$second|seconds]</> when using Unyielding Wing's discharge skill, stacking up to <shuzhi>2</> times. Remove <shuzhi>1</> stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by <shuzhi>50%</> in its Latent State.",
+    "numberst" : [
+      "IceBladeMatrixSSR43Level1DamUpPer",
+      "IceBladeMatrixSSR43Level2DamUpPer",
+      "IceBladeMatrixSSR43Level3DamUpPer",
+      "IceBladeMatrixSSR43Level4DamUpPer",
+      "IceBladeMatrixSSR43IceDamUpPer",
+      "IceBladeMatrixSSR43Duration"
+    ],
+    "numbersf" : [
+      "IceBladeMatrixSSR44Level1DamUpPer",
+      "IceBladeMatrixSSR44Level2DamUpPer",
+      "IceBladeMatrixSSR44Level3DamUpPer",
+      "IceBladeMatrixSSR44Level4DamUpPer",
+      "IceBladeMatrixSSR44Duration"
+    ],
+    "id" : "suit_SSR22_2"
+  },
+  "suit_SSR22_3" : {
+    "twopc" : "Increase final damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> upon switching to this weapon. Increase frost damage by an additional <shuzhi>{4}%</> for <shuzhi>{5} [@$second|seconds]</> if it's a frost weapon. Only the set with the highest star rating will take effect.",
+    "fourpc" : "Increase final damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> for <shuzhi>{4} [@$second|seconds]</> when using Unyielding Wing's discharge skill, stacking up to <shuzhi>2</> times. Remove <shuzhi>1</> stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by <shuzhi>50%</> in its Latent State.",
+    "numberst" : [
+      "IceBladeMatrixSSR43Level1DamUpPer",
+      "IceBladeMatrixSSR43Level2DamUpPer",
+      "IceBladeMatrixSSR43Level3DamUpPer",
+      "IceBladeMatrixSSR43Level4DamUpPer",
+      "IceBladeMatrixSSR43IceDamUpPer",
+      "IceBladeMatrixSSR43Duration"
+    ],
+    "numbersf" : [
+      "IceBladeMatrixSSR44Level1DamUpPer",
+      "IceBladeMatrixSSR44Level2DamUpPer",
+      "IceBladeMatrixSSR44Level3DamUpPer",
+      "IceBladeMatrixSSR44Level4DamUpPer",
+      "IceBladeMatrixSSR44Duration"
+    ],
+    "id" : "suit_SSR22_3"
+  },
+  "suit_SSR23_0" : {
+    "twopc" : "When dealing physical damage, increase final damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% and physical damage by <shuzhi>{4}%</>/{5}%/{6}%/{7}% for <shuzhi>{8} [@$second|seconds]</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When equipping <shuzhi>2</> or more physical weapons, increase final damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "WhipEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR47_FinalDamUp_level1",
+      "Buff_Matrix_SSR47_FinalDamUp_level2",
+      "Buff_Matrix_SSR47_FinalDamUp_level3",
+      "Buff_Matrix_SSR47_FinalDamUp_level4",
+      "Buff_Matrix_SSR47_PhyDamUp_level1",
+      "Buff_Matrix_SSR47_PhyDamUp_level2",
+      "Buff_Matrix_SSR47_PhyDamUp_level3",
+      "Buff_Matrix_SSR47_PhyDamUp_level4",
+      "Buff_Matrix_SSR47_Duration_level1"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR48_FinalDamUp_level1",
+      "Buff_Matrix_SSR48_FinalDamUp_level2",
+      "Buff_Matrix_SSR48_FinalDamUp_level3",
+      "Buff_Matrix_SSR48_FinalDamUp_level4"
+    ],
+    "id" : "suit_SSR23_0"
+  },
+  "suit_SSR23_1" : {
+    "twopc" : "When dealing physical damage, increase final damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% and physical damage by {4}%/<shuzhi>{5}%</>/{6}%/{7}% for <shuzhi>{8} [@$second|seconds]</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When equipping <shuzhi>2</> or more physical weapons, increase final damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "WhipEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR47_FinalDamUp_level1",
+      "Buff_Matrix_SSR47_FinalDamUp_level2",
+      "Buff_Matrix_SSR47_FinalDamUp_level3",
+      "Buff_Matrix_SSR47_FinalDamUp_level4",
+      "Buff_Matrix_SSR47_PhyDamUp_level1",
+      "Buff_Matrix_SSR47_PhyDamUp_level2",
+      "Buff_Matrix_SSR47_PhyDamUp_level3",
+      "Buff_Matrix_SSR47_PhyDamUp_level4",
+      "Buff_Matrix_SSR47_Duration_level2"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR48_FinalDamUp_level1",
+      "Buff_Matrix_SSR48_FinalDamUp_level2",
+      "Buff_Matrix_SSR48_FinalDamUp_level3",
+      "Buff_Matrix_SSR48_FinalDamUp_level4"
+    ],
+    "id" : "suit_SSR23_1"
+  },
+  "suit_SSR23_2" : {
+    "twopc" : "When dealing physical damage, increase final damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% and physical damage by {4}%/{5}%/<shuzhi>{6}%</>/{7}% for <shuzhi>{8} [@$second|seconds]</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When equipping <shuzhi>2</> or more physical weapons, increase final damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "WhipEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR47_FinalDamUp_level1",
+      "Buff_Matrix_SSR47_FinalDamUp_level2",
+      "Buff_Matrix_SSR47_FinalDamUp_level3",
+      "Buff_Matrix_SSR47_FinalDamUp_level4",
+      "Buff_Matrix_SSR47_PhyDamUp_level1",
+      "Buff_Matrix_SSR47_PhyDamUp_level2",
+      "Buff_Matrix_SSR47_PhyDamUp_level3",
+      "Buff_Matrix_SSR47_PhyDamUp_level4",
+      "Buff_Matrix_SSR47_Duration_level3"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR48_FinalDamUp_level1",
+      "Buff_Matrix_SSR48_FinalDamUp_level2",
+      "Buff_Matrix_SSR48_FinalDamUp_level3",
+      "Buff_Matrix_SSR48_FinalDamUp_level4"
+    ],
+    "id" : "suit_SSR23_2"
+  },
+  "suit_SSR23_3" : {
+    "twopc" : "When dealing physical damage, increase final damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> and physical damage by {4}%/{5}%/{6}%/<shuzhi>{7}%</> for <shuzhi>{8} [@$second|seconds]</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When equipping <shuzhi>2</> or more physical weapons, increase final damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "WhipEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR47_FinalDamUp_level1",
+      "Buff_Matrix_SSR47_FinalDamUp_level2",
+      "Buff_Matrix_SSR47_FinalDamUp_level3",
+      "Buff_Matrix_SSR47_FinalDamUp_level4",
+      "Buff_Matrix_SSR47_PhyDamUp_level1",
+      "Buff_Matrix_SSR47_PhyDamUp_level2",
+      "Buff_Matrix_SSR47_PhyDamUp_level3",
+      "Buff_Matrix_SSR47_PhyDamUp_level4",
+      "Buff_Matrix_SSR47_Duration_level4"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR48_FinalDamUp_level1",
+      "Buff_Matrix_SSR48_FinalDamUp_level2",
+      "Buff_Matrix_SSR48_FinalDamUp_level3",
+      "Buff_Matrix_SSR48_FinalDamUp_level4"
+    ],
+    "id" : "suit_SSR23_3"
+  },
+  "suit_SSR25_0" : {
+    "numberst" : [
+      "Buff_Matrix_SSR53_level1_Effect",
+      "Buff_Matrix_SSR53_level2_Effect",
+      "Buff_Matrix_SSR53_level3_Effect",
+      "Buff_Matrix_SSR53_level4_Effect"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR54_level1_Effect",
+      "Buff_Matrix_SSR54_level2_Effect",
+      "Buff_Matrix_SSR54_level3_Effect",
+      "Buff_Matrix_SSR54_level4_Effect"
+    ],
+    "id" : "suit_SSR25_0"
+  },
+  "suit_SSR25_1" : {
+    "numberst" : [
+      "Buff_Matrix_SSR53_level1_Effect",
+      "Buff_Matrix_SSR53_level2_Effect",
+      "Buff_Matrix_SSR53_level3_Effect",
+      "Buff_Matrix_SSR53_level4_Effect"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR54_level1_Effect",
+      "Buff_Matrix_SSR54_level2_Effect",
+      "Buff_Matrix_SSR54_level3_Effect",
+      "Buff_Matrix_SSR54_level4_Effect"
+    ],
+    "id" : "suit_SSR25_1"
+  },
+  "suit_SSR25_2" : {
+    "numberst" : [
+      "Buff_Matrix_SSR53_level1_Effect",
+      "Buff_Matrix_SSR53_level2_Effect",
+      "Buff_Matrix_SSR53_level3_Effect",
+      "Buff_Matrix_SSR53_level4_Effect"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR54_level1_Effect",
+      "Buff_Matrix_SSR54_level2_Effect",
+      "Buff_Matrix_SSR54_level3_Effect",
+      "Buff_Matrix_SSR54_level4_Effect"
+    ],
+    "id" : "suit_SSR25_2"
+  },
+  "suit_SSR25_3" : {
+    "numberst" : [
+      "Buff_Matrix_SSR53_level1_Effect",
+      "Buff_Matrix_SSR53_level2_Effect",
+      "Buff_Matrix_SSR53_level3_Effect",
+      "Buff_Matrix_SSR53_level4_Effect"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR54_level1_Effect",
+      "Buff_Matrix_SSR54_level2_Effect",
+      "Buff_Matrix_SSR54_level3_Effect",
+      "Buff_Matrix_SSR54_level4_Effect"
+    ],
+    "id" : "suit_SSR25_3"
+  },
+  "suit_SSR26_0" : {
+    "numberst" : [
+      "Buff_Matrix_SSR55_level1_CritDam",
+      "Buff_Matrix_SSR55_level2_CritDam",
+      "Buff_Matrix_SSR55_level3_CritDam",
+      "Buff_Matrix_SSR55_level4_CritDam",
+      "Buff_Matrix_SSR55_level1_BreakDefMult",
+      "Buff_Matrix_SSR55_level2_BreakDefMult",
+      "Buff_Matrix_SSR55_level3_BreakDefMult",
+      "Buff_Matrix_SSR55_level4_BreakDefMult"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR56_level1_Effect",
+      "Buff_Matrix_SSR56_level2_Effect",
+      "Buff_Matrix_SSR56_level3_Effect",
+      "Buff_Matrix_SSR56_level4_Effect"
+    ],
+    "id" : "suit_SSR26_0"
+  },
+  "suit_SSR26_1" : {
+    "numberst" : [
+      "Buff_Matrix_SSR55_level1_CritDam",
+      "Buff_Matrix_SSR55_level2_CritDam",
+      "Buff_Matrix_SSR55_level3_CritDam",
+      "Buff_Matrix_SSR55_level4_CritDam",
+      "Buff_Matrix_SSR55_level1_BreakDefMult",
+      "Buff_Matrix_SSR55_level2_BreakDefMult",
+      "Buff_Matrix_SSR55_level3_BreakDefMult",
+      "Buff_Matrix_SSR55_level4_BreakDefMult"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR56_level1_Effect",
+      "Buff_Matrix_SSR56_level2_Effect",
+      "Buff_Matrix_SSR56_level3_Effect",
+      "Buff_Matrix_SSR56_level4_Effect"
+    ],
+    "id" : "suit_SSR26_1"
+  },
+  "suit_SSR26_2" : {
+    "numberst" : [
+      "Buff_Matrix_SSR55_level1_CritDam",
+      "Buff_Matrix_SSR55_level2_CritDam",
+      "Buff_Matrix_SSR55_level3_CritDam",
+      "Buff_Matrix_SSR55_level4_CritDam",
+      "Buff_Matrix_SSR55_level1_BreakDefMult",
+      "Buff_Matrix_SSR55_level2_BreakDefMult",
+      "Buff_Matrix_SSR55_level3_BreakDefMult",
+      "Buff_Matrix_SSR55_level4_BreakDefMult"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR56_level1_Effect",
+      "Buff_Matrix_SSR56_level2_Effect",
+      "Buff_Matrix_SSR56_level3_Effect",
+      "Buff_Matrix_SSR56_level4_Effect"
+    ],
+    "id" : "suit_SSR26_2"
+  },
+  "suit_SSR26_3" : {
+    "numberst" : [
+      "Buff_Matrix_SSR55_level1_CritDam",
+      "Buff_Matrix_SSR55_level2_CritDam",
+      "Buff_Matrix_SSR55_level3_CritDam",
+      "Buff_Matrix_SSR55_level4_CritDam",
+      "Buff_Matrix_SSR55_level1_BreakDefMult",
+      "Buff_Matrix_SSR55_level2_BreakDefMult",
+      "Buff_Matrix_SSR55_level3_BreakDefMult",
+      "Buff_Matrix_SSR55_level4_BreakDefMult"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_SSR56_level1_Effect",
+      "Buff_Matrix_SSR56_level2_Effect",
+      "Buff_Matrix_SSR56_level3_Effect",
+      "Buff_Matrix_SSR56_level4_Effect"
+    ],
+    "id" : "suit_SSR26_3"
+  },
+  "suit_SSR3_0" : {
+    "twopc" : "Increase healing capability and healing received by <shuzhi>10%</>/12%/14%/16%.",
+    "fourpc" : "When you or your teammates are healed, increase ATK by <shuzhi>12.5%</>/15%/17.5%/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR3_0"
+  },
+  "suit_SSR3_1" : {
+    "twopc" : "Increase healing capability and healing received by 10%/<shuzhi>12%</>/14%/16%.",
+    "fourpc" : "When you or your teammates are healed, increase ATK by 12.5%/<shuzhi>15%</>/17.5%/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR3_1"
+  },
+  "suit_SSR3_2" : {
+    "twopc" : "Increase healing capability and healing received by 10%/12%/<shuzhi>14%</>/16%.",
+    "fourpc" : "When you or your teammates are healed, increase ATK by 12.5%/15%/<shuzhi>17.5%</>/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR3_2"
+  },
+  "suit_SSR3_3" : {
+    "twopc" : "Increase healing capability and healing received by 10%/12%/14%/<shuzhi>16%</>.",
+    "fourpc" : "When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/<shuzhi>20%</> for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR3_3"
+  },
+  "suit_SSR4_0" : {
+    "twopc" : "When a target is shattered, grant <shuzhi>8%</>/10%/12%/14% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to <shuzhi>14%</>/18%/22%/26% of the damage dealt, up to <shuzhi>36%</>/42%/48%/54% of ATK every <shuzhi>0.5</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR4_0"
+  },
+  "suit_SSR4_1" : {
+    "twopc" : "When a target is shattered, grant 8%/<shuzhi>10%</>/12%/14% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/<shuzhi>18%</>/22%/26% of the damage dealt, up to 36%/<shuzhi>42%</>/48%/54% of ATK every <shuzhi>0.5</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR4_1"
+  },
+  "suit_SSR4_2" : {
+    "twopc" : "When a target is shattered, grant 8%/10%/<shuzhi>12%</>/14% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/18%/<shuzhi>22%</>/26% of the damage dealt, up to 36%/42%/<shuzhi>48%</>/54% of ATK every <shuzhi>0.5</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR4_2"
+  },
+  "suit_SSR4_3" : {
+    "twopc" : "When a target is shattered, grant 8%/10%/12%/<shuzhi>14%</> damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/18%/22%/<shuzhi>26%</> of the damage dealt, up to 36%/42%/48%/<shuzhi>54%</> of ATK every <shuzhi>0.5</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR4_3"
+  },
+  "suit_SSR5_0" : {
+    "twopc" : "Increase damage against debuffed targets by <shuzhi>14%</>/16%/18%/20%.",
+    "fourpc" : "Restore <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodge skills inflict burn upon hit, dealing damage equal to <shuzhi>24%</>/30%/36%/42% of ATK every 0.5 seconds for <shuzhi>4</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR5_0"
+  },
+  "suit_SSR5_1" : {
+    "twopc" : "Increase damage against debuffed targets by 14%/<shuzhi>16%</>/18%/20%.",
+    "fourpc" : "Restore <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24%/<shuzhi>30%</>/36%/42% of ATK every 0.5 seconds for <shuzhi>4</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR5_1"
+  },
+  "suit_SSR5_2" : {
+    "twopc" : "Increase damage against debuffed targets by 14%/16%/<shuzhi>18%</>/20%.",
+    "fourpc" : "Restore <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24%/30%/<shuzhi>36%</>/42% of ATK every 0.5 seconds for <shuzhi>4</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR5_2"
+  },
+  "suit_SSR5_3" : {
+    "twopc" : "Increase damage against debuffed targets by 14%/16%/18%/<shuzhi>20%</>.",
+    "fourpc" : "Restore <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24%/30%/36%/<shuzhi>42%</> of ATK every 0.5 seconds for <shuzhi>4</> seconds.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR5_3"
+  },
+  "suit_SSR6_0" : {
+    "twopc" : "Increase damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.",
+    "fourpc" : "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by <shuzhi>1.5</>/2/2.5/3 seconds and increases the damage of discharge skills by <shuzhi>58%</>/80%/103%/126% for <shuzhi>15</> seconds.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR_6_level1",
+      "Buff_Matrix_SSR_6_level2_1",
+      "Buff_Matrix_SSR_6_level3_1",
+      "Buff_Matrix_SSR_6_level4_1"
+    ],
+    "numbersf" : [],
+    "id" : "suit_SSR6_0"
+  },
+  "suit_SSR6_1" : {
+    "twopc" : "Increase damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.",
+    "fourpc" : "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/<shuzhi>2</>/2.5/3 seconds and increases the damage of discharge skills by 58%/<shuzhi>80%</>/103%/126% for <shuzhi>15</> seconds.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR_6_level1",
+      "Buff_Matrix_SSR_6_level2_1",
+      "Buff_Matrix_SSR_6_level3_1",
+      "Buff_Matrix_SSR_6_level4_1"
+    ],
+    "numbersf" : [],
+    "id" : "suit_SSR6_1"
+  },
+  "suit_SSR6_2" : {
+    "twopc" : "Increase damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.",
+    "fourpc" : "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/<shuzhi>2.5</>/3 seconds and increases the damage of discharge skills by 58%/80%/<shuzhi>103%</>/126% for <shuzhi>15</> seconds.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR_6_level1",
+      "Buff_Matrix_SSR_6_level2_1",
+      "Buff_Matrix_SSR_6_level3_1",
+      "Buff_Matrix_SSR_6_level4_1"
+    ],
+    "numbersf" : [],
+    "id" : "suit_SSR6_2"
+  },
+  "suit_SSR6_3" : {
+    "twopc" : "Increase damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.",
+    "fourpc" : "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/2.5/<shuzhi>3</> seconds and increases the damage of discharge skills by 58%/80%/103%/<shuzhi>126%</> for <shuzhi>15</> seconds.",
+    "numbermap" : "Sword_Phy_SSR_EffectFigure",
+    "numberst" : [
+      "Buff_Matrix_SSR_6_level1",
+      "Buff_Matrix_SSR_6_level2_1",
+      "Buff_Matrix_SSR_6_level3_1",
+      "Buff_Matrix_SSR_6_level4_1"
+    ],
+    "numbersf" : [],
+    "id" : "suit_SSR6_3"
+  },
+  "suit_SSR7_0" : {
+    "twopc" : "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by <shuzhi>15%</>/19%/22.5%/26%.",
+    "fourpc" : "Upon entering battle, gain a <shuzhi>20%</>/25%/30%/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR7_0"
+  },
+  "suit_SSR7_1" : {
+    "twopc" : "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/<shuzhi>19%</>/22.5%/26%.",
+    "fourpc" : "Upon entering battle, gain a 20%/<shuzhi>25%</>/30%/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR7_1"
+  },
+  "suit_SSR7_2" : {
+    "twopc" : "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/19%/<shuzhi>22.5%</>/26%.",
+    "fourpc" : "Upon entering battle, gain a 20%/25%/<shuzhi>30%</>/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR7_2"
+  },
+  "suit_SSR7_3" : {
+    "twopc" : "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/19%/22.5%/<shuzhi>26%</>.",
+    "fourpc" : "Upon entering battle, gain a 20%/25%/30%/<shuzhi>35%</> damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR7_3"
+  },
+  "suit_SSR8_0" : {
+    "twopc" : "Upon using a discharge skill to switch to the current weapon, gain a shield equal to <shuzhi>150%</>/200%/250%/300% of ATK for <shuzhi>6</> seconds.",
+    "fourpc" : "While the shield is active, you and your teammates deal <shuzhi>16%</>/20%/24%/28% more damage.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR8_0"
+  },
+  "suit_SSR8_1" : {
+    "twopc" : "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/<shuzhi>200%</>/250%/300% of ATK for <shuzhi>6</> seconds.",
+    "fourpc" : "While the shield is active, you and your teammates deal 16%/<shuzhi>20%</>/24%/28% more damage.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR8_1"
+  },
+  "suit_SSR8_2" : {
+    "twopc" : "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/<shuzhi>250%</>/300% of ATK for <shuzhi>6</> seconds.",
+    "fourpc" : "While the shield is active, you and your teammates deal 16%/20%/<shuzhi>24%</>/28% more damage.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR8_2"
+  },
+  "suit_SSR8_3" : {
+    "twopc" : "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/<shuzhi>300%</> of ATK for <shuzhi>6</> seconds.",
+    "fourpc" : "While the shield is active, you and your teammates deal 16%/20%/24%/<shuzhi>28%</> more damage.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR8_3"
+  },
+  "suit_SSR9_0" : {
+    "twopc" : "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to <shuzhi>10</>/13/16/20 times. Lasts for <shuzhi>1.5</> seconds.",
+    "fourpc" : "Increase Dual EM Stars' electrical explosion damage by <shuzhi>16%</>/22%/30%/40%.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR9_0"
+  },
+  "suit_SSR9_1" : {
+    "twopc" : "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/<shuzhi>13</>/16/20 times. Lasts for <shuzhi>1.5</> seconds.",
+    "fourpc" : "Increase Dual EM Stars' electrical explosion damage by 16%/<shuzhi>22%</>/30%/40%.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR9_1"
+  },
+  "suit_SSR9_2" : {
+    "twopc" : "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/13/<shuzhi>16</>/20 times. Lasts for <shuzhi>1.5</> seconds.",
+    "fourpc" : "Increase Dual EM Stars' electrical explosion damage by 16%/22%/<shuzhi>30%</>/40%.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR9_2"
+  },
+  "suit_SSR9_3" : {
+    "twopc" : "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/13/16/<shuzhi>20</> times. Lasts for <shuzhi>1.5</> seconds.",
+    "fourpc" : "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/<shuzhi>40%</>.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR9_3"
+  },
+  "suit_SSR10_0" : {
+    "twopc" : "Hitting targets with dodge skills inflicts bleed, dealing damage equal to <shuzhi>15%</>/19%/22.5%/26% of ATK every second for <shuzhi>5</> seconds.",
+    "fourpc" : "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by <shuzhi>10%</>/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR10_0"
+  },
+  "suit_SSR10_1" : {
+    "twopc" : "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/<shuzhi>19%</>/22.5%/26% of ATK every second for <shuzhi>5</> seconds.",
+    "fourpc" : "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/<shuzhi>12%</>/13%/15%. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR10_1"
+  },
+  "suit_SSR10_2" : {
+    "twopc" : "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/<shuzhi>22.5%</>/26% of ATK every second for <shuzhi>5</> seconds.",
+    "fourpc" : "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/12%/<shuzhi>13%</>/15%. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR10_2"
+  },
+  "suit_SSR10_3" : {
+    "twopc" : "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/<shuzhi>26%</> of ATK every second for <shuzhi>5</> seconds.",
+    "fourpc" : "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/12%/13%/<shuzhi>15%</>. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR10_3"
+  },
+  "suit_SSR11_0" : {
+    "twopc" : "Increase crit damage to targets with less than <shuzhi>60%</> HP by <shuzhi>24%</>/30%/36%/42%.",
+    "fourpc" : "Crits deal additional damage over time every second equal to <shuzhi>18%</>/22%/26%/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR11_0"
+  },
+  "suit_SSR11_1" : {
+    "twopc" : "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/<shuzhi>30%</>/36%/42%.",
+    "fourpc" : "Crits deal additional damage over time every second equal to 18%/<shuzhi>22%</>/26%/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR11_1"
+  },
+  "suit_SSR11_2" : {
+    "twopc" : "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/30%/<shuzhi>36%</>/42%.",
+    "fourpc" : "Crits deal additional damage over time every second equal to 18%/22%/<shuzhi>26%</>/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR11_2"
+  },
+  "suit_SSR11_3" : {
+    "twopc" : "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/30%/36%/<shuzhi>42%</>.",
+    "fourpc" : "Crits deal additional damage over time every second equal to 18%/22%/26%/<shuzhi>30%</> of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR11_3"
+  },
+  "suit_SSR12_0" : {
+    "twopc" : "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an <shuzhi>11%</>/13%/15%/17% damage reduction and lasts for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "After gaining an HP Shield, increase ATK by <shuzhi>6%</>/7.5%/9%/11.5% and increase the ATK of allies by <shuzhi>3%</>/3.5%/4.5%/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR12_0"
+  },
+  "suit_SSR12_1" : {
+    "twopc" : "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an 11%/<shuzhi>13%</>/15%/17% damage reduction and lasts for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "After gaining an HP Shield, increase ATK by 6%/<shuzhi>7.5%</>/9%/11.5% and increase the ATK of allies by 3%/<shuzhi>3.5%</>/4.5%/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR12_1"
+  },
+  "suit_SSR12_2" : {
+    "twopc" : "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an 11%/13%/<shuzhi>15%</>/17% damage reduction and lasts for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "After gaining an HP Shield, increase ATK by 6%/7.5%/<shuzhi>9%</>/11.5% and increase the ATK of allies by 3%/3.5%/<shuzhi>4.5%</>/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR12_2"
+  },
+  "suit_SSR12_3" : {
+    "twopc" : "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an 11%/13%/15%/<shuzhi>17%</> damage reduction and lasts for <shuzhi>15</> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "After gaining an HP Shield, increase ATK by 6%/7.5%/9%/<shuzhi>11.5%</> and increase the ATK of allies by 3%/3.5%/4.5%/<shuzhi>5.75%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR12_3"
+  },
+  "suit_SSR13_0" : {
+    "twopc" : "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by <shuzhi>15%</>/18%/21%/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+    "fourpc" : "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to <shuzhi>106%</>/122%/140%/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to <shuzhi>530%</>/610%/700%/800%. In addition, increase shatter by <shuzhi>7%</>/14%/21%/28% for <shuzhi>4</> seconds. This effect does not stack. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR13_0"
+  },
+  "suit_SSR13_1" : {
+    "twopc" : "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/<shuzhi>18%</>/21%/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+    "fourpc" : "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/<shuzhi>122%</>/140%/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/<shuzhi>610%</>/700%/800%. In addition, increase shatter by 7%/<shuzhi>14%</>/21%/28% for 4 seconds. This effect does not stack. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR13_1"
+  },
+  "suit_SSR13_2" : {
+    "twopc" : "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/18%/<shuzhi>21%</>/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+    "fourpc" : "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/122%/<shuzhi>140%</>/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/610%/<shuzhi>700%</>/800%. In addition, increase shatter by 7%/14%/<shuzhi>21%</>/28% for 4 seconds. This effect does not stack. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR13_2"
+  },
+  "suit_SSR13_3" : {
+    "twopc" : "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/18%/21%/<shuzhi>25%</> for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+    "fourpc" : "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/122%/140%/<shuzhi>160%</> of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/610%/700%/<shuzhi>800%</>. In addition, increase shatter by 7%/14%/21%/<shuzhi>28%</> for 4 seconds. This effect does not stack. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR13_3"
+  },
+  "suit_SSR14_0" : {
+    "twopc" : "When a target is being healed, their volt ATK is increased by <shuzhi>8%</>/10%/12%/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast Lightning, dealing volt damage equal to <shuzhi>240%</>/300%/360%/420% of volt ATK on the first target hit, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in <shuzhi>10</> seconds. Lightning charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR14_0"
+  },
+  "suit_SSR14_1" : {
+    "twopc" : "When a target is being healed, their volt ATK is increased by 8%/<shuzhi>10%</>/12%/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast Lightning, dealing volt damage equal to 240%/<shuzhi>300%</>/360%/420% of volt ATK on the first target hit, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in <shuzhi>10</> seconds. Lightning charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR14_1"
+  },
+  "suit_SSR14_2" : {
+    "twopc" : "When a target is being healed, their volt ATK is increased by 8%/10%/<shuzhi>12%</>/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast Lightning, dealing volt damage equal to 240%/300%/<shuzhi>360%</>/420% of volt ATK on the first target hit, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in <shuzhi>10</> seconds. Lightning charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR14_2"
+  },
+  "suit_SSR14_3" : {
+    "twopc" : "When a target is being healed, their volt ATK is increased by 8%/10%/12%/<shuzhi>15%</> for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+    "fourpc" : "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast Lightning, dealing volt damage equal to 240%/300%/360%/<shuzhi>420%</> of volt ATK on the first target hit, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in <shuzhi>10</> seconds. Lightning charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR14_3"
+  },
+  "suit_SSR15_0" : {
+    "twopc" : "Increase frost ATK by <shuzhi>8%</>/10%/12%/15% for <shuzhi>10</> seconds when switching between frost weapons. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When unleashing a Frost Domain with the weapon \"Balmung,\" enemies within the Frost Domain receive frost damage equal to <shuzhi>55%</>/65%/75%/85% of ATK every second.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR15_0"
+  },
+  "suit_SSR15_1" : {
+    "twopc" : "Increase frost ATK by <shuzhi>10%</> for <shuzhi>10</> seconds when switching between frost weapons. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When unleashing a Frost Domain with the weapon \"Balmung,\" enemies within the Frost Domain receive frost damage equal to 55%/<shuzhi>65%</>/75%/85% of ATK every second.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR15_1"
+  },
+  "suit_SSR15_2" : {
+    "twopc" : "Increase frost ATK by <shuzhi>12%</> for <shuzhi>10</> seconds when switching between frost weapons. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When unleashing a Frost Domain with the weapon \"Balmung,\" enemies within the Frost Domain receive frost damage equal to 55%/65%/<shuzhi>75%</>/85% of ATK every second.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR15_2"
+  },
+  "suit_SSR15_3" : {
+    "twopc" : "Increase frost ATK by <shuzhi>15%</> for <shuzhi>10</> seconds when switching between frost weapons. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "When unleashing a Frost Domain with the weapon \"Balmung,\" enemies within the Frost Domain receive frost damage equal to 55%/65%/75%/<shuzhi>85%</> of ATK every second.",
+    "numberst" : [],
+    "numbersf" : [],
+    "id" : "suit_SSR15_3"
+  },
+  "suit_SSR16_0" : {
+    "twopc" : "Increases flame ATK after casting weapon skill by <shuzhi>{0}%</>/{1}%/{2}%/{3}% for <shuzhi>25</> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack.",
+    "fourpc" : "Grant Mastery after casting weapon skill for <shuzhi>15</> seconds, with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% every time the target is hit with a normal attack until the end of Mastery. Stacks up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, gain a shield that can block damage <shuzhi>1</> time.",
+    "numbermap" : "FunnelEffectFigure",
+    "numberst" : [
+      "Matrix31Level1FireAtk",
+      "Matrix31Level2FireAtk",
+      "Matrix31Level3FireAtk",
+      "Matrix31Level4FireAtk"
+    ],
+    "numbersf" : [
+      "Matrix32Level1FireDamUp",
+      "Matrix32Level2FireDamUp",
+      "Matrix32Level3FireDamUp",
+      "Matrix32Level4FireDamUp"
+    ],
+    "id" : "suit_SSR16_0"
+  },
+  "suit_SSR16_1" : {
+    "twopc" : "Increases flame ATK after casting weapon skill by {0}%/<shuzhi>{1}%</>/{2}%/{3}% for <shuzhi>25</> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack.",
+    "fourpc" : "Grant Mastery after casting weapon skill for <shuzhi>15</> seconds, with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% every time the target is hit with a normal attack until the end of Mastery. Stacks up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, gain a shield that can block damage <shuzhi>1</> time.",
+    "numbermap" : "FunnelEffectFigure",
+    "numberst" : [
+      "Matrix31Level1FireAtk",
+      "Matrix31Level2FireAtk",
+      "Matrix31Level3FireAtk",
+      "Matrix31Level4FireAtk"
+    ],
+    "numbersf" : [
+      "Matrix32Level1FireDamUp",
+      "Matrix32Level2FireDamUp",
+      "Matrix32Level3FireDamUp",
+      "Matrix32Level4FireDamUp"
+    ],
+    "id" : "suit_SSR16_1"
+  },
+  "suit_SSR16_2" : {
+    "twopc" : "Increases flame ATK after casting weapon skill by {0}%/{1}%/<shuzhi>{2}%</>/{3}% for <shuzhi>25</> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack.",
+    "fourpc" : "Grant Mastery after casting weapon skill for <shuzhi>15</> seconds, with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by {0}%/{1}%/<shuzhi>{2}</>%/{3}% every time the target is hit with a normal attack until the end of Mastery. Stacks up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, gain a shield that can block damage <shuzhi>1</> time.",
+    "numbermap" : "FunnelEffectFigure",
+    "numberst" : [
+      "Matrix31Level1FireAtk",
+      "Matrix31Level2FireAtk",
+      "Matrix31Level3FireAtk",
+      "Matrix31Level4FireAtk"
+    ],
+    "numbersf" : [
+      "Matrix32Level1FireDamUp",
+      "Matrix32Level2FireDamUp",
+      "Matrix32Level3FireDamUp",
+      "Matrix32Level4FireDamUp"
+    ],
+    "id" : "suit_SSR16_2"
+  },
+  "suit_SSR16_3" : {
+    "twopc" : "Increases flame ATK after casting weapon skill by {0}%/{1}%/{2}%/<shuzhi>{3}%</> for <shuzhi>25</> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack.",
+    "fourpc" : "Grant Mastery after casting weapon skill for <shuzhi>15</> seconds, with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> every time the target is hit with a normal attack until the end of Mastery. Stacks up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, gain a shield that can block damage <shuzhi>1</> time.",
+    "numbermap" : "FunnelEffectFigure",
+    "numberst" : [
+      "Matrix31Level1FireAtk",
+      "Matrix31Level2FireAtk",
+      "Matrix31Level3FireAtk",
+      "Matrix31Level4FireAtk"
+    ],
+    "numbersf" : [
+      "Matrix32Level1FireDamUp",
+      "Matrix32Level2FireDamUp",
+      "Matrix32Level3FireDamUp",
+      "Matrix32Level4FireDamUp"
+    ],
+    "id" : "suit_SSR16_3"
+  },
+  "suit_SSR17_0" : {
+    "twopc" : "When Frost Resonance gets triggered: Every <shuzhi>{0}</> seconds, deal frost damage equal to <shuzhi>65%</>/80%/95%/110% of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict {2}% slow effect that lasts for <shuzhi>{1}</> seconds, freeze targets for <shuzhi>{3}</> seconds at 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <shuzhi>{4}%</> for <shuzhi>{5}</> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Attack the target <shuzhi>10</> times to inflict a {0}-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by <shuzhi>{1}%</>/{2}%/{3}%/{4}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_33_Level1_Effect_Period",
+      "Buff_Matrix_33_IceStack_Duration",
+      "Buff_Matrix_33_IceStack_SpeedDown",
+      "Buff_Matrix_33_frozen_3s",
+      "Buff_Matrix_33_IceDefDown",
+      "Buff_Matrix_33_IceDefDown_Duration"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_34_IceMark_Duration",
+      "Buff_Matrix_34_Level1_Effect",
+      "Buff_Matrix_34_Level2_Effect",
+      "Buff_Matrix_34_Level3_Effect",
+      "Buff_Matrix_34_Level4_Effect"
+    ],
+    "id" : "suit_SSR17_0"
+  },
+  "suit_SSR17_1" : {
+    "twopc" : "When Frost Resonance gets triggered: Every <shuzhi>{0}</> seconds, deal frost damage equal to 65%/<shuzhi>80%</>/95%/110% of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict {2}% slow effect that lasts for <shuzhi>{1}</> seconds, freeze targets for <shuzhi>{3}</> seconds at 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <shuzhi>{4}%</> for <shuzhi>{5}</> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Attack the target <shuzhi>10</> times to inflict a {0}-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by {1}%/<shuzhi>{2}%</>/{3}%/{4}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_33_Level1_Effect_Period",
+      "Buff_Matrix_33_IceStack_Duration",
+      "Buff_Matrix_33_IceStack_SpeedDown",
+      "Buff_Matrix_33_frozen_3s",
+      "Buff_Matrix_33_IceDefDown",
+      "Buff_Matrix_33_IceDefDown_Duration"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_34_IceMark_Duration",
+      "Buff_Matrix_34_Level1_Effect",
+      "Buff_Matrix_34_Level2_Effect",
+      "Buff_Matrix_34_Level3_Effect",
+      "Buff_Matrix_34_Level4_Effect"
+    ],
+    "id" : "suit_SSR17_1"
+  },
+  "suit_SSR17_2" : {
+    "twopc" : "When Frost Resonance gets triggered: Every <shuzhi>{0}</> seconds, deal frost damage equal to 65%/80%/<shuzhi>95%</>/110% of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict {2}% slow effect that lasts for <shuzhi>{1}</> seconds, freeze targets for <shuzhi>{3}</> seconds at 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <shuzhi>{4}%</> for <shuzhi>{5}</> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Attack the target <shuzhi>10</> times to inflict a {0}-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by {1}%/{2}%/<shuzhi>{3}%</>/{4}%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_33_Level1_Effect_Period",
+      "Buff_Matrix_33_IceStack_Duration",
+      "Buff_Matrix_33_IceStack_SpeedDown",
+      "Buff_Matrix_33_frozen_3s",
+      "Buff_Matrix_33_IceDefDown",
+      "Buff_Matrix_33_IceDefDown_Duration"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_34_IceMark_Duration",
+      "Buff_Matrix_34_Level1_Effect",
+      "Buff_Matrix_34_Level2_Effect",
+      "Buff_Matrix_34_Level3_Effect",
+      "Buff_Matrix_34_Level4_Effect"
+    ],
+    "id" : "suit_SSR17_2"
+  },
+  "suit_SSR17_3" : {
+    "twopc" : "When Frost Resonance gets triggered: Every <shuzhi>{0}</> seconds, deal frost damage equal to 65%/80%/95%/<shuzhi>110%</> of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict {2}% slow effect that lasts for <shuzhi>{1}</> seconds, freeze targets for <shuzhi>{3}</> seconds at 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <shuzhi>{4}%</> for <shuzhi>{5}</> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "fourpc" : "Attack the target <shuzhi>10</> times to inflict a {0}-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by {1}%/{2}%/{3}%/<shuzhi>{4}%</>. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "DkatanaEffectFigure",
+    "numberst" : [
+      "Buff_Matrix_33_Level1_Effect_Period",
+      "Buff_Matrix_33_IceStack_Duration",
+      "Buff_Matrix_33_IceStack_SpeedDown",
+      "Buff_Matrix_33_frozen_3s",
+      "Buff_Matrix_33_IceDefDown",
+      "Buff_Matrix_33_IceDefDown_Duration"
+    ],
+    "numbersf" : [
+      "Buff_Matrix_34_IceMark_Duration",
+      "Buff_Matrix_34_Level1_Effect",
+      "Buff_Matrix_34_Level2_Effect",
+      "Buff_Matrix_34_Level3_Effect",
+      "Buff_Matrix_34_Level4_Effect"
+    ],
+    "id" : "suit_SSR17_3"
+  },
+  "suit_SSR18_0" : {
+    "twopc" : "Increase ATK by <shuzhi>{0}%</>/{1}%/{2}%/{3}% on hit for 18 seconds, stacking up to 5 times. Only the highest level is effective when effects are duplicated.",
+    "fourpc" : "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by <shuzhi>{0}%</>/{1}%/{2}%/{3}% for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "FanEffectFigure",
+    "numberst" : [
+      "FanLevel1AtkUp",
+      "FanLevel2AtkUp",
+      "FanLevel3AtkUp",
+      "FanLevel4AtkUp"
+    ],
+    "numbersf" : [
+      "FanLevel1FinalDamUp",
+      "FanLevel2FinalDamUp",
+      "FanLevel3FinalDamUp",
+      "FanLevel4FinalDamUp"
+    ],
+    "id" : "suit_SSR18_0"
+  },
+  "suit_SSR18_1" : {
+    "twopc" : "Increase ATK by {0}%/<shuzhi>{1}%</>/{2}%/{3}% on hit for 18 seconds, stacking up to 5 times. Only the highest level is effective when effects are duplicated.",
+    "fourpc" : "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by {0}%/<shuzhi>{1}%</>/{2}%/{3}% for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "FanEffectFigure",
+    "numberst" : [
+      "FanLevel1AtkUp",
+      "FanLevel2AtkUp",
+      "FanLevel3AtkUp",
+      "FanLevel4AtkUp"
+    ],
+    "numbersf" : [
+      "FanLevel1FinalDamUp",
+      "FanLevel2FinalDamUp",
+      "FanLevel3FinalDamUp",
+      "FanLevel4FinalDamUp"
+    ],
+    "id" : "suit_SSR18_1"
+  },
+  "suit_SSR18_2" : {
+    "twopc" : "Increase ATK by {0}%/{1}%/<shuzhi>{2}%</>/{3}% on hit for 18 seconds, stacking up to 5 times. Only the highest level is effective when effects are duplicated.",
+    "fourpc" : "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by {0}%/{1}%/<shuzhi>{2}%</>/{3}% for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "FanEffectFigure",
+    "numberst" : [
+      "FanLevel1AtkUp",
+      "FanLevel2AtkUp",
+      "FanLevel3AtkUp",
+      "FanLevel4AtkUp"
+    ],
+    "numbersf" : [
+      "FanLevel1FinalDamUp",
+      "FanLevel2FinalDamUp",
+      "FanLevel3FinalDamUp",
+      "FanLevel4FinalDamUp"
+    ],
+    "id" : "suit_SSR18_2"
+  },
+  "suit_SSR18_3" : {
+    "twopc" : "Increase ATK by {0}%/{1}%/{2}%/<shuzhi>{3}%</> on hit for 18 seconds, stacking up to 5 times. Only the highest level is effective when effects are duplicated.",
+    "fourpc" : "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by {0}%/{1}%/{2}%/<shuzhi>{3}%</> for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.",
+    "numbermap" : "FanEffectFigure",
+    "numberst" : [
+      "FanLevel1AtkUp",
+      "FanLevel2AtkUp",
+      "FanLevel3AtkUp",
+      "FanLevel4AtkUp"
+    ],
+    "numbersf" : [
+      "FanLevel1FinalDamUp",
+      "FanLevel2FinalDamUp",
+      "FanLevel3FinalDamUp",
+      "FanLevel4FinalDamUp"
+    ],
+    "id" : "suit_SSR18_3"
+  },
+  "suit_SSR19_0" : {
+    "twopc" : "Use this weapon to increase all attack types by <shuzhi>{0}%</>/{1}%/{2}%/{3}%. The lower the HP, the higher the healing received, which can be increased by up to <shuzhi>{4}%</>.",
+    "fourpc" : "When dealing physical damage, increase physical damage by <shuzhi>{0}%</> with a cooldown of <shuzhi>0.1</> seconds. Stack up to <shuzhi>5</> times. Upon reaching the maximum stacks, increase physical damage by an additional <shuzhi>{1}%</>/{2}%/{3}%/{4}% for <shuzhi>5</> seconds. Only the highest star rating's effect is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <shuzhi>{5}%</> of current HP, but not less than <shuzhi>{6}%</> of Max HP. Stack up to <shuzhi>3</> blocks for <shuzhi>{7} seconds</>.",
+    "numbermap" : "ArmEffectFigure",
+    "numberst" : [
+      "Matrix37AtkAddMulLevel1",
+      "Matrix37AtkAddMulLevel2",
+      "Matrix37AtkAddMulLevel3",
+      "Matrix37AtkAddMulLevel4",
+      "Matrix37TreatAddMul"
+    ],
+    "numbersf" : [
+      "Matrix38PhyDamMul",
+      "Matrix38PhyDamMulLevel1",
+      "Matrix38PhyDamMulLevel2",
+      "Matrix38PhyDamMulLevel3",
+      "Matrix38PhyDamMulLevel4",
+      "Matrix38BlockCurHp",
+      "Matrix38BlockMaxHp",
+      "Matrix38BlockDuration"
+    ],
+    "id" : "suit_SSR19_0"
+  },
+  "suit_SSR19_1" : {
+    "twopc" : "Use this weapon to increase all attack types by {0}%/<shuzhi>{1}%</>/{2}%/{3}%. The lower the HP, the higher the healing received, which can be increased by up to <shuzhi>{4}%</>.",
+    "fourpc" : "When dealing physical damage, increase physical damage by <shuzhi>{0}%</> with a cooldown of <shuzhi>0.1</> seconds. Stack up to <shuzhi>5</> times. Upon reaching the maximum stacks, increase physical damage by an additional {1}%/<shuzhi>{2}%</>/{3}%/{4}% for <shuzhi>5</> seconds. Only the highest star rating's effect is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <shuzhi>{5}%</> of current HP, but not less than <shuzhi>{6}%</> of Max HP. Stack up to <shuzhi>3</> blocks for <shuzhi>{7} seconds</>.",
+    "numbermap" : "ArmEffectFigure",
+    "numberst" : [
+      "Matrix37AtkAddMulLevel1",
+      "Matrix37AtkAddMulLevel2",
+      "Matrix37AtkAddMulLevel3",
+      "Matrix37AtkAddMulLevel4",
+      "Matrix37TreatAddMul"
+    ],
+    "numbersf" : [
+      "Matrix38PhyDamMul",
+      "Matrix38PhyDamMulLevel1",
+      "Matrix38PhyDamMulLevel2",
+      "Matrix38PhyDamMulLevel3",
+      "Matrix38PhyDamMulLevel4",
+      "Matrix38BlockCurHp",
+      "Matrix38BlockMaxHp",
+      "Matrix38BlockDuration"
+    ],
+    "id" : "suit_SSR19_1"
+  },
+  "suit_SSR19_2" : {
+    "twopc" : "Use this weapon to increase all attack types by {0}%/{1}%/<shuzhi>{2}%</>/{3}%. The lower the HP, the higher the healing received, which can be increased by up to <shuzhi>{4}%</>.",
+    "fourpc" : "When dealing physical damage, increase physical damage by <shuzhi>{0}%</> with a cooldown of <shuzhi>0.1</> seconds. Stack up to <shuzhi>5</> times. Upon reaching the maximum stacks, increase physical damage by an additional {1}%/{2}%/<shuzhi>{3}%</>/{4}% for <shuzhi>5</> seconds. Only the highest star rating's effect is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <shuzhi>{5}%</> of current HP, but not less than <shuzhi>{6}%</> of Max HP. Stack up to <shuzhi>3</> blocks for <shuzhi>{7} seconds</>.",
+    "numbermap" : "ArmEffectFigure",
+    "numberst" : [
+      "Matrix37AtkAddMulLevel1",
+      "Matrix37AtkAddMulLevel2",
+      "Matrix37AtkAddMulLevel3",
+      "Matrix37AtkAddMulLevel4",
+      "Matrix37TreatAddMul"
+    ],
+    "numbersf" : [
+      "Matrix38PhyDamMul",
+      "Matrix38PhyDamMulLevel1",
+      "Matrix38PhyDamMulLevel2",
+      "Matrix38PhyDamMulLevel3",
+      "Matrix38PhyDamMulLevel4",
+      "Matrix38BlockCurHp",
+      "Matrix38BlockMaxHp",
+      "Matrix38BlockDuration"
+    ],
+    "id" : "suit_SSR19_2"
+  },
+  "suit_SSR19_3" : {
+    "twopc" : "Use this weapon to increase all attack types by {0}%/{1}%/{2}%/<shuzhi>{3}%</>. The lower the HP, the higher the healing received, which can be increased by up to <shuzhi>{4}%</>.",
+    "fourpc" : "When dealing physical damage, increase physical damage by <shuzhi>{0}%</> with a cooldown of <shuzhi>0.1</> seconds. Stack up to <shuzhi>5</> times. Upon reaching the maximum stacks, increase physical damage by an additional {1}%/{2}%/{3}%/<shuzhi>{4}%</> for <shuzhi>5</> seconds. Only the highest star rating's effect is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <shuzhi>{5}%</> of current HP, but not less than <shuzhi>{6}%</> of Max HP. Stack up to <shuzhi>3</> blocks for <shuzhi>{7} seconds</>.",
+    "numbermap" : "ArmEffectFigure",
+    "numberst" : [
+      "Matrix37AtkAddMulLevel1",
+      "Matrix37AtkAddMulLevel2",
+      "Matrix37AtkAddMulLevel3",
+      "Matrix37AtkAddMulLevel4",
+      "Matrix37TreatAddMul"
+    ],
+    "numbersf" : [
+      "Matrix38PhyDamMul",
+      "Matrix38PhyDamMulLevel1",
+      "Matrix38PhyDamMulLevel2",
+      "Matrix38PhyDamMulLevel3",
+      "Matrix38PhyDamMulLevel4",
+      "Matrix38BlockCurHp",
+      "Matrix38BlockMaxHp",
+      "Matrix38BlockDuration"
+    ],
+    "id" : "suit_SSR19_3"
+  }
+}
