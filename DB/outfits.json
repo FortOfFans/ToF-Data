@@ -1,0 +1,843 @@
+{
+  "fashion_dress_44" : {
+    "type" : "Dress",
+    "icon" : "fashion_f45",
+    "id" : "fashion_dress_44"
+  },
+  "fashion_dress_41" : {
+    "name" : "Wild Beat",
+    "description" : "DNT",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f42",
+    "id" : "fashion_dress_41"
+  },
+  "fashion_dress_40" : {
+    "name" : "Dynamic Youth",
+    "type" : "Dress",
+    "source" : "Obtain Pass",
+    "icon" : "fashion_f41",
+    "id" : "fashion_dress_40"
+  },
+  "fashion_dress_39" : {
+    "name" : "Rosy Banquet",
+    "description" : "On a day when real ghosts and fiends can blend in with the festive crowd unnoticed, put this on and attend a costume party that smells like danger...",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f40",
+    "id" : "fashion_dress_39"
+  },
+  "fashion_dress_38" : {
+    "name" : "Whimsical Movement",
+    "description" : "Play to your heart's content before the night fades, before the candles burn out.",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f39",
+    "id" : "fashion_dress_38"
+  },
+  "fashion_dress_37" : {
+    "name" : "Dawn",
+    "description" : "Go far away to witness the miracle",
+    "type" : "Dress",
+    "icon" : "fashion_f37",
+    "id" : "fashion_dress_37"
+  },
+  "fashion_dress_36" : {
+    "name" : "Race the Wind",
+    "description" : "Youth is to be bold and do the unthinkable.",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f36",
+    "id" : "fashion_dress_36"
+  },
+  "fashion_dress_35" : {
+    "name" : "Academy Era",
+    "description" : "Vows of the past are like the colorful bookmarks in that textbook.",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f35",
+    "id" : "fashion_dress_35"
+  },
+  "fashion_dress_34" : {
+    "name" : "Clear Rainbow",
+    "description" : "With a summertime mood like this, every day should be spent in joy.",
+    "type" : "Dress",
+    "source" : "Fourth Pass Limited Rewards",
+    "icon" : "fashion_f34",
+    "id" : "fashion_dress_34"
+  },
+  "fashion_dress_33" : {
+    "name" : "Seaside Vacation",
+    "description" : "It's time to kick back and relax! I heard that Banges is having a Graceday Celebration event...",
+    "type" : "Dress",
+    "source" : "Summer Seabreeze",
+    "icon" : "fashion_f33",
+    "id" : "fashion_dress_33"
+  },
+  "fashion_dress_32" : {
+    "name" : "Silent Wings",
+    "description" : "I witnessed the battleship burning on the fringe of Orion.",
+    "type" : "Dress",
+    "source" : "Third Pass Limited Rewards",
+    "icon" : "fashion_m32",
+    "id" : "fashion_dress_32"
+  },
+  "fashion_dress_31" : {
+    "name" : "Fluffy Party",
+    "description" : "This is the Fluffy Party! A furry look is the ticket!",
+    "type" : "Dress",
+    "icon" : "fashion_f31",
+    "id" : "fashion_dress_31"
+  },
+  "fashion_dress_30" : {
+    "name" : "Lucky Streak",
+    "description" : "L'Oréal Men Outfit",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f29",
+    "id" : "fashion_dress_30"
+  },
+  "fashion_dress_29" : {
+    "name" : "Fantasy",
+    "description" : "Descend from the firework-filled sky, and rise from the soul of music. Dance the first delicate steps toward the golden age of fantasy.",
+    "type" : "Dress",
+    "source" : "Wheel of Fantasy",
+    "icon" : "fashion_f28",
+    "id" : "fashion_dress_29"
+  },
+  "fashion_dress_26" : {
+    "name" : "Starlight",
+    "description" : "Upon wearing this dress, a sense of mission will arise... one that pushes the wearer to work hard all day and night to perform official duties.",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f26",
+    "id" : "fashion_dress_26"
+  },
+  "fashion_dress_25" : {
+    "name" : "Desert Aurora",
+    "description" : "Put away your tired body and wear a coat of rough gravel. Welcome to this land of sand.",
+    "type" : "Dress",
+    "icon" : "fashion_f25",
+    "id" : "fashion_dress_25"
+  },
+  "fashion_dress_18" : {
+    "name" : "Wasteland",
+    "description" : "Marketed as both \"gorgeous and dangerous,\" this outfit marks a breakthrough in the designer's craft, inspired by classical design.",
+    "type" : "Dress",
+    "source" : "First Pass Limited Rewards",
+    "icon" : "fashion_f03",
+    "id" : "fashion_dress_18"
+  },
+  "fashion_dress_17" : {
+    "name" : "Forget Me Not",
+    "description" : "An outfit suitable for extremely high-temperature environments. Provides adventurers with only the most basic shelter.",
+    "type" : "Dress",
+    "source" : "Order Gift",
+    "icon" : "fashion_f07",
+    "id" : "fashion_dress_17"
+  },
+  "fashion_dress_16" : {
+    "name" : "Rising Gale",
+    "description" : "Exhibit a sporty style that matches your youthfulness and vitality!",
+    "type" : "Dress",
+    "source" : "Obtained from the level 75 pack.",
+    "icon" : "fashion_f04",
+    "id" : "fashion_dress_16"
+  },
+  "fashion_dress_15" : {
+    "name" : "Machine Era",
+    "description" : "In a world where human modification becomes increasingly commonplace, the intersection of function and fashion becomes all the more important, as well.",
+    "type" : "Dress",
+    "icon" : "fashion_f11",
+    "id" : "fashion_dress_15"
+  },
+  "fashion_dress_14" : {
+    "name" : "Operation: Streamer",
+    "description" : "An experiment in both fashion and technology, featuring optical cloaking materials inlaid in the cloth and decorated with suspension components.",
+    "type" : "Dress",
+    "icon" : "fashion_f06",
+    "id" : "fashion_dress_14"
+  },
+  "fashion_dress_13" : {
+    "name" : "Sunbeam Voyager",
+    "description" : "Prioritizing functionality above all, this lightweight garment is equipped with a buckle for carrying additional items—a popular choice among those with more itinerant lifestyles.",
+    "type" : "Dress",
+    "icon" : "fashion_f01",
+    "id" : "fashion_dress_13"
+  },
+  "fashion_dress_12" : {
+    "name" : "Nightwalk",
+    "description" : "A prominent fashion designer's first foray into creating combat attire. Aside from being fashionably relevant, the torso is also equipped with ultra-thin alloy armor plating.",
+    "type" : "Dress",
+    "icon" : "fashion_f10",
+    "id" : "fashion_dress_12"
+  },
+  "fashion_dress_1" : {
+    "name" : "Scavenger Outfit",
+    "description" : "A simple and practical outfit for scavengers.",
+    "type" : "Dress",
+    "source" : "Reach 85% Crown exploration",
+    "icon" : "fashion_f15",
+    "id" : "fashion_dress_1"
+  },
+  "fashion_dress_19" : {
+    "name" : "Absolute Order",
+    "description" : "A suit designed in accordance with the uniform of a governmental department before the Cataclysm. Effects a dignified and serious air.",
+    "type" : "Dress",
+    "icon" : "fashion_f18",
+    "id" : "fashion_dress_19"
+  },
+  "fashion_dress_9" : {
+    "name" : "Conqueror",
+    "description" : "A lightweight and durable adventurer's suit with plenty of pockets. The best choice for long-distance travel.",
+    "type" : "Dress",
+    "source" : "Reach 85% Astra exploration",
+    "icon" : "fashion_f14",
+    "id" : "fashion_dress_9"
+  },
+  "fashion_dress_2" : {
+    "name" : "Universal Work Clothes",
+    "description" : "Warm, light, and breathable work clothes. Suitable for areas with minimal temperature change.",
+    "type" : "Dress",
+    "icon" : "fashion_f09",
+    "id" : "fashion_dress_2"
+  },
+  "fashion_dress_10" : {
+    "name" : "Last Stand",
+    "description" : "Geared towards mobility-minded adventurers, this outfit completely abandons any protective design considerations.",
+    "type" : "Dress",
+    "icon" : "fashion_f02",
+    "id" : "fashion_dress_10"
+  },
+  "fashion_dress_5" : {
+    "name" : "Visitor in the Snow",
+    "description" : "A cold-resistant combat suit with powerful heat preservation functionality. Can resist low temperatures in severely cold regions.",
+    "type" : "Dress",
+    "source" : "Reach 85% Warren exploration",
+    "icon" : "fashion_f17",
+    "id" : "fashion_dress_5"
+  },
+  "fashion_dress_11" : {
+    "name" : "Desperado",
+    "description" : "A rough and wild style, designed for adventurers who like to show off their personality.",
+    "type" : "Dress",
+    "icon" : "fashion_f08",
+    "id" : "fashion_dress_11"
+  },
+  "fashion_dress_3" : {
+    "name" : "Wastelands Wanderer",
+    "description" : "The first combat suit with a split upper and lower design, breaking the shackles of tradition. However, the exposed torso has proved to be a polarizing aspect among critics.",
+    "type" : "Dress",
+    "source" : "Reach 85% Banges exploration",
+    "icon" : "fashion_f13",
+    "id" : "fashion_dress_3"
+  },
+  "fashion_dress_6" : {
+    "name" : "Roamer",
+    "description" : "The Hykros suit made of a material that maintains a constant temperature. Can keep you warm while protecting you from the sun. A sensible choice for travelers.",
+    "type" : "Dress",
+    "source" : "Reach 85% Navia exploration",
+    "icon" : "fashion_f16",
+    "id" : "fashion_dress_6"
+  },
+  "fashion_dress_7" : {
+    "name" : "The Mission",
+    "description" : "Combat attire that boasts excellent malleability, as well as an ergonomic design that perfectly conforms to human skin.",
+    "type" : "Dress",
+    "icon" : "fashion_f05",
+    "id" : "fashion_dress_7"
+  },
+  "fashion_dress_8" : {
+    "name" : "Star Sand",
+    "description" : "Combat attire that boasts excellent malleability, as well as an ergonomic design that perfectly conforms to human skin.",
+    "type" : "Dress",
+    "source" : "15M Official Website Preorder Reward",
+    "icon" : "fashion_f12",
+    "id" : "fashion_dress_8"
+  },
+  "fashion_dress_20" : {
+    "name" : "Fruity Candy",
+    "description" : "What flavor is today's candy?",
+    "type" : "Dress",
+    "source" : "From purchase events",
+    "icon" : "fashion_f19",
+    "id" : "fashion_dress_20"
+  },
+  "fashion_dress_21" : {
+    "name" : "Midnight",
+    "description" : "Danger and opportunity lie ahead. Let us step into that night and go on an adventure.",
+    "type" : "Dress",
+    "source" : "Available at the Banges Expo event",
+    "icon" : "fashion_f20",
+    "id" : "fashion_dress_21"
+  },
+  "fashion_dress_22" : {
+    "name" : "Era",
+    "description" : "The core design concept of this casual sportswear is \"rebellion, passion, and showiness.\" Those who see this can't help remembering the times before they moved to Aida on the Distant Beacon.",
+    "type" : "Dress",
+    "source" : "From the Apricity giftbox event",
+    "icon" : "fashion_f21",
+    "id" : "fashion_dress_22"
+  },
+  "fashion_dress_23" : {
+    "name" : "Early Sakura",
+    "description" : "An outfit made for the early spring out of soft fabrics, as soft as cherry blossom petals slowly floating down onto one's shoulders.",
+    "type" : "Dress",
+    "source" : "Available at the Banges Expo event",
+    "icon" : "fashion_f22",
+    "id" : "fashion_dress_23"
+  },
+  "fashion_dress_24" : {
+    "name" : "Desert Exploration",
+    "description" : "An outfit that combines practicality and comfort. Suitable for exploration in the desert.",
+    "type" : "Dress",
+    "source" : "From events",
+    "icon" : "fashion_f23",
+    "id" : "fashion_dress_24"
+  },
+  "fashion_decoration_0" : {
+    "name" : "Undecorated",
+    "description" : "No accessories",
+    "type" : "Headwear",
+    "icon" : "kong",
+    "id" : "fashion_decoration_0"
+  },
+  "fashion_decoration_27" : {
+    "name" : "Goggles",
+    "description" : "Wear them and be transformed into the talk of the town!",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_019",
+    "id" : "fashion_decoration_27"
+  },
+  "fashion_decoration_26" : {
+    "name" : "Demon Doctor",
+    "description" : "Are you my test subject for today?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_018",
+    "id" : "fashion_decoration_26"
+  },
+  "fashion_decoration_2" : {
+    "name" : "Charming Glasses",
+    "description" : "Simple decorative glasses.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_03",
+    "id" : "fashion_decoration_2"
+  },
+  "fashion_decoration_4" : {
+    "name" : "Red Heart Eye Mask",
+    "description" : "Have you ever been blinded by love?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_04",
+    "id" : "fashion_decoration_4"
+  },
+  "fashion_decoration_5" : {
+    "name" : "Pirate Eye Mask",
+    "description" : "Sorry, I really don't know how to draw bones.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_05",
+    "id" : "fashion_decoration_5"
+  },
+  "fashion_decoration_11" : {
+    "name" : "Feast",
+    "description" : "This mask that covers your face is an invitation to the feast. Come and dance!",
+    "type" : "Headwear",
+    "source" : "Reach 85% Artificial Island exploration",
+    "icon" : "fashion_icon_shipin_042",
+    "id" : "fashion_decoration_11"
+  },
+  "fashion_decoration_21" : {
+    "name" : "Pink Glasses",
+    "description" : "Has the world turned pink?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_014",
+    "id" : "fashion_decoration_21"
+  },
+  "fashion_decoration_28" : {
+    "name" : "Black Goat Horns",
+    "description" : "If sheep go to heaven, where do goats go?",
+    "type" : "Headwear",
+    "source" : "From the Apricity giftbox event",
+    "icon" : "fashion_icon_shipin_020",
+    "id" : "fashion_decoration_28"
+  },
+  "fashion_decoration_29" : {
+    "name" : "White Gauze Eye Mask",
+    "description" : "Originally used as a medical eyepatch, it somehow became a popular fashion accessory. Wearing it supposedly makes you look cooler, which adds to its popularity.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_032",
+    "id" : "fashion_decoration_29"
+  },
+  "fashion_decoration_31" : {
+    "name" : "Black Eye Band",
+    "description" : "This type of eyewear shot up in popularity after the superstar Udamu was seen wearing them and has no shortage of imitators... But can you really see that well after putting them on?",
+    "type" : "Headwear",
+    "source" : "Apex League - Star General Rank Results",
+    "icon" : "fashion_icon_shipin_031",
+    "id" : "fashion_decoration_31"
+  },
+  "fashion_decoration_32" : {
+    "name" : "Particle Lens",
+    "description" : "Features an ultra-high-performance microcomputer that can take photos according to your visual distance and intraocular imaging, and analyzes the composition and structure of all objects in front of you.",
+    "type" : "Headwear",
+    "source" : "Apex League - Battle Lord Rank Results",
+    "icon" : "fashion_icon_shipin_030",
+    "id" : "fashion_decoration_32"
+  },
+  "fashion_decoration_33" : {
+    "name" : "Windchaser Hairband",
+    "description" : "A fashionable hairband that is very popular in Banges. Sporting a simple shape as well as unique patterns and colors, this item sells out almost as soon as it hit the shelves.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_029",
+    "id" : "fashion_decoration_33"
+  },
+  "fashion_decoration_34" : {
+    "name" : "Admiral's Shades",
+    "description" : "Originally made for seafarers, these shades suddenly became popular in Banges due to their unique shape and color, and later a symbol of high fashion.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_028",
+    "id" : "fashion_decoration_34"
+  },
+  "fashion_decoration_35_bilibili" : {
+    "name" : "ACE Eye Mask",
+    "description" : "Have you ever been blinded by love?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_035",
+    "id" : "fashion_decoration_35_bilibili"
+  },
+  "fashion_decoration_36_haoyou" : {
+    "name" : "Swimmer's Eye Mask",
+    "description" : "Have you ever been blinded by love?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_033",
+    "id" : "fashion_decoration_36_haoyou"
+  },
+  "fashion_decoration_37_jiuyou" : {
+    "name" : "Series 9 Eye Mask",
+    "description" : "Have you ever been blinded by love?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_034",
+    "id" : "fashion_decoration_37_jiuyou"
+  },
+  "fashion_decoration_38_oppo" : {
+    "name" : "Progressive Professor",
+    "description" : "Are you my test subject for today?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_036",
+    "id" : "fashion_decoration_38_oppo"
+  },
+  "fashion_decoration_39_huawei" : {
+    "name" : "White Gauze Eyepatch",
+    "description" : "Originally used as a medical eyepatch, it somehow became a popular fashion accessory. Wearing it supposedly makes you look cooler, which adds to its popularity.",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_032",
+    "id" : "fashion_decoration_39_huawei"
+  },
+  "fashion_decoration_40_tap" : {
+    "name" : "Dr. Tap",
+    "description" : "Are you my test subject for today?",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_040",
+    "id" : "fashion_decoration_40_tap"
+  },
+  "fashion_decoration_41_douliu" : {
+    "name" : "Eye Mask",
+    "description" : "Douliu Community Exclusive",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_041",
+    "id" : "fashion_decoration_41_douliu"
+  },
+  "fashion_decoration_42_heihe" : {
+    "name" : "Top Wanderers",
+    "description" : "Black Box Collab Edition",
+    "type" : "Headwear",
+    "icon" : "fashion_icon_shipin_20_heihe",
+    "id" : "fashion_decoration_42_heihe"
+  },
+  "fashion_decoration_43" : {
+    "name" : "Disguise Sunglasses",
+    "description" : "So long as I'm wearing these sunglasses, no one seems to recognize me... Why is that?",
+    "type" : "Headwear",
+    "source" : "Reach 85% Artificial Island Outer Island exploration",
+    "icon" : "fashion_icon_shipin_045",
+    "id" : "fashion_decoration_43"
+  },
+  "fashion_decoration_44" : {
+    "name" : "Steel Lizard Mask",
+    "description" : "I can't explain this to you, because I'm merely just a steel lizard hatchling.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_046",
+    "id" : "fashion_decoration_44"
+  },
+  "fashion_decoration_47" : {
+    "name" : "Bubblegum",
+    "description" : "We've already secured it, so don't be afraid of blowing too much and breaking it.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_057",
+    "id" : "fashion_decoration_47"
+  },
+  "fashion_decoration_48" : {
+    "name" : "Rolled Whistle",
+    "description" : "An affordable childhood memory toy. A lovely addition to parties as well.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_053",
+    "id" : "fashion_decoration_48"
+  },
+  "fashion_decoration_49" : {
+    "name" : "Whistle",
+    "description" : "Atten-tion! At ease!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_054",
+    "id" : "fashion_decoration_49"
+  },
+  "fashion_decoration_50" : {
+    "name" : "Orange Eyepiece",
+    "description" : "It's capable of many things such as blocking impacts, analyzing battlefield data, protecting you from flashbangs, and more.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_058",
+    "id" : "fashion_decoration_50"
+  },
+  "fashion_decoration_51" : {
+    "name" : "Pacifier",
+    "description" : "In this day and age, who out of all people isn't a baby?",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_051",
+    "id" : "fashion_decoration_51"
+  },
+  "fashion_decoration_52" : {
+    "name" : "Toot-Toot",
+    "description" : "A decorative face mask that was once popular in Mirroria. Spread the cuteness!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_061",
+    "id" : "fashion_decoration_52"
+  },
+  "fashion_decoration_53" : {
+    "name" : "Nothing Happened",
+    "description" : "A decorative face mask that was once popular in Mirroria. Blushes hidden no longer!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_062",
+    "id" : "fashion_decoration_53"
+  },
+  "fashion_decoration_54" : {
+    "name" : "Pile",
+    "description" : "A decorative face mask that was once popular in Mirroria. This model is said to be the best-selling one.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_063",
+    "id" : "fashion_decoration_54"
+  },
+  "fashion_decoration_55" : {
+    "name" : "Seal",
+    "description" : "A decorative face mask that was once popular in Mirroria. The two colors on it suggest the conflict of dual personalities.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_064",
+    "id" : "fashion_decoration_55"
+  },
+  "fashion_decoration_56" : {
+    "name" : "Construct",
+    "description" : "A decorative face mask that was once popular in Mirroria. This face mask is in fact, a disguise for body components.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_065",
+    "id" : "fashion_decoration_56"
+  },
+  "fashion_decoration_57" : {
+    "name" : "Hush",
+    "description" : "A decorative face mask that was once popular in Mirroria. Hush... Only silence from here on out now.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_066",
+    "id" : "fashion_decoration_57"
+  },
+  "fashion_decoration_58" : {
+    "name" : "Cloak",
+    "description" : "A decorative face mask that was once popular in Mirroria. Conceal your true feelings of the moment.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_067",
+    "id" : "fashion_decoration_58"
+  },
+  "fashion_decoration_64" : {
+    "name" : "Electric Wave Mask",
+    "description" : "Due to the influence of unknown electric waves, one can't help but put on this mask. It's time to set off in search of your own kind!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_073",
+    "id" : "fashion_decoration_64"
+  },
+  "fashion_decoration_65" : {
+    "name" : "Monocle of Truth",
+    "description" : "Lies, hypocrisies, crimes... All these beautiful falsehoods are exposed through this glass.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_076",
+    "id" : "fashion_decoration_65"
+  },
+  "fashion_decoration_66" : {
+    "name" : "Starry Glasses",
+    "description" : "I'm the brightest star in the kindergarten!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_078",
+    "id" : "fashion_decoration_66"
+  },
+  "fashion_decoration_67" : {
+    "name" : "Radiant Glasses",
+    "description" : "Hot-selling glasses popular among entertainment venues in Mirroria. Supposedly can identify the songs being played and display their titles on the lens. That is just too cool!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_077",
+    "id" : "fashion_decoration_67"
+  },
+  "fashion_decoration_68" : {
+    "name" : "Hanging Silk",
+    "description" : "There are always some tiny little things with no good values other than being watched.",
+    "type" : "Headwear",
+    "source" : "From pack purchase",
+    "icon" : "fashion_icon_shipin_085",
+    "id" : "fashion_decoration_68"
+  },
+  "fashion_decoration_69" : {
+    "name" : "Amplification Goggles",
+    "description" : "Looks familiar... Am I able to see the world in her eyes?",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_086",
+    "id" : "fashion_decoration_69"
+  },
+  "fashion_decoration_70" : {
+    "name" : "Grapes Bubblegum",
+    "description" : "Smells like grapes on the breath.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_094",
+    "id" : "fashion_decoration_70"
+  },
+  "fashion_decoration_71" : {
+    "name" : "Sunshine Pacifier",
+    "description" : "Vibrant little sun! Grow up quickly!",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_093",
+    "id" : "fashion_decoration_71"
+  },
+  "fashion_decoration_72" : {
+    "name" : "Twinkling Starry Glasses",
+    "description" : "Twinkle twinkle.",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_096",
+    "id" : "fashion_decoration_72"
+  },
+  "fashion_decoration_73" : {
+    "name" : "Fisherman's Glasses",
+    "description" : "Fisherman's Glasses",
+    "type" : "Headwear",
+    "source" : "From events",
+    "icon" : "fashion_icon_shipin_100",
+    "id" : "fashion_decoration_73"
+  },
+  "fashion_weapon_1" : {
+    "name" : "Greatsword",
+    "description" : "Greatsword",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_1"
+  },
+  "fashion_weapon_2" : {
+    "name" : "Spear",
+    "description" : "Spear",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_2"
+  },
+  "fashion_weapon_3" : {
+    "name" : "Bow",
+    "description" : "Bow",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_3"
+  },
+  "fashion_weapon_4" : {
+    "name" : "Hammer",
+    "description" : "Steam Hammer",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_4"
+  },
+  "fashion_weapon_5" : {
+    "name" : "Pulsar Blaster",
+    "description" : "Pulsar Blaster",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_5"
+  },
+  "fashion_weapon_6" : {
+    "name" : "Long Spear",
+    "description" : "Long Spear",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_6"
+  },
+  "fashion_weapon_7" : {
+    "name" : "Two-Handed Sword",
+    "description" : "Two-Handed Sword",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_7"
+  },
+  "fashion_weapon_8" : {
+    "name" : "One-Handed Sword",
+    "description" : "One-Handed Sword",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_8"
+  },
+  "fashion_weapon_9" : {
+    "name" : "Scythe",
+    "description" : "Scythe",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_9"
+  },
+  "fashion_weapon_10" : {
+    "name" : "Staff",
+    "description" : "Staff",
+    "type" : "Weapon",
+    "source" : "Store 2",
+    "icon" : "None",
+    "id" : "fashion_weapon_10"
+  },
+  "fashion_glider_1" : {
+    "name" : "Jetpack",
+    "description" : "Jetpack",
+    "type" : "Glider",
+    "icon" : "gilder_1",
+    "id" : "fashion_glider_1"
+  },
+  "fashion_glider_2" : {
+    "name" : "Orion",
+    "description" : "Tired of the Jetpack's look? It's time to add something new to your flight experience!",
+    "type" : "Glider",
+    "source" : "15M Official Website Preorder Reward",
+    "icon" : "glider_2",
+    "id" : "fashion_glider_2"
+  },
+  "fashion_skateboard_1" : {
+    "name" : "Jetboard 2",
+    "description" : "Jetboard 2",
+    "type" : "Skateboard",
+    "source" : "Store 2",
+    "icon" : "Item_Skate_004",
+    "id" : "fashion_skateboard_1"
+  },
+  "fashion_suspension_skateboard_1" : {
+    "name" : "Jetboard 2",
+    "description" : "Jetboard 2",
+    "type" : "SuspensionSkateboard",
+    "source" : "Store 2",
+    "icon" : "Item_Skate_004",
+    "id" : "fashion_suspension_skateboard_1"
+  },
+  "fashion_Guidenpc_mia_1" : {
+    "type" : "GuideNPC",
+    "icon" : "avatar_13",
+    "id" : "fashion_Guidenpc_mia_1"
+  },
+  "fashion_Guidenpc_mia_3" : {
+    "name" : "Dressy Mi-a",
+    "description" : "Dressy Mi-a",
+    "type" : "GuideNPC",
+    "icon" : "avatar_14",
+    "id" : "fashion_Guidenpc_mia_3"
+  },
+  "fashion_Guidenpc_mia_2" : {
+    "name" : "Maid Mi-a",
+    "description" : "Maid Mi-a",
+    "type" : "GuideNPC",
+    "icon" : "avatar_12",
+    "id" : "fashion_Guidenpc_mia_2"
+  },
+  "fashion_Guidenpc_mia_4" : {
+    "name" : "Explorer Mi-a",
+    "description" : "Explorer Mi-a",
+    "type" : "GuideNPC",
+    "source" : "Obtained from Twilight Zone exploration",
+    "icon" : "avatar_25",
+    "id" : "fashion_Guidenpc_mia_4"
+  },
+  "fashion_Guidenpc_mia_5" : {
+    "name" : "Lucky Mi-a",
+    "description" : "Mi-a might bring good luck!",
+    "type" : "GuideNPC",
+    "icon" : "guidenpc_avatar_5",
+    "id" : "fashion_Guidenpc_mia_5"
+  },
+  "fashion_Guidenpc_mia_6" : {
+    "name" : "Panda Mi-a",
+    "description" : "Don't take Mi-a's bag and eat it!",
+    "type" : "GuideNPC",
+    "icon" : "guidenpc_avatar_6",
+    "id" : "fashion_Guidenpc_mia_6"
+  },
+  "fashion_Guidenpc_mia_7" : {
+    "name" : "Cutie Mi-a",
+    "description" : "Cute as a button... Are you talking about Mi-a or her backpack?",
+    "type" : "GuideNPC",
+    "icon" : "guidenpc_avatar_7",
+    "id" : "fashion_Guidenpc_mia_7"
+  },
+  "fashion_Guidenpc_mia_8" : {
+    "name" : "Swimsuit Mi-a",
+    "description" : "Don't forget Mi-a when going to the beach!",
+    "type" : "GuideNPC",
+    "icon" : "256mia010",
+    "id" : "fashion_Guidenpc_mia_8"
+  },
+  "fashion_Guidenpc_mia_9" : {
+    "name" : "Halloween Mi-a",
+    "type" : "GuideNPC",
+    "icon" : "256mia011",
+    "id" : "fashion_Guidenpc_mia_9"
+  },
+  "fashion_Guidenpc_mia_oversea_1" : {
+    "name" : "Garuda Mi-a",
+    "description" : "The inspiration for this came from the mythical giant bird Shelly came across in a mysterious ancient book. It looks to be a perfect match for the flying Mi-a.",
+    "type" : "GuideNPC",
+    "icon" : "256mia012",
+    "id" : "fashion_Guidenpc_mia_oversea_1"
+  },
+  "fashion_Guidenpc_mia_10" : {
+    "name" : "Reindeer Mi-a",
+    "description" : "Just as described in so many tales, Mi-a had prepared her gifts long beforehand, and eagerly awaited the coming of that night.",
+    "type" : "GuideNPC",
+    "source" : "From events",
+    "icon" : "256mia013",
+    "id" : "fashion_Guidenpc_mia_10"
+  },
+  "fashion_Guidenpc_mia_11" : {
+    "name" : "Bunny Mi-a",
+    "description" : "This isn't Dolly! I wouldn't want to hug the wrong one!",
+    "type" : "GuideNPC",
+    "source" : "From events",
+    "icon" : "256mia014",
+    "id" : "fashion_Guidenpc_mia_11"
+  }
+}

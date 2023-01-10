@@ -1,0 +1,267 @@
+{
+  "imitation_29" : {
+    "name" : "Tian Lang",
+    "description" : "Unknown",
+    "advanceId" : "imitation_29L1",
+    "icon" : "imitation_29",
+    "id" : "imitation_29"
+  },
+  "imitation_24" : {
+    "name" : "Lyra",
+    "description" : "Unknown",
+    "advanceId" : "imitation_24L1",
+    "icon" : "imitation_24",
+    "id" : "imitation_24"
+  },
+  "imitation_23" : {
+    "name" : "Lin",
+    "description" : "Unknown",
+    "advanceId" : "imitation_23L1",
+    "icon" : "imitation_23",
+    "id" : "imitation_23"
+  },
+  "imitation_22" : {
+    "name" : "Saki Fuwa",
+    "description" : "Unknown",
+    "advanceId" : "imitation_22L1",
+    "icon" : "imitation_22",
+    "id" : "imitation_22"
+  },
+  "imitation_21" : {
+    "name" : "Ruby",
+    "description" : "Unknown",
+    "advanceId" : "imitation_21L1",
+    "icon" : "imitation_21",
+    "id" : "imitation_21"
+  },
+  "imitation_28" : {
+    "name" : "Frigg",
+    "description" : "Unknown",
+    "advanceId" : "imitation_28L1",
+    "icon" : "imitation_28",
+    "id" : "imitation_28"
+  },
+  "imitation_17" : {
+    "name" : "Nemesis",
+    "description" : "Unknown",
+    "advanceId" : "imitation_17L1",
+    "icon" : "imitation_17",
+    "id" : "imitation_17"
+  },
+  "imitation_1" : {
+    "name" : "Zero",
+    "description" : "Unknown",
+    "advanceId" : "imitation_1L1",
+    "icon" : "imitation_1",
+    "id" : "imitation_1"
+  },
+  "imitation_2" : {
+    "name" : "Ene",
+    "description" : "Unknown",
+    "icon" : "imitation_2",
+    "id" : "imitation_2"
+  },
+  "imitation_3" : {
+    "name" : "Meryl",
+    "description" : "Unknown",
+    "advanceId" : "imitation_3L1",
+    "icon" : "imitation_3",
+    "id" : "imitation_3"
+  },
+  "imitation_4" : {
+    "name" : "Echo",
+    "description" : "Unknown",
+    "icon" : "imitation_4",
+    "id" : "imitation_4"
+  },
+  "imitation_5" : {
+    "name" : "Samir",
+    "description" : "Unknown",
+    "advanceId" : "imitation_5L1",
+    "icon" : "imitation_5",
+    "id" : "imitation_5"
+  },
+  "imitation_6" : {
+    "name" : "Huma",
+    "description" : "Unknown",
+    "advanceId" : "imitation_6L1",
+    "icon" : "imitation_6",
+    "id" : "imitation_6"
+  },
+  "imitation_7" : {
+    "name" : "Tsubasa",
+    "description" : "Unknown",
+    "advanceId" : "imitation_7L1",
+    "icon" : "imitation_7",
+    "id" : "imitation_7"
+  },
+  "imitation_8" : {
+    "name" : "Shiro",
+    "description" : "Unknown",
+    "advanceId" : "imitation_8L1",
+    "icon" : "imitation_8",
+    "id" : "imitation_8"
+  },
+  "imitation_9" : {
+    "description" : "Unknown",
+    "advanceId" : "imitation_9L1",
+    "icon" : "imitation_9",
+    "id" : "imitation_9"
+  },
+  "imitation_10" : {
+    "name" : "Cobalt-B",
+    "description" : "Unknown",
+    "advanceId" : "imitation_10L1",
+    "icon" : "imitation_10",
+    "id" : "imitation_10"
+  },
+  "imitation_11" : {
+    "name" : "Cocoritter",
+    "description" : "Unknown",
+    "advanceId" : "imitation_11L1",
+    "icon" : "imitation_11",
+    "id" : "imitation_11"
+  },
+  "imitation_12" : {
+    "name" : "Claudia",
+    "description" : "Unknown",
+    "advanceId" : "imitation_12L1",
+    "icon" : "imitation_12",
+    "id" : "imitation_12"
+  },
+  "imitation_13" : {
+    "name" : "Crow",
+    "description" : "Unknown",
+    "advanceId" : "imitation_13L1",
+    "icon" : "imitation_13",
+    "id" : "imitation_13"
+  },
+  "imitation_14" : {
+    "name" : "Pepper",
+    "description" : "Unknown",
+    "icon" : "imitation_14",
+    "id" : "imitation_14"
+  },
+  "imitation_15" : {
+    "name" : "Hilda",
+    "description" : "Unknown",
+    "icon" : "imitation_15",
+    "id" : "imitation_15"
+  },
+  "imitation_16" : {
+    "name" : "Bai Ling",
+    "description" : "Unknown",
+    "icon" : "imitation_16",
+    "id" : "imitation_16"
+  },
+  "imitation_1L1" : {
+    "name" : "Zero",
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_1",
+    "id" : "imitation_1L1"
+  },
+  "imitation_3L1" : {
+    "name" : "Meryl",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_3",
+    "id" : "imitation_3L1"
+  },
+  "imitation_5L1" : {
+    "name" : "Samir",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_5",
+    "id" : "imitation_5L1"
+  },
+  "imitation_6L1" : {
+    "name" : "Huma",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_6",
+    "id" : "imitation_6L1"
+  },
+  "imitation_7L1" : {
+    "name" : "Tsubasa",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_7",
+    "id" : "imitation_7L1"
+  },
+  "imitation_8L1" : {
+    "name" : "Shiro",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_8",
+    "id" : "imitation_8L1"
+  },
+  "imitation_9L1" : {
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_9",
+    "id" : "imitation_9L1"
+  },
+  "imitation_10L1" : {
+    "name" : "Cobalt-B",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_10",
+    "id" : "imitation_10L1"
+  },
+  "imitation_11L1" : {
+    "name" : "Cocoritter",
+    "description" : "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
+    "icon" : "erjie_imitation_11",
+    "id" : "imitation_11L1"
+  },
+  "imitation_12L1" : {
+    "name" : "Claudia",
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_12",
+    "id" : "imitation_12L1"
+  },
+  "imitation_13L1" : {
+    "name" : "Crow",
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_13",
+    "id" : "imitation_13L1"
+  },
+  "imitation_17L1" : {
+    "name" : "Nemesis",
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_17",
+    "id" : "imitation_17L1"
+  },
+  "imitation_28L1" : {
+    "name" : "Frigg",
+    "description" : "Unknown",
+    "advanceId" : "None",
+    "icon" : "erjie_imitation_28",
+    "id" : "imitation_28L1"
+  },
+  "imitation_22L1" : {
+    "name" : "Saki Fuwa",
+    "description" : "Unknown",
+    "advanceId" : "imitation_22L1",
+    "icon" : "erjie_imitation_22",
+    "id" : "imitation_22L1"
+  },
+  "imitation_23L1" : {
+    "name" : "Lin",
+    "description" : "Unknown",
+    "icon" : "erjie_imitation_23",
+    "id" : "imitation_23L1"
+  },
+  "imitation_21L1" : {
+    "name" : "Ruby",
+    "description" : "Unknown",
+    "icon" : "imitation_21L1",
+    "id" : "imitation_21L1"
+  },
+  "imitation_24L1" : {
+    "name" : "Lyra",
+    "description" : "Unknown",
+    "icon" : "imitation_24L1",
+    "id" : "imitation_24L1"
+  },
+  "imitation_29L1" : {
+    "name" : "Tian Lang",
+    "description" : "Unknown",
+    "advanceId" : "imitation_29L1",
+    "icon" : "erjie_imitation_29",
+    "id" : "imitation_29L1"
+  }
+}
